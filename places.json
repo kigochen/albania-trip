@@ -1,0 +1,2403 @@
+{
+  "version": "1.0",
+  "tripInfo": {
+    "destination": "阿爾巴尼亞",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-14",
+    "base": "地拉那（阿爾巴尼亞定點深度遊）",
+    "totalDays": 14
+  },
+  "places": [
+    {
+      "id": "drs-beach-1",
+      "name": "Durrës Beach",
+      "nameZh": "都拉斯海灘",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "kid-friendly",
+        "crowded",
+        "sunset"
+      ],
+      "coordinates": [
+        41.31,
+        19.47
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Beach@41.31,19.47"
+    },
+    {
+      "id": "drs-amphitheater-1",
+      "name": "Durrës Amphitheatre",
+      "nameZh": "都拉斯圓形劇場",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "coordinates": [
+        41.316,
+        19.447
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës Amphitheatre&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Amphitheatre@41.316,19.447"
+    },
+    {
+      "id": "drs-castle-1",
+      "name": "Durrës Castle",
+      "nameZh": "都拉斯城堡",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "historic",
+      "tags": [
+        "history",
+        "sunset"
+      ],
+      "coordinates": [
+        41.308,
+        19.443
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Castle@41.308,19.443"
+    },
+    {
+      "id": "drs-roman-villa-1",
+      "name": "Roman Villa of Durrës",
+      "nameZh": "都拉斯羅馬別墅",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "historic",
+      "tags": [
+        "history",
+        "family"
+      ],
+      "coordinates": [
+        41.312,
+        19.45
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Roman Villa of Durrës&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman Villa of Durrës@41.312,19.45"
+    },
+    {
+      "id": "drs-bay-1",
+      "name": "Durrës Bay",
+      "nameZh": "都拉斯灣",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "scenic",
+      "tags": [
+        "sunset",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        41.305,
+        19.475
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës Bay&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Bay@41.305,19.475"
+    },
+    {
+      "id": "drs-wetland-1",
+      "name": "Kune-Vain Lagoon",
+      "nameZh": "庫內-瓦因瀉湖",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "nature",
+      "tags": [
+        "bird-watching",
+        "secluded"
+      ],
+      "coordinates": [
+        41.58,
+        19.56
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kune-Vain Lagoon&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kune-Vain Lagoon@41.58,19.56"
+    },
+    {
+      "id": "vlr-beach-1",
+      "name": "Vlorë Beach",
+      "nameZh": "發羅海灘",
+      "city": "Vlorë",
+      "cityZh": "發羅",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "kid-friendly",
+        "sunset"
+      ],
+      "coordinates": [
+        40.466,
+        19.485
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vlorë Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë Beach@40.466,19.485"
+    },
+    {
+      "id": "vlr-karaburun-1",
+      "name": "Karaburun Peninsula",
+      "nameZh": "卡拉伯倫半島",
+      "city": "Vlorë",
+      "cityZh": "發羅",
+      "region": "coastal",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "secluded",
+        "mountain"
+      ],
+      "coordinates": [
+        40.38,
+        19.38
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Karaburun Peninsula&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun Peninsula@40.38,19.38"
+    },
+    {
+      "id": "vlr-sazan-1",
+      "name": "Sazan Island",
+      "nameZh": "薩贊島",
+      "city": "Vlorë",
+      "cityZh": "發羅",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "diving",
+        "snorkeling",
+        "secluded"
+      ],
+      "coordinates": [
+        40.5,
+        19.28
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Sazan Island&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan Island@40.5,19.28"
+    },
+    {
+      "id": "vlr-akrolli-1",
+      "name": "Akrolli Coastal Tower",
+      "nameZh": "阿克羅利海岸塔",
+      "city": "Vlorë",
+      "cityZh": "發羅",
+      "region": "coastal",
+      "category": "historic",
+      "tags": [
+        "history",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.44,
+        19.46
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Akrolli Coastal Tower&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akrolli Coastal Tower@40.44,19.46"
+    },
+    {
+      "id": "vlr-dyrmishi-1",
+      "name": "Dymishti Waterfall",
+      "nameZh": "迪米斯蒂瀑布",
+      "city": "Vlorë",
+      "cityZh": "發羅",
+      "region": "coastal",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "hiking"
+      ],
+      "coordinates": [
+        40.51,
+        19.62
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Dymishti Waterfall&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dymishti Waterfall@40.51,19.62"
+    },
+    {
+      "id": "vlr-zvernec-1",
+      "name": "Zvernec Island",
+      "nameZh": "茲維爾內茨島",
+      "city": "Vlorë",
+      "cityZh": "發羅",
+      "region": "coastal",
+      "category": "scenic",
+      "tags": [
+        "instagram-worthy",
+        "sunset"
+      ],
+      "coordinates": [
+        40.51,
+        19.4
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Zvernec Island&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zvernec Island@40.51,19.4"
+    },
+    {
+      "id": "vlr-narta-1",
+      "name": "Narta Lagoon",
+      "nameZh": "納爾塔瀉湖",
+      "city": "Vlorë",
+      "cityZh": "發羅",
+      "region": "coastal",
+      "category": "nature",
+      "tags": [
+        "bird-watching",
+        "secluded"
+      ],
+      "coordinates": [
+        40.52,
+        19.42
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Narta Lagoon&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta Lagoon@40.52,19.42"
+    },
+    {
+      "id": "sar-beach-1",
+      "name": "Sarandë Beach",
+      "nameZh": "希格拉海灘",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "kid-friendly",
+        "crowded",
+        "sunset"
+      ],
+      "coordinates": [
+        39.875,
+        20.01
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Sarandë Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë Beach@39.875,20.01"
+    },
+    {
+      "id": "sar-ksamil-1",
+      "name": "Ksamil Beach",
+      "nameZh": "克薩米爾海灘",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "instagram-worthy",
+        "sunset",
+        "kid-friendly"
+      ],
+      "coordinates": [
+        39.77,
+        20.005
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Ksamil Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Beach@39.77,20.005"
+    },
+    {
+      "id": "sar-ksamil-islands-1",
+      "name": "Ksamil Islands",
+      "nameZh": "克薩米爾群島",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "snorkeling",
+        "diving",
+        "secluded"
+      ],
+      "coordinates": [
+        39.76,
+        19.995
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Ksamil Islands&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Islands@39.76,19.995"
+    },
+    {
+      "id": "sar-butrint-1",
+      "name": "Butrint Ancient City",
+      "nameZh": "布特林特古城",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "coordinates": [
+        39.745,
+        20.03
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Butrint Ancient City&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint Ancient City@39.745,20.03"
+    },
+    {
+      "id": "sar-blue-eye-1",
+      "name": "The Blue Eye",
+      "nameZh": "藍眼泉",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "hiking"
+      ],
+      "coordinates": [
+        39.89,
+        20.13
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=The Blue Eye&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Blue Eye@39.89,20.13"
+    },
+    {
+      "id": "sar-buka-1",
+      "name": "Buna River Delta",
+      "nameZh": "布納河三角洲",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "bird-watching"
+      ],
+      "coordinates": [
+        39.82,
+        20.15
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Buna River Delta&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River Delta@39.82,20.15"
+    },
+    {
+      "id": "sar-kanali-1",
+      "name": "Kanal Beach",
+      "nameZh": "運河海灘",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "kid-friendly",
+        "sunset"
+      ],
+      "coordinates": [
+        39.855,
+        20.02
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kanal Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal Beach@39.855,20.02"
+    },
+    {
+      "id": "sar-hilo-1",
+      "name": "Hilo Beach",
+      "nameZh": "希洛海灘",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "instagram-worthy",
+        "secluded"
+      ],
+      "coordinates": [
+        39.865,
+        20.035
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Hilo Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hilo Beach@39.865,20.035"
+    },
+    {
+      "id": "sar-mirror-1",
+      "name": "Mirror Beach",
+      "nameZh": "鏡子海灘",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "scenic",
+      "tags": [
+        "instagram-worthy",
+        "sunset"
+      ],
+      "coordinates": [
+        39.78,
+        20.015
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Mirror Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirror Beach@39.78,20.015"
+    },
+    {
+      "id": "riv-himara-1",
+      "name": "Himara Beach",
+      "nameZh": "希瑪拉海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "kid-friendly",
+        "sunset"
+      ],
+      "coordinates": [
+        40.105,
+        19.74
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Himara Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Beach@40.105,19.74"
+    },
+    {
+      "id": "riv-himara-old-1",
+      "name": "Himara Old Town",
+      "nameZh": "希瑪拉老城",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "coordinates": [
+        40.1,
+        19.73
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Himara Old Town&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Old Town@40.1,19.73"
+    },
+    {
+      "id": "riv-borsh-1",
+      "name": "Borsh Beach",
+      "nameZh": "博爾什海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "secluded",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.06,
+        19.69
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Borsh Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh Beach@40.06,19.69"
+    },
+    {
+      "id": "riv-dhermi-1",
+      "name": "Dhermi Beach",
+      "nameZh": "德赫爾米海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "sunset",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.025,
+        19.64
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Dhermi Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi Beach@40.025,19.64"
+    },
+    {
+      "id": "riv-jale-1",
+      "name": "Jale Beach",
+      "nameZh": "雅萊海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "diving",
+        "snorkeling"
+      ],
+      "coordinates": [
+        40.015,
+        19.62
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Jale Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale Beach@40.015,19.62"
+    },
+    {
+      "id": "riv-drimades-1",
+      "name": "Drimades Beach",
+      "nameZh": "德里馬德斯海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "secluded",
+        "sunset"
+      ],
+      "coordinates": [
+        39.98,
+        19.6
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Drimades Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drimades Beach@39.98,19.6"
+    },
+    {
+      "id": "riv-himaranta-1",
+      "name": "Himaranta Beach",
+      "nameZh": "希瑪蘭塔海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "kid-friendly"
+      ],
+      "coordinates": [
+        39.97,
+        19.59
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Himaranta Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himaranta Beach@39.97,19.59"
+    },
+    {
+      "id": "riv-vuno-1",
+      "name": "Vuno Beach",
+      "nameZh": "武諾海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "instagram-worthy",
+        "sunset"
+      ],
+      "coordinates": [
+        40.01,
+        19.58
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vuno Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno Beach@40.01,19.58"
+    },
+    {
+      "id": "riv-pilur-1",
+      "name": "Pilur Castle",
+      "nameZh": "皮魯爾城堡",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "historic",
+      "tags": [
+        "history",
+        "sunset"
+      ],
+      "coordinates": [
+        40.055,
+        19.65
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Pilur Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pilur Castle@40.055,19.65"
+    },
+    {
+      "id": "riv-qeparo-1",
+      "name": "Qeparo Beach",
+      "nameZh": "切帕羅海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "secluded"
+      ],
+      "coordinates": [
+        40.04,
+        19.67
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Qeparo Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo Beach@40.04,19.67"
+    },
+    {
+      "id": "riv-sheshi-1",
+      "name": "Porto Palermo Beach",
+      "nameZh": "波爾托帕拉莫海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "sunset",
+        "architecture"
+      ],
+      "coordinates": [
+        40.12,
+        19.72
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Porto Palermo Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto Palermo Beach@40.12,19.72"
+    },
+    {
+      "id": "riv-pasha-1",
+      "name": "Pasha Liman Beach",
+      "nameZh": "帕夏港海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "kid-friendly",
+        "sunset"
+      ],
+      "coordinates": [
+        40.08,
+        19.75
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Pasha Liman Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pasha Liman Beach@40.08,19.75"
+    },
+    {
+      "id": "riv-cape-1",
+      "name": "Cape of Gjiri i Kritis",
+      "nameZh": "克里特角",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "scenic",
+      "tags": [
+        "instagram-worthy",
+        "sunset"
+      ],
+      "coordinates": [
+        39.95,
+        19.57
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Cape of Gjiri i Kritis&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape of Gjiri i Kritis@39.95,19.57"
+    },
+    {
+      "id": "riv-fterra-1",
+      "name": "Fterra Beach",
+      "nameZh": "夫特拉海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "diving",
+        "secluded"
+      ],
+      "coordinates": [
+        40.03,
+        19.62
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Fterra Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra Beach@40.03,19.62"
+    },
+    {
+      "id": "riv-lukove-1",
+      "name": "Lukovë Beach",
+      "nameZh": "盧科韋海灘",
+      "city": "Albanian Riviera",
+      "cityZh": "里維耶拉",
+      "region": "riviera",
+      "category": "beach",
+      "tags": [
+        "instagram-worthy",
+        "secluded"
+      ],
+      "coordinates": [
+        39.93,
+        19.55
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Lukovë Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lukovë Beach@39.93,19.55"
+    },
+    {
+      "id": "tir-square-1",
+      "name": "Skanderbeg Square",
+      "nameZh": "斯坎德培廣場",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "urban"
+      ],
+      "coordinates": [
+        41.327,
+        19.818
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Skanderbeg Square&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg Square@41.327,19.818"
+    },
+    {
+      "id": "tir-mosque-1",
+      "name": "Et'hem Bey Mosque",
+      "nameZh": "埃特姆貝清真寺",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "coordinates": [
+        41.331,
+        19.821
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Et'hem Bey Mosque&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem Bey Mosque@41.331,19.821"
+    },
+    {
+      "id": "tir-bunker-1",
+      "name": "Bunker 21",
+      "nameZh": "21號地堡",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "instagram-worthy",
+        "history"
+      ],
+      "coordinates": [
+        41.318,
+        19.81
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Bunker 21&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker 21@41.318,19.81"
+    },
+    {
+      "id": "tir-clock-1",
+      "name": "Clock Tower of Tirana",
+      "nameZh": "地拉那鐘塔",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "sunset"
+      ],
+      "coordinates": [
+        41.329,
+        19.824
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Clock Tower of Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock Tower of Tirana@41.329,19.824"
+    },
+    {
+      "id": "tir-park-1",
+      "name": "Grand Park of Tirana",
+      "nameZh": "大地拉那公園",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "nature",
+      "tags": [
+        "kid-friendly",
+        "family"
+      ],
+      "coordinates": [
+        41.315,
+        19.8
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Grand Park of Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand Park of Tirana@41.315,19.8"
+    },
+    {
+      "id": "tir-lake-1",
+      "name": "Tirana Lake (Lake of Pazar)",
+      "nameZh": "帕扎爾湖",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "family"
+      ],
+      "coordinates": [
+        41.34,
+        19.84
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Tirana Lake (Lake of Pazar)&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana Lake (Lake of Pazar)@41.34,19.84"
+    },
+    {
+      "id": "tir-museum-1",
+      "name": "National History Museum",
+      "nameZh": "國家歷史博物館",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "history",
+        "family"
+      ],
+      "coordinates": [
+        41.319,
+        19.824
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=National History Museum&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National History Museum@41.319,19.824"
+    },
+    {
+      "id": "tir-blloku-1",
+      "name": "Blloku District",
+      "nameZh": "布洛庫區",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "food",
+        "urban",
+        "nightlife"
+      ],
+      "coordinates": [
+        41.319,
+        19.807
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Blloku District&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blloku District@41.319,19.807"
+    },
+    {
+      "id": "tir-mount-dajt-1",
+      "name": "Mount Dajti",
+      "nameZh": "達伊蒂山",
+      "city": "Tirana",
+      "cityZh": "地拉那",
+      "region": "central",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "scenic",
+        "sunrise"
+      ],
+      "coordinates": [
+        41.36,
+        19.91
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Mount Dajti&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount Dajti@41.36,19.91"
+    },
+    {
+      "id": "gji-castle-1",
+      "name": "Gjirokastër Castle",
+      "nameZh": "吉諾卡斯特城堡",
+      "city": "Gjirokastër",
+      "cityZh": "吉諾卡斯特",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture",
+        "sunset"
+      ],
+      "coordinates": [
+        40.076,
+        20.14
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Castle@40.076,20.14"
+    },
+    {
+      "id": "gji-zagarotti-1",
+      "name": "Zagarotti House",
+      "nameZh": "扎加羅蒂之家",
+      "city": "Gjirokastër",
+      "cityZh": "吉諾卡斯特",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "architecture",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.072,
+        20.135
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Zagarotti House&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti House@40.072,20.135"
+    },
+    {
+      "id": "gji-old-town-1",
+      "name": "Gjirokastër Old Town",
+      "nameZh": "吉諾卡斯特老城",
+      "city": "Gjirokastër",
+      "cityZh": "吉諾卡斯特",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.075,
+        20.138
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Old Town&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Old Town@40.075,20.138"
+    },
+    {
+      "id": "gji-safary-1",
+      "name": "Libohovë Palace",
+      "nameZh": "利博霍韋宮",
+      "city": "Gjirokastër",
+      "cityZh": "吉諾卡斯特",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "coordinates": [
+        40.05,
+        20.16
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Libohovë Palace&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libohovë Palace@40.05,20.16"
+    },
+    {
+      "id": "gji-sword-1",
+      "name": "The Stone Sword of Gjirokastër",
+      "nameZh": "吉諾卡斯特石劍",
+      "city": "Gjirokastër",
+      "cityZh": "吉諾卡斯特",
+      "region": "central",
+      "category": "scenic",
+      "tags": [
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.078,
+        20.145
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=The Stone Sword of Gjirokastër&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Stone Sword of Gjirokastër@40.078,20.145"
+    },
+    {
+      "id": "gji-enclosed-1",
+      "name": "Gjirokastër Enclosed City",
+      "nameZh": "封閉式山城",
+      "city": "Gjirokastër",
+      "cityZh": "吉諾卡斯特",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "history"
+      ],
+      "coordinates": [
+        40.07,
+        20.13
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Enclosed City&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Enclosed City@40.07,20.13"
+    },
+    {
+      "id": "ber-castle-1",
+      "name": "Berat Castle",
+      "nameZh": "培拉特城堡",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture",
+        "sunset"
+      ],
+      "coordinates": [
+        40.325,
+        19.95
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Berat Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat Castle@40.325,19.95"
+    },
+    {
+      "id": "gor-bridge-1",
+      "name": "Gorica Bridge",
+      "nameZh": "戈里察橋",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "architecture",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.32,
+        19.94
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gorica Bridge&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica Bridge@40.32,19.94"
+    },
+    {
+      "id": "ber-mangal-1",
+      "name": "Mangalemi Quarter",
+      "nameZh": "曼加利米區",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "architecture",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.323,
+        19.952
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Mangalemi Quarter&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalemi Quarter@40.323,19.952"
+    },
+    {
+      "id": "ber-church-1",
+      "name": "Church of St. Mary",
+      "nameZh": "聖母教堂",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "coordinates": [
+        40.326,
+        19.948
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Church of St. Mary&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church of St. Mary@40.326,19.948"
+    },
+    {
+      "id": "ber-kala-1",
+      "name": "Kala River",
+      "nameZh": "卡拉河",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "hiking"
+      ],
+      "coordinates": [
+        40.318,
+        19.935
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kala River&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kala River@40.318,19.935"
+    },
+    {
+      "id": "ber-hassan-1",
+      "name": "Hassan Bey Mosque",
+      "nameZh": "哈桑貝清真寺",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "city",
+      "tags": [
+        "architecture"
+      ],
+      "coordinates": [
+        40.322,
+        19.946
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Hassan Bey Mosque&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hassan Bey Mosque@40.322,19.946"
+    },
+    {
+      "id": "shk-rozafa-1",
+      "name": "Rozafa Castle",
+      "nameZh": "羅扎法城堡",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture",
+        "sunset"
+      ],
+      "coordinates": [
+        42.04,
+        19.93
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Rozafa Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa Castle@42.04,19.93"
+    },
+    {
+      "id": "shk-lake-1",
+      "name": "Shkodra Lake",
+      "nameZh": "斯庫台湖",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "bird-watching",
+        "family",
+        "kid-friendly"
+      ],
+      "coordinates": [
+        42.05,
+        19.62
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Shkodra Lake&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Lake@42.05,19.62"
+    },
+    {
+      "id": "shk-lezha-1",
+      "name": "Lezha Castle",
+      "nameZh": "萊扎城堡",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "historic",
+      "tags": [
+        "history"
+      ],
+      "coordinates": [
+        41.75,
+        19.63
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Lezha Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lezha Castle@41.75,19.63"
+    },
+    {
+      "id": "shk-vendor-1",
+      "name": "Vendotëna Tower",
+      "nameZh": "溫多托納塔",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "historic",
+      "tags": [
+        "history",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        42.07,
+        19.87
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vendotëna Tower&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vendotëna Tower@42.07,19.87"
+    },
+    {
+      "id": "shk-river-1",
+      "name": "Buna River",
+      "nameZh": "布納河",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "boat",
+        "nature"
+      ],
+      "coordinates": [
+        42.06,
+        19.6
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Buna River&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River@42.06,19.6"
+    },
+    {
+      "id": "shk-pema-1",
+      "name": "Pema e Thatë",
+      "nameZh": "白楊大道",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "scenic",
+      "tags": [
+        "instagram-worthy",
+        "sunset"
+      ],
+      "coordinates": [
+        42.045,
+        19.91
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Pema e Thatë&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pema e Thatë@42.045,19.91"
+    },
+    {
+      "id": "shk-bazaar-1",
+      "name": "Shkodra Bazaar",
+      "nameZh": "斯庫台市集",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "city",
+      "tags": [
+        "food",
+        "urban"
+      ],
+      "coordinates": [
+        42.038,
+        19.925
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Shkodra Bazaar&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Bazaar@42.038,19.925"
+    },
+    {
+      "id": "nth-theth-1",
+      "name": "Theth Village",
+      "nameZh": "特塞村",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "rural",
+        "alpine"
+      ],
+      "coordinates": [
+        42.38,
+        19.81
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Theth Village&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Village@42.38,19.81"
+    },
+    {
+      "id": "nth-theth-church-1",
+      "name": "Theth Church",
+      "nameZh": "特塞教堂",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "coordinates": [
+        42.382,
+        19.813
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Theth Church&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Church@42.382,19.813"
+    },
+    {
+      "id": "nth-valbona-1",
+      "name": "Valbona Valley",
+      "nameZh": "瓦爾博納山谷",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "mountain",
+        "alpine"
+      ],
+      "coordinates": [
+        42.42,
+        19.88
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Valbona Valley&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Valley@42.42,19.88"
+    },
+    {
+      "id": "nth-valbona-pass-1",
+      "name": "Valbona Pass",
+      "nameZh": "瓦爾博納山口",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "scenic",
+      "tags": [
+        "hiking",
+        "sunrise"
+      ],
+      "coordinates": [
+        42.4,
+        19.87
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Valbona Pass&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Pass@42.4,19.87"
+    },
+    {
+      "id": "nth-koman-1",
+      "name": "Koman Lake",
+      "nameZh": "科曼湖",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "boat",
+        "scenic"
+      ],
+      "coordinates": [
+        42.15,
+        19.92
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Koman Lake&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman Lake@42.15,19.92"
+    },
+    {
+      "id": "nth-koman-trail-1",
+      "name": "Koman–Valbona Trail",
+      "nameZh": "科曼-瓦爾博納步道",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "activity",
+      "tags": [
+        "hiking",
+        "alpine"
+      ],
+      "coordinates": [
+        42.2,
+        19.9
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Koman–Valbona Trail&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman–Valbona Trail@42.2,19.9"
+    },
+    {
+      "id": "nth-rrajca-1",
+      "name": "Rrajca Lake",
+      "nameZh": "拉伊卡湖",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "secluded"
+      ],
+      "coordinates": [
+        42.05,
+        20.05
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Rrajca Lake&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rrajca Lake@42.05,20.05"
+    },
+    {
+      "id": "nth-bogaj-1",
+      "name": "Bogaj Mountain Pass",
+      "nameZh": "博加伊山口",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "scenic",
+      "tags": [
+        "hiking",
+        "sunrise"
+      ],
+      "coordinates": [
+        42.35,
+        19.84
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Bogaj Mountain Pass&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogaj Mountain Pass@42.35,19.84"
+    },
+    {
+      "id": "nth-cedia-1",
+      "name": "Çedia e Fratit",
+      "nameZh": "弗拉蒂峰",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "scenic",
+      "tags": [
+        "hiking",
+        "sunrise"
+      ],
+      "coordinates": [
+        42.39,
+        19.83
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Çedia e Fratit&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Çedia e Fratit@42.39,19.83"
+    },
+    {
+      "id": "nth-kyr-1",
+      "name": "Kyrë e Madhe",
+      "nameZh": "大基爾峰",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "alpine"
+      ],
+      "coordinates": [
+        42.41,
+        19.85
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kyrë e Madhe&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyrë e Madhe@42.41,19.85"
+    },
+    {
+      "id": "nth-boge-1",
+      "name": "Bogë Village",
+      "nameZh": "博格村",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "rural",
+        "skiing"
+      ],
+      "coordinates": [
+        42.48,
+        19.8
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Bogë Village&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë Village@42.48,19.8"
+    },
+    {
+      "id": "nth-kukaj-1",
+      "name": "Kukaj Waterfall",
+      "nameZh": "庫卡伊瀑布",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "nature",
+        "hiking"
+      ],
+      "coordinates": [
+        42.37,
+        19.83
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kukaj Waterfall&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kukaj Waterfall@42.37,19.83"
+    },
+    {
+      "id": "nth-don-1",
+      "name": "Don Path",
+      "nameZh": "唐恩小徑",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "activity",
+      "tags": [
+        "hiking",
+        "secluded"
+      ],
+      "coordinates": [
+        42.395,
+        19.815
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Don Path&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don Path@42.395,19.815"
+    },
+    {
+      "id": "nth-pretash-1",
+      "name": "Pretash Lake",
+      "nameZh": "普雷塔什湖",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "hiking",
+        "secluded"
+      ],
+      "coordinates": [
+        42.44,
+        19.86
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Pretash Lake&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretash Lake@42.44,19.86"
+    },
+    {
+      "id": "nth-vukaj-1",
+      "name": "Vukaj Hot Springs",
+      "nameZh": "武凱溫泉",
+      "city": "Northern Mountains",
+      "cityZh": "北部山區",
+      "region": "mountain",
+      "category": "nature",
+      "tags": [
+        "activity",
+        "family"
+      ],
+      "coordinates": [
+        42.35,
+        19.82
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vukaj Hot Springs&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vukaj Hot Springs@42.35,19.82"
+    },
+    {
+      "id": "div-kruja-1",
+      "name": "Kruja Castle",
+      "nameZh": "克魯亞城堡",
+      "city": "Kruja",
+      "cityZh": "克魯亞",
+      "region": "central",
+      "category": "historic",
+      "tags": [
+        "history",
+        "architecture"
+      ],
+      "coordinates": [
+        41.507,
+        19.8
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kruja Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kruja Castle@41.507,19.8"
+    },
+    {
+      "id": "div-divjakara-1",
+      "name": "Divjakara Beach",
+      "nameZh": "迪維亞卡拉海灘",
+      "city": "Divjakara",
+      "cityZh": "迪維亞卡拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": [
+        "kid-friendly",
+        "sunset"
+      ],
+      "coordinates": [
+        40.87,
+        19.56
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Divjakara Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara Beach@40.87,19.56"
+    },
+    {
+      "id": "div-olive-1",
+      "name": "Adriatic Olive Groves",
+      "nameZh": "亞得里亞橄欖林",
+      "city": "Divjakara",
+      "cityZh": "迪維亞卡拉",
+      "region": "coastal",
+      "category": "scenic",
+      "tags": [
+        "instagram-worthy",
+        "sunset"
+      ],
+      "coordinates": [
+        40.9,
+        19.6
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Adriatic Olive Groves&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adriatic Olive Groves@40.9,19.6"
+    },
+    {
+      "id": "div-leng-1",
+      "name": "Lengar Cliff",
+      "nameZh": "倫格懸崖",
+      "city": "Lengar",
+      "cityZh": "倫格",
+      "region": "coastal",
+      "category": "scenic",
+      "tags": [
+        "instagram-worthy",
+        "sunset"
+      ],
+      "coordinates": [
+        40.35,
+        19.45
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Lengar Cliff&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lengar Cliff@40.35,19.45"
+    },
+    {
+      "id": "div-vas-1",
+      "name": "Vashtemi Vineyard",
+      "nameZh": "瓦什泰米酒莊",
+      "city": "Vashtemi",
+      "cityZh": "瓦什泰米",
+      "region": "central",
+      "category": "food",
+      "tags": [
+        "food",
+        "instagram-worthy"
+      ],
+      "coordinates": [
+        40.1,
+        20.18
+      ],
+      "description": "",
+      "bestSeason": "夏季",
+      "suitableFor": [
+        "family",
+        "couple",
+        "solo"
+      ],
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vashtemi Vineyard&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vashtemi Vineyard@40.1,20.18"
+    }
+  ]
+}
