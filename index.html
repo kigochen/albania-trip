@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'none';">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>阿爾巴尼亞親子・網美・潛水之旅 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+TC:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            nightSky: '#1f1f29',
+            cofounderBlue: '#0081c0',
+            actionAzure: '#41a1cf',
+            ashGray: '#f9faf7',
+            coolGray: '#eef1ed',
+            steelGray: '#dee2de',
+            offWhite: '#fefffc',
+            canvasWhite: '#ffffff',
+            darkCharcoal: '#171717',
+            charcoal: '#2c2c2c',
+            richBlack: '#282834',
+            slateGray: '#444141',
+            mediumGray: '#646464',
+            lightGray: '#b4b8b4',
+            dark: { DEFAULT: '#1f1f29', lighter: '#282834', card: '#2c2c2c' },
+            
+          },
+          borderRadius: {
+            'buttons': '4px',
+            'cardssmall': '12px',
+            'cardsmedium': '16px',
+            'cardslarge': '24px',
+            'nav': '50.496px',
+          },
+          fontFamily: {
+            'serif-tc': ['Noto Serif TC', 'serif'],
+            'sans': ['Inter', 'system-ui', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    :root {
+      /* Colors */
+      --color-night-sky: #1f1f29;
+      --color-cofounder-blue: #0081c0;
+      --color-action-azure: #41a1cf;
+      --color-pitch-black: #000000;
+      --color-canvas-white: #ffffff;
+      --color-off-white: #fefffc;
+      --color-ash-gray: #f9faf7;
+      --color-cool-gray: #eef1ed;
+      --color-steel-gray: #dee2de;
+      --color-dark-charcoal: #171717;
+      --color-charcoal: #2c2c2c;
+      --color-rich-black: #282834;
+      --color-slate-gray: #444141;
+      --color-medium-gray: #646464;
+      --color-light-gray: #b4b8b4;
+
+      /* Spacing */
+      --spacing-4: 4px; --spacing-8: 8px; --spacing-12: 12px; --spacing-16: 16px;
+      --spacing-20: 20px; --spacing-24: 24px; --spacing-32: 32px; --spacing-40: 40px;
+      --spacing-48: 48px; --spacing-64: 64px; --spacing-80: 80px;
+
+      /* Border Radius */
+      --radius-md: 4px; --radius-lg: 8px; --radius-xl: 12px;
+      --radius-2xl: 16px; --radius-3xl: 24px; --radius-full: 50.496px;
+
+      /* Shadows */
+      --shadow-sm: rgba(0,0,0,0.15) 0px 2px 6px 0px;
+      --shadow-subtle: rgb(222,226,222) 0px 0px 0px 1px;
+      --shadow-subtle-2: rgba(0,0,0,0.08) 0px 1px 1px 0px, rgba(0,0,0,0.08) 0px 4px 5px 0px;
+      --shadow-subtle-3: rgba(0,0,0,0.06) 0px 2px 2px 0px, rgba(0,0,0,0.04) 0px 0px 0px 5px;
+      --shadow-sm-2: rgba(0,0,0,0.05) 0px 1px 8px 0px;
+    }
+
+    body { background: var(--color-night-sky); color: var(--color-dark-charcoal); font-family: 'Inter', system-ui, sans-serif; }
+    .card-hover { transition: all 0.3s ease; }
+    .card-hover:hover { transform: translateY(-4px); box-shadow: var(--shadow-subtle-2); }
+    .filter-btn.active { background: var(--color-cofounder-blue); color: var(--color-off-white); }
+    .leaflet-container { background: var(--color-rich-black); border-radius: var(--radius-xl); }
+    ::-webkit-scrollbar { width: 8px; }
+    ::-webkit-scrollbar-track { background: var(--color-ash-gray); }
+    ::-webkit-scrollbar-thumb { background: var(--color-cofounder-blue); border-radius: var(--radius-md); opacity: 0.4; }
+  </style>
+</head>
+<body>
+
+<!-- ========== NAV ========== -->
+<nav class="fixed top-0 w-full bg-ashGray/95 backdrop-blur-md border-b border-steelGray z-50">
+  <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+    <span class="text-darkCharcoal font-bold text-lg">🇦🇱 阿爾巴尼亞 2026</span>
+    <div class="flex gap-6 text-sm">
+      <a href="#places" class="text-charcoal hover:text-cofounderBlue transition">景點</a>
+      <a href="#map" class="text-charcoal hover:text-cofounderBlue transition">地圖</a>
+      <a href="#itinerary" class="text-charcoal hover:text-cofounderBlue transition">行程</a>
+      <a href="#transport" class="text-charcoal hover:text-cofounderBlue transition">交通</a>
+      <a href="#food" class="text-charcoal hover:text-cofounderBlue transition">美食</a>
+      <a href="#budget" class="text-charcoal hover:text-cofounderBlue transition">預算</a>
+      <a href="#todo" class="text-charcoal hover:text-cofounderBlue transition">待辦</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ========== HERO ========== -->
+<header class="pt-24 pb-16 px-4 text-center bg-nightSky">
+  <div class="max-w-4xl mx-auto">
+    <p class="text-white text-sm tracking-widest uppercase mb-3">2026 年夏季旅遊</p>
+    <h1 class="text-5xl md:text-6xl font-serif-tc font-medium tracking-tight mb-4 text-white">阿爾巴尼亞之旅</h1>
+    <p class="text-2xl text-white mb-6">7 月 1 日 — 7 月 14 日（14 天）</p>
+    <p class="text-lg text-lightGray mb-2">地拉那定點深度遊 → 亞得里亞海沿岸</p>
+    <p class="text-lightGray"> Tirana 進 · Sarandë 出</p>
+    <div class="flex justify-center gap-4 mt-8">
+      <span class="px-4 py-2 bg-off-white rounded-full text-sm text-darkCharcoal font-medium">🏖️ 海岸線 6 天</span>
+      <span class="px-4 py-2 bg-off-white rounded-full text-sm text-darkCharcoal font-medium">🏛️ 古城 4 天</span>
+      <span class="px-4 py-2 bg-off-white rounded-full text-sm text-darkCharcoal font-medium">🏔️ 山區 3 天</span>
+    </div>
+  </div>
+</header>
+
+<!-- ========== FILTERS ========== -->
+<section class="max-w-7xl mx-auto px-4 mb-10">
+  <div class="bg-offWhite rounded-2xl p-6 border border-steelGray">
+    <h2 class="text-lg font-semibold mb-4 text-cofounderBlue">🎯 景點篩選</h2>
+
+    <!-- Category Filters -->
+    <div class="mb-4">
+      <p class="text-xs text-gray-500 uppercase tracking-wider mb-2">分類</p>
+      <div class="flex flex-wrap gap-2" id="category-filters">
+        <button class="filter-btn active px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="all">全部</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="beach">沙灘</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="historic">古蹟</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="nature">自然</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="city">城市</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="food">美食</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="activity">活動</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="scenic">風景</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-category="family">親子</button>
+      </div>
+    </div>
+
+    <!-- City Filters -->
+    <div>
+      <p class="text-xs text-gray-500 uppercase tracking-wider mb-2">城市</p>
+      <div class="flex flex-wrap gap-2" id="city-filters">
+        <button class="filter-btn active px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="all">全部城市</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Durrës">都拉斯</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Vlorë">弗洛勒</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Sarandë">薩蘭達</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Albanian Riviera">阿爾巴尼亞里維埃拉</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Tirana">地拉那</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Gjirokastër">吉羅卡斯特</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Berat">培拉特</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Shkodra">斯庫台</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Northern Mountains">北部山區</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="Kruja">克魯亞</button>
+        <button class="filter-btn px-4 py-1.5 rounded-full text-sm bg-ashGray border border-steelGray" data-city="other">其他</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== PLACES GRID ========== -->
+<section id="places" class="max-w-7xl mx-auto px-4 mb-16">
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6" id="places-grid">
+    <!-- Dynamically rendered -->
+  </div>
+  <p id="no-results" class="hidden text-center text-gray-500 py-12">沒有符合條件的景點</p>
+</section>
+
+<!-- ========== MAP ========== -->
+<section id="map" class="max-w-7xl mx-auto px-4 mb-16">
+  <h2 class="text-2xl font-bold mb-6 text-cofounderBlue">🗺️ 景點地圖</h2>
+  <div id="map-container" class="h-[500px] rounded-2xl border border-steelGray"></div>
+</section>
+
+<!-- ========== ITINERARY TIMELINE ========== -->
+<section id="itinerary" class="max-w-7xl mx-auto px-4 mb-16">
+  <h2 class="text-2xl font-bold mb-6 text-cofounderBlue">📅 14 天行程時間線</h2>
+  <div class="relative">
+    <div class="absolute left-8 top-0 bottom-0 w-0.5 bg-gradient-to-b from-cofounderBlue via-actionAzure to-coolGray"></div>
+    <div class="space-y-6" id="timeline">
+      <!-- Dynamically rendered -->
+    </div>
+  </div>
+</section>
+
+<!-- ========== TRANSPORT ========== -->
+<section id="transport" class="max-w-7xl mx-auto px-4 mb-16">
+  <h2 class="text-2xl font-bold mb-6 text-cofounderBlue">🚆 交通攻略</h2>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <!-- Flight -->
+    <div class="bg-offWhite rounded-xl p-6 border border-steelGray">
+      <div class="text-3xl mb-3">✈️</div>
+      <h3 class="text-lg font-semibold mb-2">航班</h3>
+      <div class="space-y-2 text-sm">
+        <p><span class="text-gray-500">目的地：</span><span class="text-cofounderBlue">維也納國際機場 (VIE)</span></p>
+        <p><span class="text-gray-500">出發地：</span>台灣</p>
+        <p class="text-gray-400">長程航班，建議商務艙或豪華經濟</p>
+      </div>
+    </div>
+    <!-- Train -->
+    <div class="bg-offWhite rounded-xl p-6 border border-steelGray">
+      <div class="text-3xl mb-3">🚂</div>
+      <h3 class="text-lg font-semibold mb-2">火車（OBB）</h3>
+      <div class="space-y-2 text-sm">
+        <p><span class="text-gray-500">維也納 → 布達佩斯</span></p>
+        <p><span class="text-cofounderBlue">2.5 小時</span> · <span class="text-cofounderBlue">€29-50</span></p>
+        <a href="https://www.oebb.at" target="_blank" rel="noopener" class="inline-block mt-2 px-3 py-1.5 bg-cofounderBlue text-white text-xs rounded-lg hover:bg-actionAzure transition">提前預購 →</a>
+      </div>
+    </div>
+    <!-- Local -->
+    <div class="bg-offWhite rounded-xl p-6 border border-steelGray">
+      <div class="text-3xl mb-3">🚇</div>
+      <h3 class="text-lg font-semibold mb-2">市內交通</h3>
+      <div class="space-y-2 text-sm">
+        <p><span class="text-gray-500">布達佩斯：</span>地鐵+電車 €1.15/程 或 24小時券 €15</p>
+        <p><span class="text-gray-500">維也納：</span>地鐵+電車 €2.40/程 或 48小時券 €14.10</p>
+        <p class="text-gray-400 mt-2">不建議租車，市區停車費用昂貴</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== FOOD ========== -->
+<section id="food" class="max-w-7xl mx-auto px-4 mb-16">
+  <h2 class="text-2xl font-bold mb-6 text-cofounderBlue">🍽️ 美食推薦</h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="food-grid">
+    <!-- Dynamically rendered -->
+  </div>
+</section>
+
+<!-- ========== BUDGET ========== -->
+<section id="budget" class="max-w-7xl mx-auto px-4 mb-16">
+  <h2 class="text-2xl font-bold mb-6 text-cofounderBlue">💰 預算追蹤（€2,500-3,500）</h2>
+  <div class="bg-offWhite rounded-xl p-6 border border-steelGray">
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-6" id="budget-grid">
+      <!-- Dynamically rendered -->
+    </div>
+    <div class="mt-6 pt-6 border-t border-coolGray">
+      <div class="flex justify-between items-center">
+        <span class="text-gray-400">總計預估</span>
+        <span class="text-2xl font-bold text-cofounderBlue">€2,500 — €3,500</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== TODO ========== -->
+<section id="todo" class="max-w-7xl mx-auto px-4 mb-20">
+  <h2 class="text-2xl font-bold mb-6 text-cofounderBlue">✅ 行前待辦清單</h2>
+  <div class="bg-offWhite rounded-xl p-6 border border-steelGray">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="todo-grid">
+      <!-- Dynamically rendered -->
+    </div>
+    <div class="mt-6 flex gap-4">
+      <button id="mark-all-done" class="px-4 py-2 bg-cofounderBlue text-white text-sm rounded-lg hover:bg-actionAzure transition">全部標記完成</button>
+      <button id="reset-todo" class="px-4 py-2 bg-coolGray text-gray-600 text-sm rounded-lg border border-steelGray hover:border-cofounderBlue transition">重置</button>
+    </div>
+  </div>
+</section>
+
+<!-- ========== FOOTER ========== -->
+<footer class="bg-offWhite border-t border-steelGray py-8 text-center">
+  <p class="text-gray-500 text-sm">阿爾巴尼亞之旅 2026 · 7/1 — 7/14</p>
+  <p class="text-gray-600 text-xs mt-2">地拉那定點深度遊 · 亞得里亞海沿岸</p>
+</footer>
+
+<!-- ========== SCRIPTS ========== -->
+<script>
+const FALLBACK_IMG = 'https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800';
+
+function fallbackMapsUrl(place) {
+  const encodedName = encodeURIComponent(place.name + ' ' + place.city);
+  const [lat, lng] = place.coordinates;
+  return `https://www.google.com/maps/search/?api=1&query=${encodedName}@${lat},${lng}`;
+}
+
+let placesData = null;
+let selectedCategory = 'all';
+let selectedCity = 'all';
+let map = null;
+let markers = [];
+
+// Init
+document.addEventListener('DOMContentLoaded', async () => {
+  try {
+    const res = await fetch('./places.json');
+    if (!res.ok) throw new Error('Failed to load places.json');
+    placesData = await res.json();
+    renderPlaces();
+    renderMap();
+    renderTimeline();
+    renderFood();
+    renderBudget();
+    renderTodo();
+    setupFilters();
+    setupTodoHandlers();
+  } catch (e) {
+    console.error('Init error:', e);
+  }
+});
+
+// Render places
+function renderPlaces() {
+  const grid = document.getElementById('places-grid');
+  const noResults = document.getElementById('no-results');
+
+  let filtered = placesData.places;
+  if (selectedCategory !== 'all') filtered = filtered.filter(p => p.category === selectedCategory);
+  if (selectedCity !== 'all') {
+    if (selectedCity === 'other') {
+      filtered = filtered.filter(p => p.city !== 'Budapest' && p.city !== 'Vienna');
+    } else {
+      filtered = filtered.filter(p => p.city === selectedCity);
+    }
+  }
+
+  if (!filtered.length) {
+    grid.innerHTML = '';
+    noResults.classList.remove('hidden');
+    return;
+  }
+  noResults.classList.add('hidden');
+
+  grid.innerHTML = filtered.map(p => `
+    <article class="bg-offWhite rounded-xl overflow-hidden border border-steelGray card-hover shadow-subtle-2">
+      <div class="aspect-video overflow-hidden">
+        <img src="${p.photoUrl || p.photos?.[0] || FALLBACK_IMG}" alt="${p.nameZh}" class="w-full h-full object-cover" loading="lazy" onerror="this.src='${FALLBACK_IMG}'" />
+      </div>
+      <div class="p-4">
+        <div class="flex items-start justify-between mb-2">
+          <h3 class="font-semibold text-sm">${p.nameZh}</h3>
+          <span class="flex items-center gap-1 text-cofounderBlue text-xs font-medium">⭐ ${p.rating}</span>
+        </div>
+        <p class="text-xs text-gray-500 mb-3">${p.city} · ${categoryLabel(p.category)}</p>
+        <div class="space-y-1 text-xs">
+          <p class="text-green-400">✓ ${p.pros}</p>
+          <p class="text-red-400/80">✗ ${p.cons}</p>
+        </div>
+        ${p.blogLinks && p.blogLinks.length > 0 ? `
+        <details class="mt-3 pt-3 border-t border-coolGray">
+          <summary class="text-xs text-charcoal cursor-pointer hover:text-cofounderBlue">📝 相關遊記 (${p.blogLinks.length})</summary>
+          <div class="mt-2 space-y-2">
+            ${p.blogLinks.map(b => `
+              <a href="${b.url}" target="_blank" rel="noopener" class="flex items-start gap-2 text-xs">
+                <span class="text-cofounderBlue">${b.source}</span>
+                <span class="text-charcoal">${b.title}</span>
+              </a>
+            `).join('')}
+          </div>
+        </details>
+        ` : ''}
+        ${p.mustBuy && (p.mustBuy.tourist.length > 0 || p.mustBuy.local.length > 0) ? `
+        <details class="mt-3 pt-3 border-t border-coolGray">
+          <summary class="text-xs text-charcoal cursor-pointer hover:text-cofounderBlue">🛒 必買推薦</summary>
+          <div class="mt-2 space-y-3">
+            ${p.mustBuy.tourist.length > 0 ? `
+              <div>
+                <p class="text-xs font-semibold text-cofounderBlue mb-1">👅 觀光客必買</p>
+                <div class="space-y-1">
+                  ${p.mustBuy.tourist.map(item => `
+                    <div class="flex items-start gap-2 text-xs">
+                      <span class="text-charcoal">•</span>
+                      <div>
+                        <span class="text-charcoal font-medium">${item.name}</span>
+                        <span class="text-cofounderBlue ml-1">${item.price}</span>
+                        <p class="text-gray-400 text-xs">${item.description}</p>
+                      </div>
+                    </div>
+                  `).join('')}
+                </div>
+              </div>
+            ` : ''}
+            ${p.mustBuy.local.length > 0 ? `
+              <div>
+                <p class="text-xs font-semibold text-cofounderBlue mb-1">🏠 深度旅遊必買</p>
+                <div class="space-y-1">
+                  ${p.mustBuy.local.map(item => `
+                    <div class="flex items-start gap-2 text-xs">
+                      <span class="text-charcoal">•</span>
+                      <div>
+                        <span class="text-charcoal font-medium">${item.name}</span>
+                        <span class="text-cofounderBlue ml-1">${item.price}</span>
+                        <p class="text-gray-400 text-xs">${item.description}</p>
+                      </div>
+                    </div>
+                  `).join('')}
+                </div>
+              </div>
+            ` : ''}
+          </div>
+        </details>
+        ` : ''}
+        <div class="mt-3 pt-3 border-t border-coolGray flex justify-between items-center text-xs text-gray-400">
+          <div class="flex gap-3">
+            <span>💰 ${p.cost}</span>
+            <span>🕐 ${p.bestTime}</span>
+          </div>
+          <div class="flex gap-2">
+            <a href="${p.mapsUrl || fallbackMapsUrl(p)}" target="_blank" rel="noopener"
+               class="flex items-center gap-1 px-2 py-1 rounded-lg bg-blue-500/20 text-blue-400 hover:bg-blue-500/30 transition text-xs"
+               title="在 Google Maps 開啟">
+              <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
+              地圖
+            </a>
+            <a href="${p.googleSearchUrl}" target="_blank" rel="noopener"
+               class="flex items-center gap-1 px-2 py-1 rounded-lg bg-cofounderBlue/20 text-cofounderBlue hover:bg-cofounderBlue/30 transition text-xs"
+               title="搜尋照片">
+              <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/></svg>
+              照片
+            </a>
+          </div>
+        </div>
+      </div>
+    </article>
+  `).join('');
+}
+
+function categoryLabel(cat) {
+  const map = { beach: '沙灘', historic: '古蹟', nature: '自然', city: '城市', food: '美食', activity: '活動', scenic: '風景', family: '親子' };
+  return map[cat] || cat;
+}
+
+// Filters
+function setupFilters() {
+  document.querySelectorAll('#category-filters .filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#category-filters .filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedCategory = btn.dataset.category;
+      renderPlaces();
+      updateMapMarkers();
+    });
+  });
+
+  document.querySelectorAll('#city-filters .filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#city-filters .filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      selectedCity = btn.dataset.city;
+      renderPlaces();
+      updateMapMarkers();
+    });
+  });
+}
+
+// Map
+function renderMap() {
+  if (map) return;
+  map = L.map('map-container', { zoomControl: true }).setView([41.0, 20.0], 7);
+  L.tileLayer('https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+  updateMapMarkers();
+}
+
+function updateMapMarkers() {
+  if (!map || !placesData) return;
+  markers.forEach(m => map.removeLayer(m));
+  markers = [];
+
+  let filtered = placesData.places;
+  if (selectedCategory !== 'all') filtered = filtered.filter(p => p.category === selectedCategory);
+  if (selectedCity !== 'all') {
+    if (selectedCity === 'other') {
+      filtered = filtered.filter(p => p.city !== 'Budapest' && p.city !== 'Vienna');
+    } else {
+      filtered = filtered.filter(p => p.city === selectedCity);
+    }
+  }
+
+  filtered.forEach(p => {
+    const mapsLink = p.mapsUrl || fallbackMapsUrl(p);
+    marker = L.circleMarker([p.coordinates[0], p.coordinates[1]], {
+      radius: 8, fillColor: '#0081c0', color: '#41a1cf', weight: 2, opacity: 1, fillOpacity: 0.8
+    }).addTo(map).bindPopup(`<b>${p.nameZh}</b><br>${p.city} · ⭐ ${p.rating}<br><a href="${mapsLink}" target="_blank" rel="noopener" style="color:#0081c0">🗺️ 在 Google Maps 開啟</a>`);
+    markers.push(marker);
+  });
+}
+
+// Timeline
+function renderTimeline() {
+  const tl = document.getElementById('timeline');
+  tl.innerHTML = placesData.itinerary.map(day => {
+    const dayPlaces = day.places.map(pid => placesData.places.find(p => p.id === pid)).filter(Boolean);
+    const isVienna = day.day >= 10;
+    const bgClass = isVienna ? 'border-cofounderBlue bg-coolGray' : 'border-gray-400 bg-coolGray';
+    return `
+      <div class="relative pl-16">
+        <div class="absolute left-5 -translate-x-1/2 w-7 h-7 rounded-full ${isVienna ? 'bg-cofounderBlue text-white' : 'bg-actionAzure text-white'} flex items-center justify-center text-xs font-bold shadow-lg">${day.day}</div>
+        <div class="${bgClass} rounded-xl p-4 border">
+          <div class="flex justify-between items-start mb-2">
+            <div>
+              <p class="text-xs text-gray-500">${day.date}</p>
+              <h3 class="font-semibold text-cofounderBlue">${day.theme}</h3>
+            </div>
+            <span class="text-xs px-2 py-1 rounded-full ${isVienna ? 'bg-cofounderBlue/20 text-cofounderBlue' : 'bg-coolGray text-gray-600'}">${day.day <= 9 ? '匈牙利' : '維也納'}</span>
+          </div>
+          <div class="flex flex-wrap gap-2 mt-2">
+            ${dayPlaces.map(p => `
+              <span class="text-xs px-2 py-1 bg-dark rounded-lg border border-coolGray text-white">
+                ${p.nameZh} <span class="text-cofounderBlue ml-1">⭐${p.rating}</span>
+              </span>
+            `).join('')}
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+// Food
+function renderFood() {
+  const grid = document.getElementById('food-grid');
+  grid.innerHTML = placesData.food.map(f => `
+    <div class="bg-offWhite rounded-xl p-4 border border-steelGray shadow-subtle-2">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="text-lg">${f.type === 'dessert' ? '🍰' : f.type === 'drink' ? '🍷' : '🍖'}</span>
+        <span class="text-xs text-cofounderBlue">${f.country === 'Hungary' ? '🇭🇺' : '🇦🇹'}</span>
+      </div>
+      <h4 class="font-medium text-sm mb-1">${f.name}</h4>
+      <p class="text-xs text-gray-400">${f.description}</p>
+    </div>
+  `).join('');
+}
+
+// Budget
+function renderBudget() {
+  const grid = document.getElementById('budget-grid');
+  const cats = placesData.budget.categories;
+  const colors = ['text-blue-400', 'text-green-400', 'text-yellow-400', 'text-purple-400', 'text-pink-400', 'text-gray-400'];
+  const icons = ['✈️', '🏨', '🍽️', '🚆', '🎫', '🎁'];
+  const keys = Object.keys(cats);
+  grid.innerHTML = keys.map((k, i) => `
+    <div class="bg-coolGray rounded-xl p-4">
+      <div class="flex items-center gap-2 mb-2">
+        <span>${icons[i]}</span>
+        <span class="text-xs text-gray-500 uppercase">${k}</span>
+      </div>
+      <p class="text-lg font-semibold ${colors[i]}">${cats[k].estimated}</p>
+      <p class="text-xs text-gray-500 mt-1">${cats[k].notes}</p>
+    </div>
+  `).join('');
+}
+
+// Todo
+function renderTodo() {
+  const grid = document.getElementById('todo-grid');
+  grid.innerHTML = placesData.todo.map((t, i) => `
+    <label class="flex items-start gap-3 p-3 bg-offWhite rounded-xl cursor-pointer hover:bg-coolGray transition border border-steelGray">
+      <input type="checkbox" class="todo-check mt-1 accent-cofounderBlue" data-index="${i}" ${t.done ? 'checked' : ''} />
+      <span class="text-sm ${t.done ? 'line-through text-gray-500' : 'text-gray-200'}">${t.item}</span>
+    </label>
+  `).join('');
+
+  document.querySelectorAll('.todo-check').forEach(cb => {
+    cb.addEventListener('change', () => {
+      placesData.todo[cb.dataset.index].done = cb.checked;
+      renderTodo();
+    });
+  });
+}
+
+function setupTodoHandlers() {
+  document.getElementById('mark-all-done').addEventListener('click', () => {
+    placesData.todo.forEach(t => t.done = true);
+    renderTodo();
+  });
+  document.getElementById('reset-todo').addEventListener('click', () => {
+    placesData.todo.forEach(t => t.done = false);
+    renderTodo();
+  });
+}
+</script>
+</body>
+</html>
