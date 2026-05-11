@@ -42,7 +42,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "長沙灘，淺水區安全，適合家庭孩童",
+      "cons": "旺季擁擠，停車位難找，海灘垃圾較多",
+      "cost": "免費",
+      "bestTime": "夏季 6-9月，上午或傍晚",
+      "tips": "帶遮陽傘和沙灘墊，務必早到搶好位置"
     },
     {
       "id": "drs-amphitheater-1",
@@ -77,7 +83,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "羅馬時期大型圓形劇場，保存良好，歷史價值高",
+      "cons": "部分區域維修中，遮陰處少",
+      "cost": "免費",
+      "bestTime": "春季 4-5月或秋季 9-10月",
+      "tips": "建議參加導覽團了解古羅馬歷史，帶足水分"
     },
     {
       "id": "drs-castle-1",
@@ -112,7 +124,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "威尼斯時期城堡城墙，可俯瞰都拉斯灣全景",
+      "cons": "地面不平坦，老人家需注意腳下",
+      "cost": "免費",
+      "bestTime": "夏季傍晚賞夕陽",
+      "tips": "穿舒適步行鞋，日落前1小時到達"
     },
     {
       "id": "drs-roman-villa-1",
@@ -147,7 +165,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.8,
+      "pros": "羅馬別墅遺址，馬賽克地板保存完好",
+      "cons": "規模較小，參觀時間不長",
+      "cost": "免費",
+      "bestTime": "春秋季",
+      "tips": "可與圓形劇場排在同一天參觀"
     },
     {
       "id": "drs-bay-1",
@@ -182,7 +206,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "海灣景色優美，適合拍照，夕陽極美",
+      "cons": "附近餐廳價格偏高",
+      "cost": "免費",
+      "bestTime": "夏季傍晚",
+      "tips": "带相機捕捉日落，提供免費停車"
     },
     {
       "id": "drs-wetland-1",
@@ -217,7 +247,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.4,
+      "pros": "生態濕地，鳥類天堂，遠離人群",
+      "cons": "公共交通不便，需自駕前往",
+      "cost": "免費",
+      "bestTime": "春季和秋季（觀鳥最佳）",
+      "tips": "攜带雙筒望遠鏡，清晨觀鳥效果最佳"
     },
     {
       "id": "vlr-beach-1",
@@ -252,7 +288,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "市區海灘，交通便利，設備齊全",
+      "cons": "夏季人潮眾多，水質一般",
+      "cost": "免費",
+      "bestTime": "夏季 6-8月",
+      "tips": "選擇平日到訪，停車麻煩建議步行"
     },
     {
       "id": "vlr-karaburun-1",
@@ -288,7 +330,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.6,
+      "pros": "偏遠半島，生態純淨，健行路線壯麗",
+      "cons": "需要四驅車或包車，路況艱難",
+      "cost": "免費",
+      "bestTime": "春季 4-5月或秋季 9-10月",
+      "tips": "带足飲水和食物，事先查看天氣"
     },
     {
       "id": "vlr-sazan-1",
@@ -324,7 +372,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.7,
+      "pros": "軍事島嶼解禁，海水清澈，適合潛水",
+      "cons": "只能參加導覽團登島，無自行前往選項",
+      "cost": "€30-50（導覽團）",
+      "bestTime": "夏季 6-9月",
+      "tips": "提前預訂潛水團，携带暈船藥"
     },
     {
       "id": "vlr-akrolli-1",
@@ -359,7 +413,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.9,
+      "pros": "海岸塔歷史建築，拍照效果佳",
+      "cons": "規模小，15分鐘可逛完",
+      "cost": "免費",
+      "bestTime": "夏季下午賞夕陽",
+      "tips": "與附近海灘排在一起"
     },
     {
       "id": "vlr-dyrmishi-1",
@@ -394,7 +454,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "瀑布自然景觀，清涼舒適，健行友善",
+      "cons": "雨季水量過大，路滑危險",
+      "cost": "免費",
+      "bestTime": "春季和初夏",
+      "tips": "穿防滑鞋，带替换衣物"
     },
     {
       "id": "vlr-zvernec-1",
@@ -429,7 +495,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "修道院島，夕陽絕美，環境靜謐",
+      "cons": "需要渡船或划船前往，潮汐影響",
+      "cost": "免費（渡船費用另計）",
+      "bestTime": "夏季傍晚",
+      "tips": "带驱蚊液，日落前一小時到達"
     },
     {
       "id": "vlr-narta-1",
@@ -464,7 +536,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "大型鹽湖濕地，火鶴棲息地，生态豐富",
+      "cons": "路標不清，需本地人带路",
+      "cost": "免費",
+      "bestTime": "春季和秋季",
+      "tips": "攜带望远镜，清晨或黄昏觀鳥"
     },
     {
       "id": "sar-beach-1",
@@ -500,7 +578,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "市區海灘設施完善，交通方便，適合家庭",
+      "cons": "旺季擁擠，停車位一位難求",
+      "cost": "免費",
+      "bestTime": "夏季 6-8月",
+      "tips": "早到或傍晚去，避開中午高温"
     },
     {
       "id": "sar-ksamil-1",
@@ -536,7 +620,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.7,
+      "pros": "塞爾維亞最知名海灘之一，水清沙幼，小島點綴",
+      "cons": "旅遊旺季人山人海，物價偏高",
+      "cost": "免費",
+      "bestTime": "夏季 6-9月",
+      "tips": "平日前往，自帶水和零食"
     },
     {
       "id": "sar-ksamil-islands-1",
@@ -572,7 +662,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.8,
+      "pros": "羣島浮潛聖地，海水如水晶清澈",
+      "cons": "只能划船或包船前往，費用較高",
+      "cost": "€20-35（包船）",
+      "bestTime": "夏季 6-9月",
+      "tips": "提前預約船家，携带泳衣和潜水面罩"
     },
     {
       "id": "sar-butrint-1",
@@ -607,7 +703,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.8,
+      "pros": "聯合國世界遺產，羅馬/希臘/拜占庭文明交匯",
+      "cons": "門票較貴，園區大需半天時間",
+      "cost": "€10（外國遊客）",
+      "bestTime": "春季或秋季涼爽季節",
+      "tips": "建议预约導覽團，帶防晒"
     },
     {
       "id": "sar-blue-eye-1",
@@ -642,7 +744,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.6,
+      "pros": "藍眼泉神秘莫測，水色變幻莫測",
+      "cons": "人潮众多，周末停車位緊張",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "清晨抵達，穿可弄溼的鞋子"
     },
     {
       "id": "sar-buka-1",
@@ -677,7 +785,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "生態豐富，鳥類多樣，河岸風光優美",
+      "cons": "公共交通不便，需自駕",
+      "cost": "免費",
+      "bestTime": "春季和秋季",
+      "tips": "携带雙筒望远镜，清晨觀鳥"
     },
     {
       "id": "sar-kanali-1",
@@ -710,7 +824,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.9,
+      "pros": "安静海灘，適合家庭，淺水區安全",
+      "cons": "設施有限，沒有救生員",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "带沙灘墊和防晒，携帶足够飲水"
     },
     {
       "id": "sar-hilo-1",
@@ -745,7 +865,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "隐秘海灘，人少清靜，適合網紅拍照",
+      "cons": "無救生員，安全設施欠缺",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "带齐装备，注意潮汐时间"
     },
     {
       "id": "sar-mirror-1",
@@ -780,7 +906,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "海面如鏡，倒影絕美，夕陽時分更夢幻",
+      "cons": "名氣大但面積小，拍照需排隊",
+      "cost": "免費",
+      "bestTime": "夏季傍晚",
+      "tips": "日落前到達，带廣角鏡頭"
     },
     {
       "id": "riv-himara-1",
@@ -815,7 +947,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "海灘乾淨，淺水區長，適合家庭",
+      "cons": "旺季有點擁擠，沒有大太陽的地方",
+      "cost": "免費",
+      "bestTime": "夏季 6-9月",
+      "tips": "自帶沙灘傘，否則需租借海灘設備"
     },
     {
       "id": "riv-himara-old-1",
@@ -850,7 +988,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "老城石頭街道，希臘/阿爾巴尼亞風情建築",
+      "cons": "石頭路不平，老人家走起來吃力",
+      "cost": "免費",
+      "bestTime": "春季或秋季",
+      "tips": "穿舒適的步行鞋，建议傍晚散步"
     },
     {
       "id": "riv-borsh-1",
@@ -885,7 +1029,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.4,
+      "pros": "超长海灘，沙质细软，適合各種水上活動",
+      "cons": "設施很少，商店不多",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "自備飲食，下午有風適合風筝冲浪"
     },
     {
       "id": "riv-dhermi-1",
@@ -920,7 +1070,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "海灘時尚，有音樂和派對氣氛，夜生活丰富",
+      "cons": "旺季擁擠吵雜，不適合家庭",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "傍晚抵達，享受夜生活"
     },
     {
       "id": "riv-jale-1",
@@ -955,7 +1111,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "清澈海水，浮潛和潛水聖地，珊瑚礁丰富",
+      "cons": "海灘較小，旺季人多",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "带潜水面罩，携带水下相机"
     },
     {
       "id": "riv-drimades-1",
@@ -990,7 +1152,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "隐秘海灘，人少清靜，環境原生態",
+      "cons": "設施匱乏，沒有救生員",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "自備所有物品，注意安全"
     },
     {
       "id": "riv-himaranta-1",
@@ -1024,7 +1192,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "小家庭海灘，浅水安全，適合幼童",
+      "cons": "设施一般，海灘面积小",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "携带儿童沙滩玩具"
     },
     {
       "id": "riv-vuno-1",
@@ -1059,7 +1233,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "安静海灘，夕陽優美，適合拍照",
+      "cons": "商店和餐厅少，需自備",
+      "cost": "免費",
+      "bestTime": "夏季傍晚",
+      "tips": "带野餐篮和红酒"
     },
     {
       "id": "riv-pilur-1",
@@ -1092,7 +1272,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.8,
+      "pros": "山丘城堡，視野開闘，可俯瞰海岸線",
+      "cons": "路況不佳，需四驅車",
+      "cost": "免費",
+      "bestTime": "春秋季",
+      "tips": "带足够的水，穿登山鞋"
     },
     {
       "id": "riv-qeparo-1",
@@ -1126,7 +1312,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "两侧都有海滩，山崖景色壮丽",
+      "cons": "两个海滩之间需爬坡",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "先定位想去的海滩再出发"
     },
     {
       "id": "riv-sheshi-1",
@@ -1161,7 +1353,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "威尼斯城堡改建，海灣景色優美",
+      "cons": "内部設施不多，商业化程度低",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "傍晚前往欣赏日落"
     },
     {
       "id": "riv-pasha-1",
@@ -1196,7 +1394,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "浅水區大，適合家庭儿童",
+      "cons": "设施一般，无特别景观",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "携带儿童浮具"
     },
     {
       "id": "riv-cape-1",
@@ -1231,7 +1435,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "壮丽悬崖海岸线，网红打卡热点",
+      "cons": "风大，无遮阳处",
+      "cost": "免費",
+      "bestTime": "夏季傍晚",
+      "tips": "带防风外套，带广角镜头"
     },
     {
       "id": "riv-fterra-1",
@@ -1264,7 +1474,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "隐秘海滩，潜水爱好者天堂",
+      "cons": "交通不便，只能开车或包车",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "带潜水装备"
     },
     {
       "id": "riv-lukove-1",
@@ -1299,7 +1515,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "超隐秘海滩，人烟稀少，海水清澈",
+      "cons": "完全没有设施，需完全自备",
+      "cost": "免費",
+      "bestTime": "夏季",
+      "tips": "带齐所有装备包括垃圾袋"
     },
     {
       "id": "tir-square-1",
@@ -1334,7 +1556,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "地拉那市中心，國家博物館所在，適合了解城市歷史",
+      "cons": "車流量大，空氣品質一般",
+      "cost": "免費",
+      "bestTime": "春季和秋季",
+      "tips": "平日参觀比周末好"
     },
     {
       "id": "tir-mosque-1",
@@ -1369,7 +1597,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "美麗的鄂圖曼清真寺，壁畫精細",
+      "cons": "女性參觀需著頭巾",
+      "cost": "免費",
+      "bestTime": "春季和秋季",
+      "tips": "穿著得體，開放時間注意禮拜時間"
     },
     {
       "id": "tir-bunker-1",
@@ -1404,7 +1638,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "獨特的社會主義時期地堡，內部寬敞，有歷史教育意義",
+      "cons": "空間密閉，部分人會感到不安",
+      "cost": "€5",
+      "bestTime": "全年皆可",
+      "tips": "有幽閉恐懼症者不建議進入"
     },
     {
       "id": "tir-clock-1",
@@ -1439,7 +1679,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "地拉那標誌性地標，可登頂俯瞰全市",
+      "cons": "階梯窄，老人家吃力",
+      "cost": "€3（登頂）",
+      "bestTime": "春季到秋季",
+      "tips": "傍晚登頂可看日落"
     },
     {
       "id": "tir-park-1",
@@ -1474,7 +1720,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "大型城市公園，有湖和树荫，適合家庭",
+      "cons": "周末人潮较多",
+      "cost": "免費",
+      "bestTime": "春季到秋季",
+      "tips": "可租船遊湖，携带野餐"
     },
     {
       "id": "tir-lake-1",
@@ -1509,7 +1761,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "風景優美，健行和單車路線人氣高",
+      "cons": "部分道路未铺装，雨天泥泞",
+      "cost": "免費",
+      "bestTime": "春季到秋季",
+      "tips": "带自行车或租任"
     },
     {
       "id": "tir-museum-1",
@@ -1544,7 +1802,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.4,
+      "pros": "豐富的國家歷史收藏，從史前到現代",
+      "cons": "展品較多，需預留足够時間",
+      "cost": "€7",
+      "bestTime": "全年皆可",
+      "tips": "建议聘请導覽或租借audio guide"
     },
     {
       "id": "tir-blloku-1",
@@ -1580,7 +1844,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "時尚餐廳和酒吧區域，夜生活豐富",
+      "cons": "消費較高，價格不便宜",
+      "cost": "€15-30（餐飲）",
+      "bestTime": "全年皆可",
+      "tips": "傍晚散步体验当地年轻人文化"
     },
     {
       "id": "tir-mount-dajt-1",
@@ -1616,7 +1886,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.6,
+      "pros": "可搭纜車上山，俯瞰全市，景色壯闘",
+      "cons": "纜車可能因強風停駛，山上氣溫低",
+      "cost": "€10（纜車來回）",
+      "bestTime": "春季到秋季，山頂终年有雪",
+      "tips": "带外套，山上温度比山下低很多"
     },
     {
       "id": "gji-castle-1",
@@ -1652,7 +1928,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.6,
+      "pros": "巨大城堡，雄踞山丘，可看全市景色",
+      "cons": "需要爬山，路况较为陡峭",
+      "cost": "免費",
+      "bestTime": "春季或秋季",
+      "tips": "穿舒适的登山鞋，带足够的水"
     },
     {
       "id": "gji-zagarotti-1",
@@ -1687,7 +1969,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.9,
+      "pros": "精美古宅，建筑细节丰富，適合建築愛好者",
+      "cons": "規模很小，15分鐘可逛完",
+      "cost": "免費",
+      "bestTime": "春季到秋季",
+      "tips": "与老城一起游览"
     },
     {
       "id": "gji-old-town-1",
@@ -1722,7 +2010,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "世界文化遺產，石頭老街，奥斯威辛风格建筑",
+      "cons": "石頭路不平，拖着行李箱不方便",
+      "cost": "免費",
+      "bestTime": "春季或秋季",
+      "tips": "穿舒适的步行鞋，建议住一晚慢慢逛"
     },
     {
       "id": "gji-safary-1",
@@ -1755,7 +2049,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.8,
+      "pros": "历史宫殿，花园景色优美",
+      "cons": "位置较远，需要开车",
+      "cost": "免費",
+      "bestTime": "春季到秋季",
+      "tips": "与城堡一起游览"
     },
     {
       "id": "gji-sword-1",
@@ -1789,7 +2089,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "独特岩石造型，网红打卡点",
+      "cons": "规模很小，10分鐘可逛完",
+      "cost": "免費",
+      "bestTime": "全年皆可",
+      "tips": "带广角镜头拍摄"
     },
     {
       "id": "gji-enclosed-1",
@@ -1824,7 +2130,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.4,
+      "pros": "封闭式古城结构完整，彷彿时光倒流",
+      "cons": "部分建筑年久失修，需小心行走",
+      "cost": "免費",
+      "bestTime": "春季或秋季",
+      "tips": "参加导览团了解历史"
     },
     {
       "id": "ber-castle-1",
@@ -1860,7 +2172,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.7,
+      "pros": "世界遗产，千年城堡，保存完整",
+      "cons": "上城堡的路较陡，部分人需休息",
+      "cost": "免費",
+      "bestTime": "春季或秋季",
+      "tips": "建议参加导览团，穿好走的鞋"
     },
     {
       "id": "gor-bridge-1",
@@ -1895,7 +2213,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "古橋造型優美，石頭工藝精湛",
+      "cons": "橋面窄，大行李無法通過",
+      "cost": "免費",
+      "bestTime": "全年皆可",
+      "tips": "傍晚光線最適合拍照"
     },
     {
       "id": "ber-mangal-1",
@@ -1928,7 +2252,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "千窗之屋奇景，摄影圣地",
+      "cons": "街道狭窄，车辆无法进入",
+      "cost": "免費",
+      "bestTime": "春季到秋季",
+      "tips": "带广角镜头，清晨光线最美"
     },
     {
       "id": "ber-church-1",
@@ -1963,7 +2293,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "拜占庭风格教堂，壁画精美",
+      "cons": "内部不允许拍照",
+      "cost": "免費",
+      "bestTime": "全年皆可",
+      "tips": "尊重当地宗教习俗"
     },
     {
       "id": "ber-kala-1",
@@ -1998,7 +2334,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "河边散步路线，风景优美",
+      "cons": "河边步道部分区域有杂草",
+      "cost": "免費",
+      "bestTime": "春季到秋季",
+      "tips": "带驱蚊液"
     },
     {
       "id": "ber-hassan-1",
@@ -2032,7 +2374,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.9,
+      "pros": "古老清真寺，建筑特色鲜明",
+      "cons": "规模不大，可看性一般",
+      "cost": "免費",
+      "bestTime": "全年皆可",
+      "tips": "可与教堂一起游览"
     },
     {
       "id": "shk-rozafa-1",
@@ -2068,7 +2416,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.6,
+      "pros": "壮丽的山丘城堡，湖泊和河流全景",
+      "cons": "需要爬坡，老人家可能吃力",
+      "cost": "免費",
+      "bestTime": "春季或秋季",
+      "tips": "傍晚登顶欣赏日落"
     },
     {
       "id": "shk-lake-1",
@@ -2104,7 +2458,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "巴尔干最大湖泊之一，生态丰富，鸟类天堂",
+      "cons": "面积大，部分区域公共交通不便",
+      "cost": "免費",
+      "bestTime": "春季和秋季",
+      "tips": "参加湖上船游，带望远镜"
     },
     {
       "id": "shk-lezha-1",
@@ -2138,7 +2498,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "历史城堡，適合历史爱好者",
+      "cons": "位置较远，路况一般",
+      "cost": "免費",
+      "bestTime": "全年皆可",
+      "tips": "与周边景点一起游览"
     },
     {
       "id": "shk-vendor-1",
@@ -2173,7 +2539,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 3.8,
+      "pros": "独立石塔，造型独特",
+      "cons": "只有一个塔，内容不多",
+      "cost": "免費",
+      "bestTime": "全年皆可",
+      "tips": "拍照留念即可"
     },
     {
       "id": "shk-river-1",
@@ -2208,7 +2580,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "可乘船游览，风景优美",
+      "cons": "部分码头设施老旧",
+      "cost": "€10-20（船游）",
+      "bestTime": "夏季",
+      "tips": "带晕船药，带防晒"
     },
     {
       "id": "shk-pema-1",
@@ -2243,7 +2621,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "白杨大道的白杨树隧道，网红打卡热点",
+      "cons": "位于罗扎法城堡附近，可看性独立较低",
+      "cost": "免費",
+      "bestTime": "秋季（黄叶最美）",
+      "tips": "带广角镜头，与城堡一起游览"
     },
     {
       "id": "shk-bazaar-1",
@@ -2278,7 +2662,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.0,
+      "pros": "传统市场，可以体验当地生活",
+      "cons": "周末可能不营业",
+      "cost": "免费（市场）",
+      "bestTime": "全年皆可",
+      "tips": "早上前往最热闹"
     },
     {
       "id": "nth-theth-1",
@@ -2314,7 +2704,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.7,
+      "pros": "高山村落，世外桃源，健行天堂",
+      "cons": "交通不便，需四驱或包车，路况差",
+      "cost": "免费（村庄）",
+      "bestTime": "夏季 6-9月",
+      "tips": "在 village 住一晚，体验当地生活"
     },
     {
       "id": "nth-theth-church-1",
@@ -2349,7 +2745,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "北部山区唯一教堂，历史意义重大",
+      "cons": "规模很小，10分钟可逛完",
+      "cost": "免费",
+      "bestTime": "全年皆可",
+      "tips": "与 Theth Village 一起游览"
     },
     {
       "id": "nth-valbona-1",
@@ -2385,7 +2787,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.8,
+      "pros": "阿尔卑斯山谷，景色壮观，徒步路线完善",
+      "cons": "部分路线需要向导，不适合新手",
+      "cost": "免费",
+      "bestTime": "夏季 6-9月",
+      "tips": "聘请当地向导，带足装备"
     },
     {
       "id": "nth-valbona-pass-1",
@@ -2420,7 +2828,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.6,
+      "pros": "穿越ValbonaPass的经典徒步路线，景色壮丽",
+      "cons": "需要较好的体力，部分路段危险",
+      "cost": "免费",
+      "bestTime": "夏季 6-8月",
+      "tips": "需要向导，带足水和食物"
     },
     {
       "id": "nth-koman-1",
@@ -2456,7 +2870,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.7,
+      "pros": "高峡出平湖，绿松石色湖水，景色绝世",
+      "cons": "只能坐船进入，需预约船班",
+      "cost": "€15-25（船费）",
+      "bestTime": "春季到秋季",
+      "tips": "提前预约船班，带防晒"
     },
     {
       "id": "nth-koman-trail-1",
@@ -2489,7 +2909,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.8,
+      "pros": "世界知名徒步路线，穿越峡谷和湖泊",
+      "cons": "需要2-3天，体力要求高",
+      "cost": "免费",
+      "bestTime": "夏季 6-9月",
+      "tips": "需要有经验的向导，携带帐篷"
     },
     {
       "id": "nth-rrajca-1",
@@ -2524,7 +2950,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "高山湖泊，隐秘宁静，钓鱼爱好者的天堂",
+      "cons": "位置偏远，交通不便",
+      "cost": "免费",
+      "bestTime": "夏季",
+      "tips": "带钓鱼证，带驱蚊液"
     },
     {
       "id": "nth-bogaj-1",
@@ -2559,7 +2991,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "山口全景，视野开阔，適合摄影",
+      "cons": "气候变化快，需带防风衣物",
+      "cost": "免费",
+      "bestTime": "夏季",
+      "tips": "清晨或傍晚光线最佳"
     },
     {
       "id": "nth-cedia-1",
@@ -2594,7 +3032,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "高峰徒步，景色震撼，阿尔卑斯山景尽收眼底",
+      "cons": "需要专业装备和向导",
+      "cost": "免费",
+      "bestTime": "夏季 7-8月",
+      "tips": "需要有经验，向导必须"
     },
     {
       "id": "nth-kyr-1",
@@ -2629,7 +3073,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.6,
+      "pros": "阿尔卑斯最高峰之一，挑战性强，成就感十足",
+      "cons": "技术要求高，不适合新手",
+      "cost": "免费",
+      "bestTime": "夏季 7-8月",
+      "tips": "必须聘请向导，带齐技术装备"
     },
     {
       "id": "nth-boge-1",
@@ -2665,7 +3115,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.4,
+      "pros": "传统高山村庄，滑雪和健行双季皆宜",
+      "cons": "冬季道路可能封闭",
+      "cost": "免费",
+      "bestTime": "夏季和冬季",
+      "tips": "冬季需备防滑链"
     },
     {
       "id": "nth-kukaj-1",
@@ -2700,7 +3156,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "瀑布水量丰富，周围森林环绕",
+      "cons": "路滑危险，雨季不建议",
+      "cost": "免费",
+      "bestTime": "春季和初夏",
+      "tips": "穿防滑鞋，带替换衣物"
     },
     {
       "id": "nth-don-1",
@@ -2735,7 +3197,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "隐秘步道，人迹稀少，自然原始",
+      "cons": "没有任何设施，需完全自备",
+      "cost": "免费",
+      "bestTime": "夏季",
+      "tips": "必须有向导，带足补给"
     },
     {
       "id": "nth-pretash-1",
@@ -2770,7 +3238,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "高山湖泊，隐秘宁静，钓鱼佳地",
+      "cons": "路难找，需要本地向导",
+      "cost": "免费",
+      "bestTime": "夏季",
+      "tips": "聘请向导，带钓鱼具"
     },
     {
       "id": "nth-vukaj-1",
@@ -2805,7 +3279,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "天然温泉，在山区徒步后放松的好去处",
+      "cons": "设施简单，卫生条件一般",
+      "cost": "免费",
+      "bestTime": "全年皆可",
+      "tips": "带毛巾，注意水温度"
     },
     {
       "id": "div-kruja-1",
@@ -2840,7 +3320,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.5,
+      "pros": "民族英雄斯坎德培的城堡，历史意义重大",
+      "cons": "周末人潮多，路窄难停车",
+      "cost": "免费",
+      "bestTime": "春季到秋季",
+      "tips": "平日去較好，配合博物馆一起游览"
     },
     {
       "id": "div-divjakara-1",
@@ -2875,7 +3361,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "长海滩，设施完善，适合家庭",
+      "cons": "旺季人多，水质一般",
+      "cost": "免费",
+      "bestTime": "夏季",
+      "tips": "早到抢好位置，带防晒"
     },
     {
       "id": "div-olive-1",
@@ -2910,7 +3402,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.3,
+      "pros": "千年橄榄园，田园风光，適合摄影",
+      "cons": "位置分散，需要开车",
+      "cost": "免费",
+      "bestTime": "秋季（橄榄采收季）",
+      "tips": "秋季前往可参与采收体验"
     },
     {
       "id": "div-leng-1",
@@ -2943,7 +3441,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.1,
+      "pros": "壮丽悬崖，网红打卡地，风景独特",
+      "cons": "完全没有设施，风大",
+      "cost": "免费",
+      "bestTime": "夏季傍晚",
+      "tips": "带防风外套，带广角镜头"
     },
     {
       "id": "div-vas-1",
@@ -2978,7 +3482,13 @@
       "mustBuy": {
         "tourist": [],
         "local": []
-      }
+      },
+      "rating": 4.2,
+      "pros": "當地知名酒莊，葡萄酒品質佳",
+      "cons": "位置偏遠，需預約",
+      "cost": "€10-20（品酒）",
+      "bestTime": "夏季或秋季",
+      "tips": "建議預約導覽，品嚐當地紅酒"
     }
   ]
 }
