@@ -77,7 +77,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/durres-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Durr%C3%ABs",
           "title": "都拉斯海灘：亞得里亞海的家庭樂園"
         }
       ]
@@ -121,7 +121,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Castle@41.308,19.443",
       "blogLinks": [
         {
-          "url": "https://example.com/durres-castle-guide",
+          "url": "https://en.wikipedia.org/wiki/Durazzo",
           "title": "都拉斯城堡：漫步拜占庭城牆的完整攻略"
         }
       ],
@@ -181,7 +181,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Amphitheatre@41.316,19.447",
       "blogLinks": [
         {
-          "url": "https://example.com/durres-amphitheatre-guide",
+          "url": "https://en.wikipedia.org/wiki/Durr%C3%ABs_Amphitheatre",
           "title": "都拉斯圓形劇場：羅馬時代的輝煌遺跡"
         }
       ],
@@ -239,7 +239,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa+Venezia+Durrës@41.310,19.455",
       "blogLinks": [
         {
-          "url": "https://example.com/durres-venezia-tower",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "威尼斯塔：漫步中世紀都拉斯"
         }
       ],
@@ -298,7 +298,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Archaeological+Museum@41.312,19.450",
       "blogLinks": [
         {
-          "url": "https://example.com/durres-archaeology-museum",
+          "url": "https://en.wikipedia.org/wiki/Durr%C3%ABs",
           "title": "都拉斯考古博物館：穿越千年的文明"
         }
       ],
@@ -356,7 +356,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman+Villa+Durrës@41.312,19.450",
       "blogLinks": [
         {
-          "url": "https://example.com/durres-roman-villa-mosaic",
+          "url": "https://en.wikipedia.org/wiki/Durr%C3%ABs",
           "title": "都拉斯羅馬別墅：馬賽克地板的視覺盛宴"
         }
       ],
@@ -414,7 +414,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Lighthouse@41.305,19.480",
       "blogLinks": [
         {
-          "url": "https://example.com/durres-lighthouse-sunset",
+          "url": "https://en.wikipedia.org/wiki/Durr%C3%ABs",
           "title": "都拉斯燈塔：亞得里亞海的最佳日落"
         }
       ],
@@ -497,7 +497,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/kodra-beach-durres",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "科德拉海灘：都拉斯人的秘密海灘"
         }
       ]
@@ -571,7 +571,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/vlore-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "發羅拉海灘：南海濱的核心沙灘"
         }
       ]
@@ -615,7 +615,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun+Peninsula@40.380,19.380",
       "blogLinks": [
         {
-          "url": "https://example.com/karaburun-peninsula-hike",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "卡拉布倫半島：阿爾巴尼亞最原始的海岸線健行"
         }
       ],
@@ -699,7 +699,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/sazan-island-diving",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "薩贊島：地中海最佳的潛水聖地"
         }
       ]
@@ -771,7 +771,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/kanal-beach-vlore",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "運河海灘：平靜淺水與優美運河風光"
         }
       ]
@@ -814,7 +814,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë+Panoramic+Viewpoint@40.470,19.500",
       "blogLinks": [
         {
-          "url": "https://example.com/vlora-viewpoint-panorama",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "發羅拉全景觀景台：俯瞰海灣與城市的壯觀視角"
         }
       ],
@@ -866,7 +866,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta+Lagoon@40.520,19.420",
       "blogLinks": [
         {
-          "url": "https://example.com/narta-lagoon-birdwatching",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "納爾塔瀉湖：火烈鳥與鹽田的生態秘境"
         }
       ],
@@ -939,7 +939,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/drymades-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "德里馬德斯海灘：松林包圍的原始沙灘"
         }
       ]
@@ -1011,7 +1011,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/aktiv-beach-vlore",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "阿克蒂夫海灘：家庭友善的安全海灘"
         }
       ]
@@ -1054,7 +1054,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Beach@39.875,20.010",
       "blogLinks": [
         {
-          "url": "https://example.com/saranda-beach-guide",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "希格拉海灘：蔚藍海水與潔白沙灘"
         }
       ],
@@ -1128,11 +1128,11 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Beach@39.770,20.005",
       "blogLinks": [
         {
-          "url": "https://example.com/ksamil-beach-guide",
+          "url": "https://en.wikipedia.org/wiki/Ksamil",
           "title": "小馬爾地夫！Ksamil海灘與群島完整攻略"
         },
         {
-          "url": "https://example.com/ksamil-albanian-riviera",
+          "url": "https://en.wikipedia.org/wiki/Ksamil",
           "title": "阿爾巴尼亞里維埃拉最夢幻海灘：Ksamil遊記"
         }
       ],
@@ -1197,11 +1197,11 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint@39.745,20.030",
       "blogLinks": [
         {
-          "url": "https://example.com/butrint-complete-guide",
+          "url": "https://en.wikipedia.org/wiki/Butrint",
           "title": "【世界遺產】布特林完整攻略：希臘羅馬拜占庭三朝古城"
         },
         {
-          "url": "https://example.com/butrint-travel-blog",
+          "url": "https://en.wikipedia.org/wiki/Butrint",
           "title": "阿爾巴尼亞最值得去的古蹟：布特林個人遊記"
         }
       ],
@@ -1261,7 +1261,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue+Eye+Albania@39.890,20.130",
       "blogLinks": [
         {
-          "url": "https://example.com/blue-eye-syri-i-kaliter",
+          "url": "https://en.wikipedia.org/wiki/Blue_Eye_(spring)",
           "title": "藍眼泉：宛如藍寶石的神秘地下泉"
         }
       ],
@@ -1313,7 +1313,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Islands@39.760,19.995",
       "blogLinks": [
         {
-          "url": "https://example.com/ksamil-islands-boat-tour",
+          "url": "https://en.wikipedia.org/wiki/Ksamil",
           "title": "Ksamil 群島：快艇跳島攻略"
         }
       ],
@@ -1385,7 +1385,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra+Bay+Sarantë@39.850,20.020",
       "blogLinks": [
         {
-          "url": "https://example.com/ftras-vlora-bay",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "夫特拉灣：隱世的峽灣海灘"
         }
       ],
@@ -1457,7 +1457,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bresh+Beach@39.840,20.040",
       "blogLinks": [
         {
-          "url": "https://example.com/bresh-beach-hidden",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "布雷什海灘：藏在峽灣中的秘境沙灘"
         }
       ],
@@ -1531,7 +1531,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hydrabad+Island@39.820,20.050",
       "blogLinks": [
         {
-          "url": "https://example.com/hidra-island-snorkeling",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "希德拉巴德島：浮潛與跳島的天堂"
         }
       ],
@@ -1603,7 +1603,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Cascade@39.900,20.100",
       "blogLinks": [
         {
-          "url": "https://example.com/saranda-cascade-waterfall",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "希格拉瀑布：叢林中的清涼瀑布秘境"
         }
       ],
@@ -1655,7 +1655,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+View@39.920,20.150",
       "blogLinks": [
         {
-          "url": "https://example.com/gjirokaster-view-road-trip",
+          "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr",
           "title": "從希格拉眺望札科普：必訪的山城全景觀景點"
         }
       ],
@@ -1739,7 +1739,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/himara-beach-riviera",
+          "url": "https://en.wikipedia.org/wiki/Himar%C3%AB",
           "title": "希瑪拉海灘：里維埃拉的心臟地帶"
         }
       ]
@@ -1813,7 +1813,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/dhermi-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Dhermi",
           "title": "德爾米海灘：碧海金崖的峽灣風光"
         }
       ]
@@ -1887,7 +1887,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/jale-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "雅萊海灘：浮潛與潛水的秘境海灣"
         }
       ]
@@ -1928,7 +1928,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi+Viewpoint@40.030,19.650",
       "blogLinks": [
         {
-          "url": "https://example.com/dhermi-viewpoint-albanian-riviera",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "德爾米觀景台：阿爾巴尼亞里維埃拉的心臟地帶"
         }
       ],
@@ -2010,7 +2010,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/plot-beach-riviera",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "普洛特海灘：橄欖樹林中的寧靜海灣"
         }
       ]
@@ -2054,7 +2054,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Castle@40.100,19.730",
       "blogLinks": [
         {
-          "url": "https://example.com/himara-castle-byzantine",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "希瑪拉城堡：拜占庭時代的山丘要塞"
         }
       ],
@@ -2144,7 +2144,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/borsh-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "博爾什海灘：3公里長的原始沙岸"
         }
       ]
@@ -2218,7 +2218,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/saranda-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Sarand%C3%AB",
           "title": "薩蘭達海灘：便利設施完善的海濱去處"
         }
       ]
@@ -2262,7 +2262,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@39.850,20.000",
       "blogLinks": [
         {
-          "url": "https://example.com/lufar-castle-albanian-riviera",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "盧庫萊西城堡：里維埃拉的神秘堡壘"
         }
       ],
@@ -2350,7 +2350,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/qeparo-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "切帕羅海灘：小眾礫石灘的幽靜時光"
         }
       ]
@@ -2392,7 +2392,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Pizza+Restaurant@40.105,19.740",
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albanian_Riviera",
           "title": "遊記placeholder"
         }
       ],
@@ -2474,7 +2474,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/vuno-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "武諾海灘：隱秘峽灣的網美秘境"
         }
       ]
@@ -2545,7 +2545,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/radhe-beach-riviera",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "拉澤海灘：遠離塵囂的純樸海灘"
         }
       ]
@@ -2617,7 +2617,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/shenmati-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "什內爾馬蒂海灘：適合親子的淺水海灣"
         }
       ]
@@ -2660,7 +2660,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlora+to+Himara+Road@40.100,19.650",
       "blogLinks": [
         {
-          "url": "https://example.com/vlgore-saranda-road-drive",
+          "url": "https://en.wikipedia.org/wiki/Vlor%C3%AB",
           "title": "發羅拉至希瑪拉公路：懸崖峭壁上的自駕體驗"
         }
       ],
@@ -2713,7 +2713,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg+Square+Tirana@41.327,19.818",
       "blogLinks": [
         {
-          "url": "https://example.com/skanderbeg-square-tirana",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "地拉那的心臟：斯坎德培廣場與週邊建築"
         }
       ],
@@ -2804,7 +2804,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -2879,7 +2879,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -2954,7 +2954,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -3029,7 +3029,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -3073,7 +3073,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National+History+Museum+Tirana@41.319,19.824",
       "blogLinks": [
         {
-          "url": "https://example.com/tirana-national-history-museum",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "國家歷史博物館：阿爾巴尼亞的縮時膠卷"
         }
       ],
@@ -3132,7 +3132,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Park+Tirana@41.315,19.800",
       "blogLinks": [
         {
-          "url": "https://example.com/tirana-grand-park-lake",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "大地拉那公園：城市中的綠洲與人工湖"
         }
       ],
@@ -3216,7 +3216,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -3260,7 +3260,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Castle@40.076,20.140",
       "blogLinks": [
         {
-          "url": "https://example.com/gjirokaster-castle-ottoman",
+          "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr",
           "title": "吉羅卡斯特城堡：站在巨人的肩膀上俯瞰山谷"
         }
       ],
@@ -3316,7 +3316,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti+House+Gjirokastër@40.072,20.135",
       "blogLinks": [
         {
-          "url": "https://example.com/zagarotti-house-family",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "扎加羅蒂別墅：了解阿爾巴尼亞貴族歷史"
         }
       ],
@@ -3375,7 +3375,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kadesh+Museum+Gjirokastër@40.074,20.137",
       "blogLinks": [
         {
-          "url": "https://example.com/kadje-museum-traditional",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "卡迪什博物館：鄂圖曼時期的市井生活"
         }
       ],
@@ -3463,7 +3463,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr",
           "title": "遊記placeholder"
         }
       ]
@@ -3507,7 +3507,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Viewpoint@40.078,20.145",
       "blogLinks": [
         {
-          "url": "https://example.com/gjirokaster-viewpoint-valley",
+          "url": "https://en.wikipedia.org/wiki/Gjirokast%C3%ABr",
           "title": "吉羅卡斯特觀景台：俯瞰杜拉山谷全景"
         }
       ],
@@ -3560,7 +3560,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Old+Town@40.070,20.130",
       "blogLinks": [
         {
-          "url": "https://example.com/gjirokaster-enclosure-wall",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "石圍欄：古代防御工事的神秘面紗"
         }
       ],
@@ -3619,7 +3619,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Castle@40.325,19.950",
       "blogLinks": [
         {
-          "url": "https://example.com/berat-citadel-kala",
+          "url": "https://en.wikipedia.org/wiki/Berat",
           "title": "培拉特城堡：千年石頭城的守護者"
         }
       ],
@@ -3678,7 +3678,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica+Bridge+Berat@40.320,19.940",
       "blogLinks": [
         {
-          "url": "https://example.com/gorica-bridge-osjake",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "戈里卡橋：帖申區的標誌性古橋"
         }
       ],
@@ -3768,7 +3768,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -3843,7 +3843,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -3917,7 +3917,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
@@ -3961,7 +3961,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Viewpoint@40.328,19.955",
       "blogLinks": [
         {
-          "url": "https://example.com/berat-viewpoint-golden-hours",
+          "url": "https://en.wikipedia.org/wiki/Berat",
           "title": "培拉特觀景台：捕捉「千窗之城」的最佳角度"
         }
       ],
@@ -4014,7 +4014,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa+Castle@42.040,19.930",
       "blogLinks": [
         {
-          "url": "https://example.com/rozafa-castle-skyllin",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "羅扎法城堡：布爾尼湖與三河交匯處的傳奇要塞"
         }
       ],
@@ -4074,7 +4074,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Lake@42.050,19.620",
       "blogLinks": [
         {
-          "url": "https://example.com/shkoder-lake-boat-tour",
+          "url": "https://en.wikipedia.org/wiki/Shkodra",
           "title": "斯庫台湖：與蒙特內哥羅共享的高山湖泊"
         }
       ],
@@ -4125,7 +4125,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Viewpoint@42.045,19.910",
       "blogLinks": [
         {
-          "url": "https://example.com/shkoder-viewpoint-rosafa",
+          "url": "https://en.wikipedia.org/wiki/Shkodra",
           "title": "斯庫台觀景台：俯瞰城堡與湖泊的最佳視角"
         }
       ],
@@ -4177,7 +4177,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@42.055,19.920",
       "blogLinks": [
         {
-          "url": "https://example.com/leku-castle-fortress",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "萊庫萊西城堡：中世紀的山丘防線"
         }
       ],
@@ -4257,7 +4257,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Shkodra",
           "title": "遊記placeholder"
         }
       ]
@@ -4301,7 +4301,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth+Village@42.380,19.810",
       "blogLinks": [
         {
-          "url": "https://example.com/theth-village-north-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "泰特村：與世隔絕的阿爾巴尼亞高山村落"
         }
       ],
@@ -4354,7 +4354,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Valley@42.420,19.880",
       "blogLinks": [
         {
-          "url": "https://example.com/valbona-valley-hiking",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "瓦爾博納山谷：通往阿爾巴尼亞屋脊的健行勝地"
         }
       ],
@@ -4407,7 +4407,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman+Lake@42.150,19.920",
       "blogLinks": [
         {
-          "url": "https://example.com/koman-lake-ferry-boat",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "科曼湖：峽谷中的翡翠項鍤"
         }
       ],
@@ -4457,7 +4457,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grunget+Lake@42.390,19.820",
       "blogLinks": [
         {
-          "url": "https://example.com/grunget-lake-mountain",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "格林格湖：高山湖泊的幽靜之美"
         }
       ],
@@ -4510,7 +4510,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogovë+Waterfall@42.350,19.840",
       "blogLinks": [
         {
-          "url": "https://example.com/bogove-waterfall-fierza",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "博戈韋瀑布：藏在天山洞谷中的水簾"
         }
       ],
@@ -4562,7 +4562,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qafe+Thore+Pass@42.400,19.870",
       "blogLinks": [
         {
-          "url": "https://example.com/qafe-thore-mountain-pass",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "塔羅山口：跨越山脈的壯闘之路"
         }
       ],
@@ -4613,7 +4613,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Pass@42.400,19.870",
       "blogLinks": [
         {
-          "url": "https://example.com/valbona-pass-hiking-alps",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "瓦爾博納觀景台：阿爾巴尼亞阿爾卑斯的心臟地帶"
         }
       ],
@@ -4694,7 +4694,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/cherhan-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "切爾詹海灘：北方海岸的隱世沙灘"
         }
       ]
@@ -4735,7 +4735,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viqiresort@42.350,19.850",
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ],
@@ -4785,7 +4785,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë+Ski+Resort@42.480,19.800",
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ],
@@ -4838,7 +4838,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borshi+Castle@40.060,19.690",
       "blogLinks": [
         {
-          "url": "https://example.com/bori-castle-oslav",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "博爾什城堡：帖申區的中世紀堡壘"
         }
       ],
@@ -4896,7 +4896,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sari+Salt+Factory+Kruja@41.507,19.800",
       "blogLinks": [
         {
-          "url": "https://example.com/sari-salt-factory-heritage",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "薩里鹽廠：阿爾巴尼亞鹽業歷史的見證"
         }
       ],
@@ -4983,7 +4983,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/divjaka-beach-albania",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "迪維亞卡海灘：自然保護區內的原始海岸"
         }
       ]
@@ -5027,7 +5027,7 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Nicholas+Voskopojë@40.550,20.180",
       "blogLinks": [
         {
-          "url": "https://example.com/saint-nicholas-church-voskopoja",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "聖尼古拉斯教堂：沃斯科波亞的東正教明珠"
         }
       ],
@@ -5107,7 +5107,7 @@
       },
       "blogLinks": [
         {
-          "url": "https://example.com/placeholder",
+          "url": "https://en.wikipedia.org/wiki/Albania",
           "title": "遊記placeholder"
         }
       ]
