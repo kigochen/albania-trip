@@ -349,8 +349,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Akrolli_tower.jpg/800px-Akrolli_tower.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Akrolli_tower.jpg/800px-Akrolli_tower.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Akrolli Coastal Tower&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akrolli Coastal Tower@40.44,19.46",
       "blogLinks": [],
@@ -382,8 +384,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dymishti_waterfall.jpg/600px-Dymishti_waterfall.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dymishti_waterfall.jpg/600px-Dymishti_waterfall.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Dymishti Waterfall&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dymishti Waterfall@40.51,19.62",
       "blogLinks": [],
@@ -699,7 +703,7 @@
         "solo"
       ],
       "photos": [],
-      "photoUrl": "",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Greece_MODIS_Terra_Satellite_Image_19_Aug_2004.jpg/60px-Greece_MODIS_Terra_Satellite_Image_19_Aug_2004.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Kanal Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal Beach@39.855,20.02",
       "blogLinks": [],
@@ -1010,8 +1014,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Albanian_Riviera_beach.jpg/600px-Albanian_Riviera_beach.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Albanian_Riviera_beach.jpg/600px-Albanian_Riviera_beach.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Himaranta Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himaranta Beach@39.97,19.59",
       "blogLinks": [],
@@ -1079,7 +1085,7 @@
         "solo"
       ],
       "photos": [],
-      "photoUrl": "",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ALB_20070718_img_1368.jpg/60px-ALB_20070718_img_1368.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Pilur Castle&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pilur Castle@40.055,19.65",
       "blogLinks": [],
@@ -1215,8 +1221,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Albanian_Riviera_Cliffs.jpg/600px-Albanian_Riviera_Cliffs.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Albanian_Riviera_Cliffs.jpg/600px-Albanian_Riviera_Cliffs.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Cape of Gjiri i Kritis&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape of Gjiri i Kritis@39.95,19.57",
       "blogLinks": [],
@@ -1249,7 +1257,7 @@
         "solo"
       ],
       "photos": [],
-      "photoUrl": "",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vlora_war_combined.jpg/60px-Vlora_war_combined.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Fterra Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra Beach@40.03,19.62",
       "blogLinks": [],
@@ -1491,8 +1499,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tirana_Lake.jpg/600px-Tirana_Lake.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tirana_Lake.jpg/600px-Tirana_Lake.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Tirana Lake (Lake of Pazar)&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana Lake (Lake of Pazar)@41.34,19.84",
       "blogLinks": [],
@@ -1667,8 +1677,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gjirokaster_Old_Town.jpg/600px-Gjirokaster_Old_Town.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gjirokaster_Old_Town.jpg/600px-Gjirokaster_Old_Town.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Zagarotti House&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti House@40.072,20.135",
       "blogLinks": [],
@@ -1736,7 +1748,7 @@
         "solo"
       ],
       "photos": [],
-      "photoUrl": "",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Libohova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "googleSearchUrl": "https://www.google.com/search?q=Libohovë Palace&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libohovë Palace@40.05,20.16",
       "blogLinks": [],
@@ -1767,8 +1779,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gjirokaster_Castle.jpg/600px-Gjirokaster_Castle.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gjirokaster_Castle.jpg/600px-Gjirokaster_Castle.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=The Stone Sword of Gjirokastër&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Stone Sword of Gjirokastër@40.078,20.145",
       "blogLinks": [],
@@ -1907,7 +1921,7 @@
         "solo"
       ],
       "photos": [],
-      "photoUrl": "",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mangalemi_neighborhood.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "googleSearchUrl": "https://www.google.com/search?q=Mangalemi Quarter&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalemi Quarter@40.323,19.952",
       "blogLinks": [],
@@ -2149,8 +2163,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vendotena_Tower.jpg/600px-Vendotena_Tower.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vendotena_Tower.jpg/600px-Vendotena_Tower.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Vendotëna Tower&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vendotëna Tower@42.07,19.87",
       "blogLinks": [],
@@ -2466,7 +2482,7 @@
         "solo"
       ],
       "photos": [],
-      "photoUrl": "",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lake_Koman_Albania_2016.jpg/60px-Lake_Koman_Albania_2016.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Koman–Valbona Trail&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman–Valbona Trail@42.2,19.9",
       "blogLinks": [],
@@ -2498,8 +2514,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rrajca_Lake.jpg/600px-Rrajca_Lake.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rrajca_Lake.jpg/600px-Rrajca_Lake.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Rrajca Lake&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rrajca Lake@42.05,20.05",
       "blogLinks": [],
@@ -2531,8 +2549,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Albanian_Mountains.jpg/600px-Albanian_Mountains.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Albanian_Mountains.jpg/600px-Albanian_Mountains.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Bogaj Mountain Pass&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogaj Mountain Pass@42.35,19.84",
       "blogLinks": [],
@@ -2564,8 +2584,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Albanian_Alps.jpg/600px-Albanian_Alps.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Albanian_Alps.jpg/600px-Albanian_Alps.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Çedia e Fratit&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Çedia e Fratit@42.39,19.83",
       "blogLinks": [],
@@ -2597,8 +2619,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Albanian_Alps_peaks.jpg/600px-Albanian_Alps_peaks.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Albanian_Alps_peaks.jpg/600px-Albanian_Alps_peaks.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Kyrë e Madhe&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyrë e Madhe@42.41,19.85",
       "blogLinks": [],
@@ -2666,8 +2690,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Albanian_Waterfall.jpg/600px-Albanian_Waterfall.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Albanian_Waterfall.jpg/600px-Albanian_Waterfall.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Kukaj Waterfall&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kukaj Waterfall@42.37,19.83",
       "blogLinks": [],
@@ -2734,8 +2760,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Albanian_Lake.jpg/600px-Albanian_Lake.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Albanian_Lake.jpg/600px-Albanian_Lake.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Pretash Lake&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretash Lake@42.44,19.86",
       "blogLinks": [],
@@ -2767,8 +2795,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albanian_Hot_Springs.jpg/600px-Albanian_Hot_Springs.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albanian_Hot_Springs.jpg/600px-Albanian_Hot_Springs.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Vukaj Hot Springs&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vukaj Hot Springs@42.35,19.82",
       "blogLinks": [],
@@ -2835,8 +2865,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Albanian_Beach.jpg/600px-Albanian_Beach.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Albanian_Beach.jpg/600px-Albanian_Beach.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Divjakara Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara Beach@40.87,19.56",
       "blogLinks": [],
@@ -2904,7 +2936,7 @@
         "solo"
       ],
       "photos": [],
-      "photoUrl": "",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lengar_M.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "googleSearchUrl": "https://www.google.com/search?q=Lengar Cliff&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lengar Cliff@40.35,19.45",
       "blogLinks": [],
@@ -2936,8 +2968,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Albanian_Vineyard.jpg/600px-Albanian_Vineyard.jpg"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Albanian_Vineyard.jpg/600px-Albanian_Vineyard.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Vashtemi Vineyard&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vashtemi Vineyard@40.1,20.18",
       "blogLinks": [],
