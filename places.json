@@ -43,7 +43,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Durr%C3%ABs_beach_%28by_Pudelek%29.JPG/960px-Durr%C3%ABs_beach_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Beach@41.310,19.470"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Beach@41.310,19.470",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/durres-beach-albania",
+          "title": "都拉斯海灘：亞得里亞海的家庭樂園"
+        }
+      ]
     },
     {
       "id": "drs-castle",
@@ -81,7 +118,29 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg/960px-Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës+Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Castle@41.308,19.443"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Castle@41.308,19.443",
+      "blogLinks": [
+        {
+          "url": "https://example.com/durres-castle-guide",
+          "title": "都拉斯城堡：漫步拜占庭城牆的完整攻略"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "都拉斯城堡迷你模型",
+            "price": "300 Lek",
+            "description": "城門口小攤有售，銀色金屬質感"
+          }
+        ],
+        "local": [
+          {
+            "name": "手工橄欖油肥皂",
+            "price": "500 Lek",
+            "description": "老城區傳統店鋪，阿爾巴尼亞國民品牌"
+          }
+        ]
+      }
     },
     {
       "id": "drs-amphitheatre",
@@ -119,7 +178,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg/960px-Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës+Amphitheatre&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Amphitheatre@41.316,19.447"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Amphitheatre@41.316,19.447",
+      "blogLinks": [
+        {
+          "url": "https://example.com/durres-amphitheatre-guide",
+          "title": "都拉斯圓形劇場：羅馬時代的輝煌遺跡"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "drs-venezia",
@@ -156,7 +236,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Accademia_di_Belle_Arti_Bologna%2C_GIARDINO_GIUSTI_%28Verona_Storia_dell%27Arte_giardino_all%27italiana%29%2C_Tesi_di_Diploma_di_Paolo_Villa%2C_A.A._1993-94%2C_relatori_Eleonora_Frattarolo_e_Fabia_Farneti_ed_2013_con_immagini.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Villa+Venezia+Durrës&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa+Venezia+Durrës@41.310,19.455"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa+Venezia+Durrës@41.310,19.455",
+      "blogLinks": [
+        {
+          "url": "https://example.com/durres-venezia-tower",
+          "title": "威尼斯塔：漫步中世紀都拉斯"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "drs-museum",
@@ -194,7 +295,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Muzeum_Archeologiczne_w_Durr%C3%ABs_1.jpg/960px-Muzeum_Archeologiczne_w_Durr%C3%ABs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës+Archaeological+Museum&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Archaeological+Museum@41.312,19.450"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Archaeological+Museum@41.312,19.450",
+      "blogLinks": [
+        {
+          "url": "https://example.com/durres-archaeology-museum",
+          "title": "都拉斯考古博物館：穿越千年的文明"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "drs-roman-villa",
@@ -227,11 +349,32 @@
       "bestTime": "上午",
       "tips": "與考古博物館安排在一起參觀",
       "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "https://upload.wikimedia.org/wikipedia/commons/c/cf/Amfiteatr_rzymski_w_Durr%C3%ABs_4.jpg"
       ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Amfiteatr_rzymski_w_Durr%C3%ABs_4.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Roman+Villa+Durrës&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman+Villa+Durrës@41.312,19.450"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman+Villa+Durrës@41.312,19.450",
+      "blogLinks": [
+        {
+          "url": "https://example.com/durres-roman-villa-mosaic",
+          "title": "都拉斯羅馬別墅：馬賽克地板的視覺盛宴"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "drs-lighthouse",
@@ -268,7 +411,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Durr%C3%ABs_lighthouse.jpg/960px-Durr%C3%ABs_lighthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës+Lighthouse&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Lighthouse@41.305,19.480"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Lighthouse@41.305,19.480",
+      "blogLinks": [
+        {
+          "url": "https://example.com/durres-lighthouse-sunset",
+          "title": "都拉斯燈塔：亞得里亞海的最佳日落"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "drs-kodra",
@@ -305,7 +463,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Albanian_-_military_interpreting_practice._%28IA_albanianmilitary00army%29.pdf/page1-960px-Albanian_-_military_interpreting_practice._%28IA_albanianmilitary00army%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kodra+Beach+Durrës&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kodra+Beach+Durrës@41.320,19.490"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kodra+Beach+Durrës@41.320,19.490",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/kodra-beach-durres",
+          "title": "科德拉海灘：都拉斯人的秘密海灘"
+        }
+      ]
     },
     {
       "id": "vlr-beach",
@@ -338,11 +533,48 @@
       "bestTime": "上午或傍晚",
       "tips": "旺季建议早点到达抢好位置",
       "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/Promenade_of_Vlor%C3%AB.jpg"
       ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Promenade_of_Vlor%C3%AB.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Vlorë+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë+Beach@40.466,19.485"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë+Beach@40.466,19.485",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/vlore-beach-albania",
+          "title": "發羅拉海灘：南海濱的核心沙灘"
+        }
+      ]
     },
     {
       "id": "vlr-karaburun",
@@ -380,7 +612,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Karaburun_Peninsula%2C_Albania_2016_01.jpg/960px-Karaburun_Peninsula%2C_Albania_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Karaburun+Peninsula&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun+Peninsula@40.380,19.380"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun+Peninsula@40.380,19.380",
+      "blogLinks": [
+        {
+          "url": "https://example.com/karaburun-peninsula-hike",
+          "title": "卡拉布倫半島：阿爾巴尼亞最原始的海岸線健行"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "vlr-sazan",
@@ -418,7 +665,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shen_Nicolo_Bay_-_Sazan_2023.png/960px-Shen_Nicolo_Bay_-_Sazan_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Sazan+Island+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan+Island@40.500,19.280"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan+Island@40.500,19.280",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/sazan-island-diving",
+          "title": "薩贊島：地中海最佳的潛水聖地"
+        }
+      ]
     },
     {
       "id": "vlr-kanali",
@@ -453,7 +737,44 @@
       "photos": [],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Greece_MODIS_Terra_Satellite_Image_19_Aug_2004.jpg/60px-Greece_MODIS_Terra_Satellite_Image_19_Aug_2004.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Kanal+Beach+Vlorë&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal+Beach+Vlorë@40.455,19.470"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal+Beach+Vlorë@40.455,19.470",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/kanal-beach-vlore",
+          "title": "運河海灘：平靜淺水與優美運河風光"
+        }
+      ]
     },
     {
       "id": "vlr-vlora-view",
@@ -490,7 +811,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Panoramic_photo_of_Lungomare_area_in_Vlor%C3%AB.jpg/960px-Panoramic_photo_of_Lungomare_area_in_Vlor%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Vlorë+Panoramic+Viewpoint&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë+Panoramic+Viewpoint@40.470,19.500"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë+Panoramic+Viewpoint@40.470,19.500",
+      "blogLinks": [
+        {
+          "url": "https://example.com/vlora-viewpoint-panorama",
+          "title": "發羅拉全景觀景台：俯瞰海灣與城市的壯觀視角"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "vlr-narta",
@@ -527,7 +863,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg/960px-Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Narta+Lagoon&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta+Lagoon@40.520,19.420"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta+Lagoon@40.520,19.420",
+      "blogLinks": [
+        {
+          "url": "https://example.com/narta-lagoon-birdwatching",
+          "title": "納爾塔瀉湖：火烈鳥與鹽田的生態秘境"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "vlr-drymades",
@@ -564,7 +915,34 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Drymades_Beach.JPG/960px-Drymades_Beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Drymades+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drymades+Beach@40.440,19.410"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drymades+Beach@40.440,19.410",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘防水袋",
+            "price": "€5-10",
+            "description": "透明防水袋，沙灘玩水必備"
+          },
+          {
+            "name": "海灘帽 / 沙龍",
+            "price": "€5-12",
+            "description": "海灘小攤有草帽和彩色沙龍"
+          }
+        ],
+        "local": [
+          {
+            "name": "希臘酸奶黃瓜醬",
+            "price": "€3-6",
+            "description": "當地小店的Tzatziki，配皮塔餅超好吃"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/drymades-beach-albania",
+          "title": "德里馬德斯海灘：松林包圍的原始沙灘"
+        }
+      ]
     },
     {
       "id": "vlr-aktiv",
@@ -599,7 +977,44 @@
       "photos": [],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Promenade_of_Vlor%C3%AB_along_the_Adriatic_Sea.jpg/60px-Promenade_of_Vlor%C3%AB_along_the_Adriatic_Sea.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Aktiv+Beach+Vlorë&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aktiv+Beach+Vlorë@40.450,19.460"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aktiv+Beach+Vlorë@40.450,19.460",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/aktiv-beach-vlore",
+          "title": "阿克蒂夫海灘：家庭友善的安全海灘"
+        }
+      ]
     },
     {
       "id": "srd-beach",
@@ -636,7 +1051,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg/960px-Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Sarandë+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Beach@39.875,20.010"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Beach@39.875,20.010",
+      "blogLinks": [
+        {
+          "url": "https://example.com/saranda-beach-guide",
+          "title": "希格拉海灘：蔚藍海水與潔白沙灘"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      }
     },
     {
       "id": "srd-ksamil",
@@ -673,7 +1125,38 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ksamil%2C_Albania_-_beach.JPG/960px-Ksamil%2C_Albania_-_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Ksamil+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Beach@39.770,20.005"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Beach@39.770,20.005",
+      "blogLinks": [
+        {
+          "url": "https://example.com/ksamil-beach-guide",
+          "title": "小馬爾地夫！Ksamil海灘與群島完整攻略"
+        },
+        {
+          "url": "https://example.com/ksamil-albanian-riviera",
+          "title": "阿爾巴尼亞里維埃拉最夢幻海灘：Ksamil遊記"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "手工貝殼項鍊",
+            "price": "400 Lek",
+            "description": "沙灘小攤有售，每條獨一無二"
+          },
+          {
+            "name": "海灘草編包",
+            "price": "600 Lek",
+            "description": "希格拉市區手工編織"
+          }
+        ],
+        "local": [
+          {
+            "name": "當地鮮魚乾",
+            "price": "500 Lek/kg",
+            "description": "傳統小吃，可嚐鮮"
+          }
+        ]
+      }
     },
     {
       "id": "srd-buta",
@@ -711,7 +1194,33 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Butrint_%28Buthrotum%29%2C_Albania_%28by_Pudelek%29_04_Triconch_Palace.jpg/960px-Butrint_%28Buthrotum%29%2C_Albania_%28by_Pudelek%29_04_Triconch_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Butrint+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint@39.745,20.030"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint@39.745,20.030",
+      "blogLinks": [
+        {
+          "url": "https://example.com/butrint-complete-guide",
+          "title": "【世界遺產】布特林完整攻略：希臘羅馬拜占庭三朝古城"
+        },
+        {
+          "url": "https://example.com/butrint-travel-blog",
+          "title": "阿爾巴尼亞最值得去的古蹟：布特林個人遊記"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "布特林冰箱貼",
+            "price": "200 Lek",
+            "description": "遺址出口小攤有售，銀色迷你模型款"
+          }
+        ],
+        "local": [
+          {
+            "name": " местное вино (當地葡萄酒)",
+            "price": "800 Lek",
+            "description": "附近村莊釀造，值得一試"
+          }
+        ]
+      }
     },
     {
       "id": "srd-blue-eye",
@@ -749,7 +1258,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG/960px-Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Blue+Eye+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue+Eye+Albania@39.890,20.130"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue+Eye+Albania@39.890,20.130",
+      "blogLinks": [
+        {
+          "url": "https://example.com/blue-eye-syri-i-kaliter",
+          "title": "藍眼泉：宛如藍寶石的神秘地下泉"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "srd-ksamil-islands",
@@ -786,7 +1310,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ksamil%2C_Albania_%28by_Pudelek%29.JPG/960px-Ksamil%2C_Albania_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Ksamil+Islands&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Islands@39.760,19.995"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Islands@39.760,19.995",
+      "blogLinks": [
+        {
+          "url": "https://example.com/ksamil-islands-boat-tour",
+          "title": "Ksamil 群島：快艇跳島攻略"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      }
     },
     {
       "id": "srd-ftras",
@@ -821,7 +1382,44 @@
       "photos": [],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vlora_war_combined.jpg/60px-Vlora_war_combined.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Fterra+Bay+Sarandë&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra+Bay+Sarantë@39.850,20.020"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra+Bay+Sarantë@39.850,20.020",
+      "blogLinks": [
+        {
+          "url": "https://example.com/ftras-vlora-bay",
+          "title": "夫特拉灣：隱世的峽灣海灘"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      }
     },
     {
       "id": "srd-bresh",
@@ -856,7 +1454,44 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Bresh+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bresh+Beach@39.840,20.040"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bresh+Beach@39.840,20.040",
+      "blogLinks": [
+        {
+          "url": "https://example.com/bresh-beach-hidden",
+          "title": "布雷什海灘：藏在峽灣中的秘境沙灘"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      }
     },
     {
       "id": "srd-hidra",
@@ -893,7 +1528,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Notes_on_the_visits_to_India_of_their_Royal_Highnesses_the_Prince_of_Wales_and_the_Duke_of_Edinburgh%2C_1870_-_1875-6_%28IA_b28034880%29.pdf/page1-960px-Notes_on_the_visits_to_India_of_their_Royal_Highnesses_the_Prince_of_Wales_and_the_Duke_of_Edinburgh%2C_1870_-_1875-6_%28IA_b28034880%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Hydrabad+Island+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hydrabad+Island@39.820,20.050"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hydrabad+Island@39.820,20.050",
+      "blogLinks": [
+        {
+          "url": "https://example.com/hidra-island-snorkeling",
+          "title": "希德拉巴德島：浮潛與跳島的天堂"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      }
     },
     {
       "id": "srd-cascade",
@@ -928,7 +1600,22 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Sarandë+Cascade&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Cascade@39.900,20.100"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Cascade@39.900,20.100",
+      "blogLinks": [
+        {
+          "url": "https://example.com/saranda-cascade-waterfall",
+          "title": "希格拉瀑布：叢林中的清涼瀑布秘境"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "srd-gjiro",
@@ -965,7 +1652,23 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gjirokast%D1%91r_%28by_Pudelek%29.JPG/960px-Gjirokast%D1%91r_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+View+Sarandë&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+View@39.920,20.150"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+View@39.920,20.150",
+      "blogLinks": [
+        {
+          "url": "https://example.com/gjirokaster-view-road-trip",
+          "title": "從希格拉眺望札科普：必訪的山城全景觀景點"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "全景拍攝鑰匙圈",
+            "price": "150 Lek",
+            "description": "觀景台附近小攤"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "riv-himara",
@@ -1002,7 +1705,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Himara_2021.jpg/960px-Himara_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Himara+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Beach@40.105,19.740"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Beach@40.105,19.740",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/himara-beach-riviera",
+          "title": "希瑪拉海灘：里維埃拉的心臟地帶"
+        }
+      ]
     },
     {
       "id": "riv-dhermi",
@@ -1039,7 +1779,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dhermi_beach..JPG/960px-Dhermi_beach..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Dhermi+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi+Beach@40.025,19.640"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi+Beach@40.025,19.640",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/dhermi-beach-albania",
+          "title": "德爾米海灘：碧海金崖的峽灣風光"
+        }
+      ]
     },
     {
       "id": "riv-jale",
@@ -1076,7 +1853,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jale_Beach_Albania-_1.jpg/960px-Jale_Beach_Albania-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Jale+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale+Beach@40.015,19.620"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale+Beach@40.015,19.620",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/jale-beach-albania",
+          "title": "雅萊海灘：浮潛與潛水的秘境海灣"
+        }
+      ]
     },
     {
       "id": "riv-dhermi-view",
@@ -1111,7 +1925,22 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Dhermi+Viewpoint&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi+Viewpoint@40.030,19.650"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi+Viewpoint@40.030,19.650",
+      "blogLinks": [
+        {
+          "url": "https://example.com/dhermi-viewpoint-albanian-riviera",
+          "title": "德爾米觀景台：阿爾巴尼亞里維埃拉的心臟地帶"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "riv-plot",
@@ -1147,7 +1976,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Albanian_-_military_interpreting_practice._%28IA_albanianmilitary00army%29.pdf/page1-960px-Albanian_-_military_interpreting_practice._%28IA_albanianmilitary00army%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Plot+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plot+Beach@40.050,19.680"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plot+Beach@40.050,19.680",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/plot-beach-riviera",
+          "title": "普洛特海灘：橄欖樹林中的寧靜海灣"
+        }
+      ]
     },
     {
       "id": "riv-himara-castle",
@@ -1185,7 +2051,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Old_Himara%2C_Castle_District.jpg/960px-Old_Himara%2C_Castle_District.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Himara+Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Castle@40.100,19.730"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Castle@40.100,19.730",
+      "blogLinks": [
+        {
+          "url": "https://example.com/himara-castle-byzantine",
+          "title": "希瑪拉城堡：拜占庭時代的山丘要塞"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "riv-borsh",
@@ -1223,7 +2110,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strand_in_Borsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Borsh+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh+Beach@40.060,19.690"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh+Beach@40.060,19.690",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/borsh-beach-albania",
+          "title": "博爾什海灘：3公里長的原始沙岸"
+        }
+      ]
     },
     {
       "id": "riv-saricand",
@@ -1260,7 +2184,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Giro_harte_beach_-_Saranda_Beaches.jpg/960px-Giro_harte_beach_-_Saranda_Beaches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Saranda+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saranda+Beach@39.880,20.020"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saranda+Beach@39.880,20.020",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/saranda-beach-albania",
+          "title": "薩蘭達海灘：便利設施完善的海濱去處"
+        }
+      ]
     },
     {
       "id": "riv-lufar",
@@ -1298,7 +2259,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/L%C3%ABkur%C3%ABsi_Castle%2C_Saranda%2C_Albania_2015-09-25_01.jpg/960px-L%C3%ABkur%C3%ABsi_Castle%2C_Saranda%2C_Albania_2015-09-25_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Lëkurësi+Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@39.850,20.000"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@39.850,20.000",
+      "blogLinks": [
+        {
+          "url": "https://example.com/lufar-castle-albanian-riviera",
+          "title": "盧庫萊西城堡：里維埃拉的神秘堡壘"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "riv-qeparo",
@@ -1334,7 +2316,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Qeparo_beach.jpg/960px-Qeparo_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Qeparo+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo+Beach@40.040,19.670"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo+Beach@40.040,19.670",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/qeparo-beach-albania",
+          "title": "切帕羅海灘：小眾礫石灘的幽靜時光"
+        }
+      ]
     },
     {
       "id": "riv-piceri",
@@ -1370,7 +2389,22 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Albanian+Riviera+Pizza&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Pizza+Restaurant@40.105,19.740"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Pizza+Restaurant@40.105,19.740",
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "riv-vuno",
@@ -1402,11 +2436,48 @@
       "bestTime": "早上或傍晚",
       "tips": "带航拍机拍摄海湾全景",
       "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "https://upload.wikimedia.org/wikipedia/commons/8/89/Vuno_Albania.jpg"
       ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vuno_Albania.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Vuno+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno+Beach@40.010,19.580"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno+Beach@40.010,19.580",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/vuno-beach-albania",
+          "title": "武諾海灘：隱秘峽灣的網美秘境"
+        }
+      ]
     },
     {
       "id": "riv-radhë",
@@ -1440,7 +2511,44 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Radhë+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radhë+Beach@39.980,19.560"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radhë+Beach@39.980,19.560",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/radhe-beach-riviera",
+          "title": "拉澤海灘：遠離塵囂的純樸海灘"
+        }
+      ]
     },
     {
       "id": "riv-shënv",
@@ -1475,7 +2583,44 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Shënmati+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shënmati+Beach@39.950,19.530"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shënmati+Beach@39.950,19.530",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/shenmati-beach-albania",
+          "title": "什內爾馬蒂海灘：適合親子的淺水海灣"
+        }
+      ]
     },
     {
       "id": "riv-vlgore",
@@ -1512,7 +2657,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/State_Magazine_2004-05-_Iss_479_%28IA_sim_state-magazine_2004-05_479%29.pdf/page1-960px-State_Magazine_2004-05-_Iss_479_%28IA_sim_state-magazine_2004-05_479%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Albanian+Riviera+Road&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlora+to+Himara+Road@40.100,19.650"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlora+to+Himara+Road@40.100,19.650",
+      "blogLinks": [
+        {
+          "url": "https://example.com/vlgore-saranda-road-drive",
+          "title": "發羅拉至希瑪拉公路：懸崖峭壁上的自駕體驗"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "trn-skanderbeg",
@@ -1550,7 +2710,29 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG/960px-Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Skanderbeg+Square+Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg+Square+Tirana@41.327,19.818"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg+Square+Tirana@41.327,19.818",
+      "blogLinks": [
+        {
+          "url": "https://example.com/skanderbeg-square-tirana",
+          "title": "地拉那的心臟：斯坎德培廣場與週邊建築"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "斯坎德培騎馬雕像模型",
+            "price": "800 Lek",
+            "description": "廣場周邊紀念品店"
+          }
+        ],
+        "local": [
+          {
+            "name": "阿爾巴尼亞咖啡豆",
+            "price": "600 Lek",
+            "description": "當地品牌 KEÇIK，超市有售"
+          }
+        ]
+      }
     },
     {
       "id": "trn-et-hem",
@@ -1588,7 +2770,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg/960px-Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Et'hem+Bey+Mosque+Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem+Bey+Mosque+Tirana@41.331,19.821"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem+Bey+Mosque+Tirana@41.331,19.821",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "共產時期主題紀念品",
+            "price": "€5-20",
+            "description": "地下碉堡附近有共產時期海報與徽章"
+          },
+          {
+            "name": "藝術畫作與版畫",
+            "price": "€20-80",
+            "description": "地拉那藝術區的本地藝術家作品"
+          },
+          {
+            "name": "阿爾巴尼亞紅酒",
+            "price": "€8-20",
+            "description": "超市有當地莊園紅酒，性價比極高"
+          }
+        ],
+        "local": [
+          {
+            "name": "Burek 起司餡餅",
+            "price": "€1.5-3",
+            "description": "路邊烘焙店的經典阿爾巴尼亞小吃"
+          },
+          {
+            "name": "瑞希札餅 (Byrek)",
+            "price": "€2-4",
+            "description": "節日限定版本的瑞希札餅"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "trn-bunker",
@@ -1626,7 +2845,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Albania_bunker_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Bunker+5+Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker+5+Tirana@41.318,19.810"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker+5+Tirana@41.318,19.810",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "共產時期主題紀念品",
+            "price": "€5-20",
+            "description": "地下碉堡附近有共產時期海報與徽章"
+          },
+          {
+            "name": "藝術畫作與版畫",
+            "price": "€20-80",
+            "description": "地拉那藝術區的本地藝術家作品"
+          },
+          {
+            "name": "阿爾巴尼亞紅酒",
+            "price": "€8-20",
+            "description": "超市有當地莊園紅酒，性價比極高"
+          }
+        ],
+        "local": [
+          {
+            "name": "Burek 起司餡餅",
+            "price": "€1.5-3",
+            "description": "路邊烘焙店的經典阿爾巴尼亞小吃"
+          },
+          {
+            "name": "瑞希札餅 (Byrek)",
+            "price": "€2-4",
+            "description": "節日限定版本的瑞希札餅"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "trn-clock",
@@ -1664,7 +2920,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG/960px-Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Clock+Tower+Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock+Tower+Tirana@41.329,19.824"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock+Tower+Tirana@41.329,19.824",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "共產時期主題紀念品",
+            "price": "€5-20",
+            "description": "地下碉堡附近有共產時期海報與徽章"
+          },
+          {
+            "name": "藝術畫作與版畫",
+            "price": "€20-80",
+            "description": "地拉那藝術區的本地藝術家作品"
+          },
+          {
+            "name": "阿爾巴尼亞紅酒",
+            "price": "€8-20",
+            "description": "超市有當地莊園紅酒，性價比極高"
+          }
+        ],
+        "local": [
+          {
+            "name": "Burek 起司餡餅",
+            "price": "€1.5-3",
+            "description": "路邊烘焙店的經典阿爾巴尼亞小吃"
+          },
+          {
+            "name": "瑞希札餅 (Byrek)",
+            "price": "€2-4",
+            "description": "節日限定版本的瑞希札餅"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "trn-pyramid",
@@ -1702,7 +2995,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pir%C3%A1mide%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_17.JPG/960px-Pir%C3%A1mide%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Pyramid+of+Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pyramid+of+Tirana@41.319,19.825"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pyramid+of+Tirana@41.319,19.825",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "共產時期主題紀念品",
+            "price": "€5-20",
+            "description": "地下碉堡附近有共產時期海報與徽章"
+          },
+          {
+            "name": "藝術畫作與版畫",
+            "price": "€20-80",
+            "description": "地拉那藝術區的本地藝術家作品"
+          },
+          {
+            "name": "阿爾巴尼亞紅酒",
+            "price": "€8-20",
+            "description": "超市有當地莊園紅酒，性價比極高"
+          }
+        ],
+        "local": [
+          {
+            "name": "Burek 起司餡餅",
+            "price": "€1.5-3",
+            "description": "路邊烘焙店的經典阿爾巴尼亞小吃"
+          },
+          {
+            "name": "瑞希札餅 (Byrek)",
+            "price": "€2-4",
+            "description": "節日限定版本的瑞希札餅"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "trn-museum",
@@ -1740,7 +3070,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg/960px-Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=National+History+Museum+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National+History+Museum+Tirana@41.319,19.824"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National+History+Museum+Tirana@41.319,19.824",
+      "blogLinks": [
+        {
+          "url": "https://example.com/tirana-national-history-museum",
+          "title": "國家歷史博物館：阿爾巴尼亞的縮時膠卷"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "trn-park",
@@ -1778,7 +3129,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Park_of_Tirana_2017.jpg/960px-Grand_Park_of_Tirana_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Grand+Park+Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Park+Tirana@41.315,19.800"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Park+Tirana@41.315,19.800",
+      "blogLinks": [
+        {
+          "url": "https://example.com/tirana-grand-park-lake",
+          "title": "大地拉那公園：城市中的綠洲與人工湖"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "trn-art",
@@ -1816,7 +3182,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/WoALUG%27s_Fine_Arts_Workshop_in_Tirana%2C_Albania_01.jpg/960px-WoALUG%27s_Fine_Arts_Workshop_in_Tirana%2C_Albania_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Tirana+Street+Art&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana+Art+District@41.320,19.810"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana+Art+District@41.320,19.810",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "共產時期主題紀念品",
+            "price": "€5-20",
+            "description": "地下碉堡附近有共產時期海報與徽章"
+          },
+          {
+            "name": "藝術畫作與版畫",
+            "price": "€20-80",
+            "description": "地拉那藝術區的本地藝術家作品"
+          },
+          {
+            "name": "阿爾巴尼亞紅酒",
+            "price": "€8-20",
+            "description": "超市有當地莊園紅酒，性價比極高"
+          }
+        ],
+        "local": [
+          {
+            "name": "Burek 起司餡餅",
+            "price": "€1.5-3",
+            "description": "路邊烘焙店的經典阿爾巴尼亞小吃"
+          },
+          {
+            "name": "瑞希札餅 (Byrek)",
+            "price": "€2-4",
+            "description": "節日限定版本的瑞希札餅"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "gji-castle",
@@ -1854,7 +3257,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg/960px-Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Castle@40.076,20.140"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Castle@40.076,20.140",
+      "blogLinks": [
+        {
+          "url": "https://example.com/gjirokaster-castle-ottoman",
+          "title": "吉羅卡斯特城堡：站在巨人的肩膀上俯瞰山谷"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "gji-zagarotti",
@@ -1889,7 +3313,28 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Zagarotti+House+Gjirokastër&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti+House+Gjirokastër@40.072,20.135"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti+House+Gjirokastër@40.072,20.135",
+      "blogLinks": [
+        {
+          "url": "https://example.com/zagarotti-house-family",
+          "title": "扎加羅蒂別墅：了解阿爾巴尼亞貴族歷史"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "gji-kadje",
@@ -1927,7 +3372,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_war_and_the_Bagdad_railway_%28IA_warbagdadrailway03jast%29.pdf/page1-500px-The_war_and_the_Bagdad_railway_%28IA_warbagdadrailway03jast%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kadesh+Museum+Gjirokastër&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kadesh+Museum+Gjirokastër@40.074,20.137"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kadesh+Museum+Gjirokastër@40.074,20.137",
+      "blogLinks": [
+        {
+          "url": "https://example.com/kadje-museum-traditional",
+          "title": "卡迪什博物館：鄂圖曼時期的市井生活"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "gji-lib",
@@ -1963,7 +3429,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_World_Factbook_%281990%29.djvu/page1-960px-The_World_Factbook_%281990%29.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Library&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Library@40.075,20.138"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Library@40.075,20.138",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "手工地毯 / 掛毯",
+            "price": "€30-200",
+            "description": "老城區市集有手工羊毛地毯，可殺價"
+          },
+          {
+            "name": "橄欖油小瓶",
+            "price": "€5-15",
+            "description": "當地特產初榨橄欖油，路上農夫直售"
+          },
+          {
+            "name": "冰箱貼與磁鐵",
+            "price": "€1-3",
+            "description": "景區小攤有城堡造型冰箱貼"
+          }
+        ],
+        "local": [
+          {
+            "name": "當地起司 (byrek 餡餅)",
+            "price": "€2-5",
+            "description": "路邊攤的酥皮餡餅，鴉子與起司口味"
+          },
+          {
+            "name": "咖啡與紅茶",
+            "price": "€2-4",
+            "description": "當地烘焙咖啡豆，或高山紅茶"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "gji-view",
@@ -2001,7 +3504,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Gjirokast%C3%ABr%2C_vyhl%C3%ADdka_z_pevnosti.jpg/960px-Gjirokast%C3%ABr%2C_vyhl%C3%ADdka_z_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Viewpoint&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Viewpoint@40.078,20.145"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Viewpoint@40.078,20.145",
+      "blogLinks": [
+        {
+          "url": "https://example.com/gjirokaster-viewpoint-valley",
+          "title": "吉羅卡斯特觀景台：俯瞰杜拉山谷全景"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "gji-enclosure",
@@ -2035,11 +3553,32 @@
       "bestTime": "清晨或傍晚",
       "tips": "穿舒适的步行鞋，带好相机",
       "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tirana%2C_Teqja_e_Sheh_Dyrrit%2C_2024-10_CN-01.jpg/960px-Tirana%2C_Teqja_e_Sheh_Dyrrit%2C_2024-10_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg"
       ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tirana%2C_Teqja_e_Sheh_Dyrrit%2C_2024-10_CN-01.jpg/960px-Tirana%2C_Teqja_e_Sheh_Dyrrit%2C_2024-10_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Old+Town&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Old+Town@40.070,20.130"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Old+Town@40.070,20.130",
+      "blogLinks": [
+        {
+          "url": "https://example.com/gjirokaster-enclosure-wall",
+          "title": "石圍欄：古代防御工事的神秘面紗"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "ber-castle",
@@ -2077,7 +3616,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berat_Castle_%28by_Pudelek%29_2.JPG/960px-Berat_Castle_%28by_Pudelek%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Berat+Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Castle@40.325,19.950"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Castle@40.325,19.950",
+      "blogLinks": [
+        {
+          "url": "https://example.com/berat-citadel-kala",
+          "title": "培拉特城堡：千年石頭城的守護者"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "ber-gorica",
@@ -2115,7 +3675,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG/960px-Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gorica+Bridge+Berat&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica+Bridge+Berat@40.320,19.940"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica+Bridge+Berat@40.320,19.940",
+      "blogLinks": [
+        {
+          "url": "https://example.com/gorica-bridge-osjake",
+          "title": "戈里卡橋：帖申區的標誌性古橋"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "ber-mangal",
@@ -2153,7 +3734,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/20170716_131214_July_2017_in_Albania.jpg/960px-20170716_131214_July_2017_in_Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Mangalem+Quarter+Berat&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalem+Quarter+Berat@40.323,19.952"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalem+Quarter+Berat@40.323,19.952",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "培拉特手工香水",
+            "price": "€15-40",
+            "description": "古城區有本地調香師製作的花香香水"
+          },
+          {
+            "name": "木雕製品",
+            "price": "€10-50",
+            "description": "木雕師傅現場製作的動物與城堡模型"
+          },
+          {
+            "name": "傳統服飾小模型",
+            "price": "€5-15",
+            "description": "迷你版阿爾巴尼亞傳統服飾擺設"
+          }
+        ],
+        "local": [
+          {
+            "name": "當地蜂蜜",
+            "price": "€5-12",
+            "description": "山區養蜂人的野生百里香蜂蜜"
+          },
+          {
+            "name": "石榴與無花果乾",
+            "price": "€3-8",
+            "description": "古城區市集的季節性乾果"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "ber-red",
@@ -2191,7 +3809,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Berat_Albania_13.jpg/960px-Berat_Albania_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Red+Mosque+Berat&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red+Mosque+Berat@40.322,19.948"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red+Mosque+Berat@40.322,19.948",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "培拉特手工香水",
+            "price": "€15-40",
+            "description": "古城區有本地調香師製作的花香香水"
+          },
+          {
+            "name": "木雕製品",
+            "price": "€10-50",
+            "description": "木雕師傅現場製作的動物與城堡模型"
+          },
+          {
+            "name": "傳統服飾小模型",
+            "price": "€5-15",
+            "description": "迷你版阿爾巴尼亞傳統服飾擺設"
+          }
+        ],
+        "local": [
+          {
+            "name": "當地蜂蜜",
+            "price": "€5-12",
+            "description": "山區養蜂人的野生百里香蜂蜜"
+          },
+          {
+            "name": "石榴與無花果乾",
+            "price": "€3-8",
+            "description": "古城區市集的季節性乾果"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "ber-quarter",
@@ -2228,7 +3883,44 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Xhamia_e_Beqar%C3%ABve_Berat.jpg/960px-Xhamia_e_Beqar%C3%ABve_Berat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gorica+Quarter+Berat&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica+Quarter+Berat@40.321,19.942"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica+Quarter+Berat@40.321,19.942",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "培拉特手工香水",
+            "price": "€15-40",
+            "description": "古城區有本地調香師製作的花香香水"
+          },
+          {
+            "name": "木雕製品",
+            "price": "€10-50",
+            "description": "木雕師傅現場製作的動物與城堡模型"
+          },
+          {
+            "name": "傳統服飾小模型",
+            "price": "€5-15",
+            "description": "迷你版阿爾巴尼亞傳統服飾擺設"
+          }
+        ],
+        "local": [
+          {
+            "name": "當地蜂蜜",
+            "price": "€5-12",
+            "description": "山區養蜂人的野生百里香蜂蜜"
+          },
+          {
+            "name": "石榴與無花果乾",
+            "price": "€3-8",
+            "description": "古城區市集的季節性乾果"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "ber-view",
@@ -2266,7 +3958,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Berat%2C_Albania%2C_November_2022_-_Viewpoint.jpg/960px-Berat%2C_Albania%2C_November_2022_-_Viewpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Berat+Viewpoint&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Viewpoint@40.328,19.955"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Viewpoint@40.328,19.955",
+      "blogLinks": [
+        {
+          "url": "https://example.com/berat-viewpoint-golden-hours",
+          "title": "培拉特觀景台：捕捉「千窗之城」的最佳角度"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "shk-rozafa",
@@ -2304,7 +4011,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG/960px-Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Rozafa+Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa+Castle@42.040,19.930"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa+Castle@42.040,19.930",
+      "blogLinks": [
+        {
+          "url": "https://example.com/rozafa-castle-skyllin",
+          "title": "羅扎法城堡：布爾尼湖與三河交匯處的傳奇要塞"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "shk-lake",
@@ -2343,7 +4071,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shkodra_Lake_Zogaj.jpg/960px-Shkodra_Lake_Zogaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Shkodra+Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Lake@42.050,19.620"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Lake@42.050,19.620",
+      "blogLinks": [
+        {
+          "url": "https://example.com/shkoder-lake-boat-tour",
+          "title": "斯庫台湖：與蒙特內哥羅共享的高山湖泊"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "shk-view",
@@ -2379,7 +4122,22 @@
       "photos": [],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/GjonBuzuku.jpg/60px-GjonBuzuku.jpg",
       "googleSearchUrl": "https://www.google.com/search?q=Shkodra+Viewpoint&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Viewpoint@42.045,19.910"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Viewpoint@42.045,19.910",
+      "blogLinks": [
+        {
+          "url": "https://example.com/shkoder-viewpoint-rosafa",
+          "title": "斯庫台觀景台：俯瞰城堡與湖泊的最佳視角"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "shk-leku",
@@ -2416,7 +4174,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/L%C3%ABkur%C3%ABsi_Castle%2C_Saranda%2C_Albania_2015-09-25_01.jpg/960px-L%C3%ABkur%C3%ABsi_Castle%2C_Saranda%2C_Albania_2015-09-25_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Lëkurësi+Castle+Shkodra&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@42.055,19.920"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@42.055,19.920",
+      "blogLinks": [
+        {
+          "url": "https://example.com/leku-castle-fortress",
+          "title": "萊庫萊西城堡：中世紀的山丘防線"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "shk-vera",
@@ -2454,7 +4233,34 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Barber_from_Shkodra.jpg/960px-Barber_from_Shkodra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Shkodra+Old+Town&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Old+Town@42.038,19.925"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Old+Town@42.038,19.925",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "斯庫台湖魚罐頭",
+            "price": "€5-10",
+            "description": "當地加工的鱘魚罐頭，高級且稀有"
+          },
+          {
+            "name": "手工皮革製品",
+            "price": "€15-60",
+            "description": "老城區皮革工匠的錢包與皮帶"
+          }
+        ],
+        "local": [
+          {
+            "name": "土耳其咖啡",
+            "price": "€1.5-3",
+            "description": "老城區咖啡館的傳統土耳其咖啡"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     },
     {
       "id": "nth-theth",
@@ -2492,7 +4298,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg/960px-Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Theth+Village+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth+Village@42.380,19.810"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth+Village@42.380,19.810",
+      "blogLinks": [
+        {
+          "url": "https://example.com/theth-village-north-albania",
+          "title": "泰特村：與世隔絕的阿爾巴尼亞高山村落"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-valbona",
@@ -2530,7 +4351,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013-10-05_Valbona%2C_Albania_8806.jpg/960px-2013-10-05_Valbona%2C_Albania_8806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Valbona+Valley&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Valley@42.420,19.880"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Valley@42.420,19.880",
+      "blogLinks": [
+        {
+          "url": "https://example.com/valbona-valley-hiking",
+          "title": "瓦爾博納山谷：通往阿爾巴尼亞屋脊的健行勝地"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-koman",
@@ -2568,7 +4404,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg/960px-2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Koman+Lake+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman+Lake@42.150,19.920"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman+Lake@42.150,19.920",
+      "blogLinks": [
+        {
+          "url": "https://example.com/koman-lake-ferry-boat",
+          "title": "科曼湖：峽谷中的翡翠項鍤"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-grunget",
@@ -2603,7 +4454,22 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Grunget+Lake+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grunget+Lake@42.390,19.820"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grunget+Lake@42.390,19.820",
+      "blogLinks": [
+        {
+          "url": "https://example.com/grunget-lake-mountain",
+          "title": "格林格湖：高山湖泊的幽靜之美"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-bogove",
@@ -2641,7 +4507,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Waterfall_Bogove.jpg/960px-Waterfall_Bogove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Bogovë+Waterfall&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogovë+Waterfall@42.350,19.840"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogovë+Waterfall@42.350,19.840",
+      "blogLinks": [
+        {
+          "url": "https://example.com/bogove-waterfall-fierza",
+          "title": "博戈韋瀑布：藏在天山洞谷中的水簾"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-qafe-thore",
@@ -2678,7 +4559,22 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mensur_gashi.jpg/960px-Mensur_gashi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Qafe+Thore+Pass&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qafe+Thore+Pass@42.400,19.870"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qafe+Thore+Pass@42.400,19.870",
+      "blogLinks": [
+        {
+          "url": "https://example.com/qafe-thore-mountain-pass",
+          "title": "塔羅山口：跨越山脈的壯闘之路"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-valbona-pass",
@@ -2714,7 +4610,22 @@
       "photos": [],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Brotherhood_and_Unity_Square_in_2012.tif/lossless-page1-60px-Brotherhood_and_Unity_Square_in_2012.tif.png",
       "googleSearchUrl": "https://www.google.com/search?q=Valbona+Pass+Viewpoint&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Pass@42.400,19.870"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Pass@42.400,19.870",
+      "blogLinks": [
+        {
+          "url": "https://example.com/valbona-pass-hiking-alps",
+          "title": "瓦爾博納觀景台：阿爾巴尼亞阿爾卑斯的心臟地帶"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-cherhan",
@@ -2749,7 +4660,44 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Cerjan+Beach+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerjan+Beach@41.820,19.580"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerjan+Beach@41.820,19.580",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/cherhan-beach-albania",
+          "title": "切爾詹海灘：北方海岸的隱世沙灘"
+        }
+      ]
     },
     {
       "id": "nth-viqir",
@@ -2784,7 +4732,22 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Viqiresort+Albania&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viqiresort@42.350,19.850"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viqiresort@42.350,19.850",
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "nth-boge",
@@ -2819,7 +4782,22 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Bogë+Ski+Resort&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë+Ski+Resort@42.480,19.800"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë+Ski+Resort@42.480,19.800",
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "當地紀念品",
+            "price": "€10-30"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "kru-bori",
@@ -2857,7 +4835,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Borshi_Castle_entrance.jpg/960px-Borshi_Castle_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Borshi+Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borshi+Castle@40.060,19.690"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borshi+Castle@40.060,19.690",
+      "blogLinks": [
+        {
+          "url": "https://example.com/bori-castle-oslav",
+          "title": "博爾什城堡：帖申區的中世紀堡壘"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "kru-sari",
@@ -2894,7 +4893,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Photographic_interpretation_keys_-_underground_installations_%28IA_photographicinte01unit%29.pdf/page1-960px-Photographic_interpretation_keys_-_underground_installations_%28IA_photographicinte01unit%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Sari+Salt+Factory+Kruja&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sari+Salt+Factory+Kruja@41.507,19.800"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sari+Salt+Factory+Kruja@41.507,19.800",
+      "blogLinks": [
+        {
+          "url": "https://example.com/sari-salt-factory-heritage",
+          "title": "薩里鹽廠：阿爾巴尼亞鹽業歷史的見證"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "div-lumni",
@@ -2929,7 +4949,44 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Divjakara+Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara+Beach@40.870,19.560"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara+Beach@40.870,19.560",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "沙灘拖鞋",
+            "price": "€5-15",
+            "description": "海灘小攤有各式塑膠拖鞋，砍價可達半價"
+          },
+          {
+            "name": "太陽眼鏡",
+            "price": "€3-10",
+            "description": "路邊攤有仿款眼鏡，實用為主"
+          },
+          {
+            "name": "沙灘毛巾 / 波斯坎",
+            "price": "€5-15",
+            "description": "阿拉伯風格沙灘巾，海灘必備"
+          }
+        ],
+        "local": [
+          {
+            "name": "海灘零食",
+            "price": "€2-5",
+            "description": "路邊小販的炸物、烤玉米"
+          },
+          {
+            "name": "當地水果",
+            "price": "€1-3/kg",
+            "description": "夏季盛產櫻桃、葡萄、西瓜"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/divjaka-beach-albania",
+          "title": "迪維亞卡海灘：自然保護區內的原始海岸"
+        }
+      ]
     },
     {
       "id": "ohr-church",
@@ -2967,7 +5024,28 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lezh%C3%AB%2C_Albania_%E2%80%93_Skanderbeg_Memorial_2016_03.jpg/960px-Lezh%C3%AB%2C_Albania_%E2%80%93_Skanderbeg_Memorial_2016_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Church+of+Saint+Nicholas+Voskopojë&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Nicholas+Voskopojë@40.550,20.180"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Nicholas+Voskopojë@40.550,20.180",
+      "blogLinks": [
+        {
+          "url": "https://example.com/saint-nicholas-church-voskopoja",
+          "title": "聖尼古拉斯教堂：沃斯科波亞的東正教明珠"
+        }
+      ],
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "城堡迷你模型",
+            "price": "€5-15",
+            "description": "城堡入口小攤的迷你城堡模型"
+          },
+          {
+            "name": "冰箱貼 / 磁鐵",
+            "price": "€1-3",
+            "description": "景區小店的城堡造型磁鐵"
+          }
+        ],
+        "local": []
+      }
     },
     {
       "id": "ohr-village",
@@ -3005,7 +5083,34 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Voskopoja_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Voskopojë+Village&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Voskopojë+Village@40.550,20.180"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Voskopojë+Village@40.550,20.180",
+      "mustBuy": {
+        "tourist": [
+          {
+            "name": "奧赫里德手工首飾",
+            "price": "€10-30",
+            "description": "湖畔手工藝店的海灘石首飾"
+          },
+          {
+            "name": "教堂主題明信片",
+            "price": "€0.5-2",
+            "description": "聖克利門特教堂附近有售"
+          }
+        ],
+        "local": [
+          {
+            "name": "當地白酒",
+            "price": "€5-15",
+            "description": "維尼察白葡萄酒，當地酒莊出品"
+          }
+        ]
+      },
+      "blogLinks": [
+        {
+          "url": "https://example.com/placeholder",
+          "title": "遊記placeholder"
+        }
+      ]
     }
   ]
 }

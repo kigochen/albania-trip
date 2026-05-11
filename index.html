@@ -280,6 +280,23 @@
 <script>
 const FALLBACK_IMG = 'https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800';
 
+// XSS protection: escape HTML special characters
+function escapeHtml(str) {
+  if (!str) return '';
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+// URL validation: only allow http/https
+function safeUrl(url) {
+  if (!url || typeof url !== 'string') return '#';
+  return url.startsWith('http://') || url.startsWith('https://') ? url : '#';
+}
+
 function fallbackMapsUrl(place) {
   const encodedName = encodeURIComponent(place.name + ' ' + place.city);
   const [lat, lng] = place.coordinates;
@@ -354,7 +371,7 @@ function renderPlaces() {
           <summary class="text-xs text-charcoal cursor-pointer hover:text-cofounderBlue">📝 相關遊記 (${p.blogLinks.length})</summary>
           <div class="pl-2 mt-1 space-y-1">
             ${p.blogLinks.map(b => `
-              <a href="${b.url}" target="_blank" rel="noopener" class="text-xs text-cofounderBlue hover:underline">${b.title || b.url}</a>
+              <a href="${safeUrl(b.url)}" target="_blank" rel="noopener" class="text-xs text-cofounderBlue hover:underline">${escapeHtml(b.title) || safeUrl(b.url)}</a>
             `).join('')}
           </div>
         </details>
@@ -371,9 +388,9 @@ function renderPlaces() {
                     <div class="flex items-start gap-2 text-xs">
                       <span class="text-charcoal">•</span>
                       <div>
-                        <span class="text-charcoal font-medium">${item.name}</span>
-                        <span class="text-cofounderBlue ml-1">${item.price}</span>
-                        <p class="text-gray-400 text-xs">${item.description}</p>
+                        <span class="text-charcoal font-medium">${escapeHtml(item.name)}</span>
+                        <span class="text-cofounderBlue ml-1">${escapeHtml(item.price)}</span>
+                        <p class="text-gray-400 text-xs">${escapeHtml(item.description)}</p>
                       </div>
                     </div>
                   `).join('')}
@@ -388,9 +405,9 @@ function renderPlaces() {
                     <div class="flex items-start gap-2 text-xs">
                       <span class="text-charcoal">•</span>
                       <div>
-                        <span class="text-charcoal font-medium">${item.name}</span>
-                        <span class="text-cofounderBlue ml-1">${item.price}</span>
-                        <p class="text-gray-400 text-xs">${item.description}</p>
+                        <span class="text-charcoal font-medium">${escapeHtml(item.name)}</span>
+                        <span class="text-cofounderBlue ml-1">${escapeHtml(item.price)}</span>
+                        <p class="text-gray-400 text-xs">${escapeHtml(item.description)}</p>
                       </div>
                     </div>
                   `).join('')}
