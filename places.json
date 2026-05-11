@@ -32,8 +32,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Durr%C3%ABs_beach_%28by_Pudelek%29.JPG/960px-Durr%C3%ABs_beach_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Durr%C3%ABs_beach_%28by_Pudelek%29.JPG/960px-Durr%C3%ABs_beach_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Beach@41.31,19.47"
     },
@@ -60,8 +62,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg/960px-Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg/960px-Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Amphitheatre&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Amphitheatre@41.316,19.447"
     },
@@ -88,8 +92,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg/960px-Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg/960px-Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Castle&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Castle@41.308,19.443"
     },
@@ -116,8 +122,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Roman Villa of Durrës&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman Villa of Durrës@41.312,19.45"
     },
@@ -144,8 +152,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Durres_ship_in_bay.jpg/960px-Durres_ship_in_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Durres_ship_in_bay.jpg/960px-Durres_ship_in_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Bay&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Bay@41.305,19.475"
     },
@@ -172,8 +182,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg/960px-Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg/960px-Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kune-Vain Lagoon&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kune-Vain Lagoon@41.58,19.56"
     },
@@ -200,8 +212,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Vlorë Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë Beach@40.466,19.485"
     },
@@ -229,8 +243,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Karaburun_Peninsula%2C_Albania_2016_01.jpg/960px-Karaburun_Peninsula%2C_Albania_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Karaburun_Peninsula%2C_Albania_2016_01.jpg/960px-Karaburun_Peninsula%2C_Albania_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Karaburun Peninsula&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun Peninsula@40.38,19.38"
     },
@@ -258,8 +274,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shen_Nicolo_Bay_-_Sazan_2023.png/960px-Shen_Nicolo_Bay_-_Sazan_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shen_Nicolo_Bay_-_Sazan_2023.png/960px-Shen_Nicolo_Bay_-_Sazan_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Sazan Island&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan Island@40.5,19.28"
     },
@@ -342,8 +360,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg/960px-Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg/960px-Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Zvernec Island&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zvernec Island@40.51,19.4"
     },
@@ -370,8 +390,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg/960px-Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg/960px-Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Narta Lagoon&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta Lagoon@40.52,19.42"
     },
@@ -399,8 +421,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg/960px-Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg/960px-Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Sarandë Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë Beach@39.875,20.01"
     },
@@ -428,8 +452,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ksamil%2C_Albania_-_beach.JPG/960px-Ksamil%2C_Albania_-_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ksamil%2C_Albania_-_beach.JPG/960px-Ksamil%2C_Albania_-_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Ksamil Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Beach@39.77,20.005"
     },
@@ -457,8 +483,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ksamil%2C_Albania_%28by_Pudelek%29.JPG/960px-Ksamil%2C_Albania_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ksamil%2C_Albania_%28by_Pudelek%29.JPG/960px-Ksamil%2C_Albania_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Ksamil Islands&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Islands@39.76,19.995"
     },
@@ -485,8 +513,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2011_Butrint_37_city_wall_ruins.jpg/960px-2011_Butrint_37_city_wall_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2011_Butrint_37_city_wall_ruins.jpg/960px-2011_Butrint_37_city_wall_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Butrint Ancient City&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint Ancient City@39.745,20.03"
     },
@@ -513,8 +543,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG/960px-Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG/960px-Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=The Blue Eye&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Blue Eye@39.89,20.13"
     },
@@ -541,8 +573,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Buna_delta_%28WPWTR16%29.JPG/960px-Buna_delta_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Buna_delta_%28WPWTR16%29.JPG/960px-Buna_delta_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Buna River Delta&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River Delta@39.82,20.15"
     },
@@ -597,8 +631,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf/page1-500px-Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf/page1-500px-Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Hilo Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hilo Beach@39.865,20.035"
     },
@@ -625,8 +661,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A_Tour_in_Dalmatia%2C_Albania_and_Montenegro%3B_with_an_Historical_Sketch_of_the_Republic_of_Prussia%2C_from_the_Earliest_Times_Down_to_its_Final_Fall_%28IA_dli.granth.111572%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A_Tour_in_Dalmatia%2C_Albania_and_Montenegro%3B_with_an_Historical_Sketch_of_the_Republic_of_Prussia%2C_from_the_Earliest_Times_Down_to_its_Final_Fall_%28IA_dli.granth.111572%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Mirror Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirror Beach@39.78,20.015"
     },
@@ -653,8 +691,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Himara_2021.jpg/960px-Himara_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Himara_2021.jpg/960px-Himara_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Himara Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Beach@40.105,19.74"
     },
@@ -681,8 +721,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg/960px-Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg/960px-Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Himara Old Town&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Old Town@40.1,19.73"
     },
@@ -709,8 +751,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strand_in_Borsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strand_in_Borsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Borsh Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh Beach@40.06,19.69"
     },
@@ -737,8 +781,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dhermi_beach..JPG/960px-Dhermi_beach..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dhermi_beach..JPG/960px-Dhermi_beach..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Dhermi Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi Beach@40.025,19.64"
     },
@@ -765,8 +811,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jale_Beach_Albania-_1.jpg/960px-Jale_Beach_Albania-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jale_Beach_Albania-_1.jpg/960px-Jale_Beach_Albania-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Jale Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale Beach@40.015,19.62"
     },
@@ -793,8 +841,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drimades_beach.jpg/960px-Drimades_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drimades_beach.jpg/960px-Drimades_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Drimades Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drimades Beach@39.98,19.6"
     },
@@ -848,8 +898,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Vuno Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno Beach@40.01,19.58"
     },
@@ -903,8 +955,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Qeparo_beach.jpg/960px-Qeparo_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Qeparo_beach.jpg/960px-Qeparo_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Qeparo Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo Beach@40.04,19.67"
     },
@@ -931,8 +985,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf/page1-500px-Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf/page1-500px-Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Porto Palermo Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto Palermo Beach@40.12,19.72"
     },
@@ -959,8 +1015,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Literary_digest_history_of_the_world_war%2C_compiled_from_original_and_contemporary_sources-_American%2C_British%2C_French%2C_German%2C_and_others_%28IA_cu31924088055102%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Literary_digest_history_of_the_world_war%2C_compiled_from_original_and_contemporary_sources-_American%2C_British%2C_French%2C_German%2C_and_others_%28IA_cu31924088055102%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Pasha Liman Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pasha Liman Beach@40.08,19.75"
     },
@@ -1043,8 +1101,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg/960px-View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg/960px-View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Lukovë Beach&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lukovë Beach@39.93,19.55"
     },
@@ -1071,8 +1131,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG/960px-Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG/960px-Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Skanderbeg Square&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg Square@41.327,19.818"
     },
@@ -1099,8 +1161,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg/960px-Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg/960px-Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Et'hem Bey Mosque&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem Bey Mosque@41.331,19.821"
     },
@@ -1127,8 +1191,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Albanian_bunker_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Albanian_bunker_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Bunker 21&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker 21@41.318,19.81"
     },
@@ -1155,8 +1221,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG/960px-Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG/960px-Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Clock Tower of Tirana&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock Tower of Tirana@41.329,19.824"
     },
@@ -1183,8 +1251,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Park_of_Tirana_2017.jpg/960px-Grand_Park_of_Tirana_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Park_of_Tirana_2017.jpg/960px-Grand_Park_of_Tirana_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Grand Park of Tirana&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand Park of Tirana@41.315,19.8"
     },
@@ -1239,8 +1309,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg/960px-Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg/960px-Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=National History Museum&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National History Museum@41.319,19.824"
     },
@@ -1268,8 +1340,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerial_shot_of_the_Hoxha_former_house.webm/960px--Aerial_shot_of_the_Hoxha_former_house.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerial_shot_of_the_Hoxha_former_house.webm/960px--Aerial_shot_of_the_Hoxha_former_house.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
       "googleSearchUrl": "https://www.google.com/search?q=Blloku District&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blloku District@41.319,19.807"
     },
@@ -1297,8 +1371,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mount_Dajti_-_Peak.jpg/960px-Mount_Dajti_-_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mount_Dajti_-_Peak.jpg/960px-Mount_Dajti_-_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Mount Dajti&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount Dajti@41.36,19.91"
     },
@@ -1326,8 +1402,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg/960px-Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg/960px-Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Castle&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Castle@40.076,20.14"
     },
@@ -1382,8 +1460,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gjirokast%C3%ABr_Old_Town_%282%29.jpg/960px-Gjirokast%C3%ABr_Old_Town_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gjirokast%C3%ABr_Old_Town_%282%29.jpg/960px-Gjirokast%C3%ABr_Old_Town_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Old Town&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Old Town@40.075,20.138"
     },
@@ -1465,8 +1545,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Enclosed City&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Enclosed City@40.07,20.13"
     },
@@ -1494,8 +1576,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berat_Castle_%28by_Pudelek%29_2.JPG/960px-Berat_Castle_%28by_Pudelek%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berat_Castle_%28by_Pudelek%29_2.JPG/960px-Berat_Castle_%28by_Pudelek%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Berat Castle&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat Castle@40.325,19.95"
     },
@@ -1522,8 +1606,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG/960px-Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG/960px-Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gorica Bridge&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica Bridge@40.32,19.94"
     },
@@ -1578,8 +1664,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg/960px-2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg/960px-2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Church of St. Mary&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church of St. Mary@40.326,19.948"
     },
@@ -1606,8 +1694,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buna_kala.jpg/960px-Buna_kala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buna_kala.jpg/960px-Buna_kala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kala River&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kala River@40.318,19.935"
     },
@@ -1633,8 +1723,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf/page1-500px-Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf/page1-500px-Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Hassan Bey Mosque&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hassan Bey Mosque@40.322,19.946"
     },
@@ -1662,8 +1754,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG/960px-Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG/960px-Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Rozafa Castle&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa Castle@42.04,19.93"
     },
@@ -1691,8 +1785,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shkodra_Lake_Zogaj.jpg/960px-Shkodra_Lake_Zogaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shkodra_Lake_Zogaj.jpg/960px-Shkodra_Lake_Zogaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Shkodra Lake&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Lake@42.05,19.62"
     },
@@ -1718,8 +1814,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lezh%C3%AB_Castle_2.jpg/960px-Lezh%C3%AB_Castle_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lezh%C3%AB_Castle_2.jpg/960px-Lezh%C3%AB_Castle_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Lezha Castle&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lezha Castle@41.75,19.63"
     },
@@ -1774,8 +1872,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Buna_and_Shkodra_%28WPWTR16%29.JPG/960px-Buna_and_Shkodra_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Buna_and_Shkodra_%28WPWTR16%29.JPG/960px-Buna_and_Shkodra_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Buna River&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River@42.06,19.6"
     },
@@ -1802,8 +1902,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ksamil6.jpg/960px-Ksamil6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ksamil6.jpg/960px-Ksamil6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Pema e Thatë&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pema e Thatë@42.045,19.91"
     },
@@ -1830,8 +1932,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ad065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ad065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Shkodra Bazaar&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Bazaar@42.038,19.925"
     },
@@ -1859,8 +1963,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg/960px-Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg/960px-Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Theth Village&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Village@42.38,19.81"
     },
@@ -1887,8 +1993,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg/960px-Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg/960px-Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Theth Church&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Church@42.382,19.813"
     },
@@ -1916,8 +2024,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013-10-05_Valbona%2C_Albania_8806.jpg/960px-2013-10-05_Valbona%2C_Albania_8806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013-10-05_Valbona%2C_Albania_8806.jpg/960px-2013-10-05_Valbona%2C_Albania_8806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Valbona Valley&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Valley@42.42,19.88"
     },
@@ -1944,8 +2054,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Valbona_Pass.jpg/960px-Valbona_Pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Valbona_Pass.jpg/960px-Valbona_Pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Valbona Pass&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Pass@42.4,19.87"
     },
@@ -1973,8 +2085,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg/960px-2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg/960px-2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Koman Lake&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman Lake@42.15,19.92"
     },
@@ -2142,8 +2256,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boga_Shkrel.jpg/960px-Boga_Shkrel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boga_Shkrel.jpg/960px-Boga_Shkrel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Bogë Village&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë Village@42.48,19.8"
     },
@@ -2198,8 +2314,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf/page1-500px-The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf/page1-500px-The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Don Path&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don Path@42.395,19.815"
     },
@@ -2282,8 +2400,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG/960px-Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG/960px-Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kruja Castle&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kruja Castle@41.507,19.8"
     },
@@ -2338,8 +2458,10 @@
         "couple",
         "solo"
       ],
-      "photos": [],
-      "photoUrl": "",
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf/page1-500px-Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf/page1-500px-Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Adriatic Olive Groves&tbm=isch",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adriatic Olive Groves@40.9,19.6"
     },
