@@ -37,7 +37,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Durr%C3%ABs_beach_%28by_Pudelek%29.JPG/960px-Durr%C3%ABs_beach_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Beach@41.31,19.47"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Beach@41.31,19.47",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "drs-amphitheater-1",
@@ -67,7 +72,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg/960px-Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Amphitheatre&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Amphitheatre@41.316,19.447"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Amphitheatre@41.316,19.447",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "drs-castle-1",
@@ -97,7 +107,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg/960px-Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Castle@41.308,19.443"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Castle@41.308,19.443",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "drs-roman-villa-1",
@@ -127,7 +142,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Roman Villa of Durrës&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman Villa of Durrës@41.312,19.45"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman Villa of Durrës@41.312,19.45",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "drs-bay-1",
@@ -157,7 +177,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Durres_ship_in_bay.jpg/960px-Durres_ship_in_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Durrës Bay&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Bay@41.305,19.475"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Bay@41.305,19.475",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "drs-wetland-1",
@@ -187,7 +212,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg/960px-Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kune-Vain Lagoon&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kune-Vain Lagoon@41.58,19.56"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kune-Vain Lagoon@41.58,19.56",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "vlr-beach-1",
@@ -217,7 +247,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Vlorë Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë Beach@40.466,19.485"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë Beach@40.466,19.485",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "vlr-karaburun-1",
@@ -248,7 +283,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Karaburun_Peninsula%2C_Albania_2016_01.jpg/960px-Karaburun_Peninsula%2C_Albania_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Karaburun Peninsula&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun Peninsula@40.38,19.38"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun Peninsula@40.38,19.38",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "vlr-sazan-1",
@@ -279,7 +319,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shen_Nicolo_Bay_-_Sazan_2023.png/960px-Shen_Nicolo_Bay_-_Sazan_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Sazan Island&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan Island@40.5,19.28"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan Island@40.5,19.28",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "vlr-akrolli-1",
@@ -307,7 +352,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Akrolli Coastal Tower&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akrolli Coastal Tower@40.44,19.46"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akrolli Coastal Tower@40.44,19.46",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "vlr-dyrmishi-1",
@@ -335,7 +385,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Dymishti Waterfall&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dymishti Waterfall@40.51,19.62"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dymishti Waterfall@40.51,19.62",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "vlr-zvernec-1",
@@ -365,7 +420,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg/960px-Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Zvernec Island&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zvernec Island@40.51,19.4"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zvernec Island@40.51,19.4",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "vlr-narta-1",
@@ -395,7 +455,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg/960px-Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Narta Lagoon&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta Lagoon@40.52,19.42"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta Lagoon@40.52,19.42",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-beach-1",
@@ -426,7 +491,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg/960px-Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Sarandë Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë Beach@39.875,20.01"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë Beach@39.875,20.01",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-ksamil-1",
@@ -457,7 +527,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ksamil%2C_Albania_-_beach.JPG/960px-Ksamil%2C_Albania_-_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Ksamil Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Beach@39.77,20.005"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Beach@39.77,20.005",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-ksamil-islands-1",
@@ -488,7 +563,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ksamil%2C_Albania_%28by_Pudelek%29.JPG/960px-Ksamil%2C_Albania_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Ksamil Islands&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Islands@39.76,19.995"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Islands@39.76,19.995",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-butrint-1",
@@ -518,7 +598,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2011_Butrint_37_city_wall_ruins.jpg/960px-2011_Butrint_37_city_wall_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Butrint Ancient City&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint Ancient City@39.745,20.03"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint Ancient City@39.745,20.03",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-blue-eye-1",
@@ -548,7 +633,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG/960px-Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=The Blue Eye&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Blue Eye@39.89,20.13"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Blue Eye@39.89,20.13",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-buka-1",
@@ -578,7 +668,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Buna_delta_%28WPWTR16%29.JPG/960px-Buna_delta_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Buna River Delta&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River Delta@39.82,20.15"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River Delta@39.82,20.15",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-kanali-1",
@@ -606,7 +701,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Kanal Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal Beach@39.855,20.02"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal Beach@39.855,20.02",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-hilo-1",
@@ -636,7 +736,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf/page1-500px-Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Hilo Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hilo Beach@39.865,20.035"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hilo Beach@39.865,20.035",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "sar-mirror-1",
@@ -666,7 +771,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A_Tour_in_Dalmatia%2C_Albania_and_Montenegro%3B_with_an_Historical_Sketch_of_the_Republic_of_Prussia%2C_from_the_Earliest_Times_Down_to_its_Final_Fall_%28IA_dli.granth.111572%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Mirror Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirror Beach@39.78,20.015"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirror Beach@39.78,20.015",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-himara-1",
@@ -696,7 +806,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Himara_2021.jpg/960px-Himara_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Himara Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Beach@40.105,19.74"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Beach@40.105,19.74",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-himara-old-1",
@@ -726,7 +841,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg/960px-Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Himara Old Town&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Old Town@40.1,19.73"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Old Town@40.1,19.73",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-borsh-1",
@@ -756,7 +876,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strand_in_Borsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Borsh Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh Beach@40.06,19.69"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh Beach@40.06,19.69",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-dhermi-1",
@@ -786,7 +911,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dhermi_beach..JPG/960px-Dhermi_beach..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Dhermi Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi Beach@40.025,19.64"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi Beach@40.025,19.64",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-jale-1",
@@ -816,7 +946,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jale_Beach_Albania-_1.jpg/960px-Jale_Beach_Albania-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Jale Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale Beach@40.015,19.62"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale Beach@40.015,19.62",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-drimades-1",
@@ -846,7 +981,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drimades_beach.jpg/960px-Drimades_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Drimades Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drimades Beach@39.98,19.6"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drimades Beach@39.98,19.6",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-himaranta-1",
@@ -873,7 +1013,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Himaranta Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himaranta Beach@39.97,19.59"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himaranta Beach@39.97,19.59",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-vuno-1",
@@ -903,7 +1048,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Vuno Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno Beach@40.01,19.58"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno Beach@40.01,19.58",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-pilur-1",
@@ -931,7 +1081,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Pilur Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pilur Castle@40.055,19.65"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pilur Castle@40.055,19.65",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-qeparo-1",
@@ -960,7 +1115,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Qeparo_beach.jpg/960px-Qeparo_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Qeparo Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo Beach@40.04,19.67"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo Beach@40.04,19.67",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-sheshi-1",
@@ -990,7 +1150,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf/page1-500px-Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Porto Palermo Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto Palermo Beach@40.12,19.72"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto Palermo Beach@40.12,19.72",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-pasha-1",
@@ -1020,7 +1185,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Literary_digest_history_of_the_world_war%2C_compiled_from_original_and_contemporary_sources-_American%2C_British%2C_French%2C_German%2C_and_others_%28IA_cu31924088055102%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Pasha Liman Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pasha Liman Beach@40.08,19.75"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pasha Liman Beach@40.08,19.75",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-cape-1",
@@ -1048,7 +1218,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Cape of Gjiri i Kritis&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape of Gjiri i Kritis@39.95,19.57"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape of Gjiri i Kritis@39.95,19.57",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-fterra-1",
@@ -1076,7 +1251,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Fterra Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra Beach@40.03,19.62"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra Beach@40.03,19.62",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "riv-lukove-1",
@@ -1106,7 +1286,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg/960px-View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Lukovë Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lukovë Beach@39.93,19.55"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lukovë Beach@39.93,19.55",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-square-1",
@@ -1136,7 +1321,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG/960px-Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Skanderbeg Square&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg Square@41.327,19.818"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg Square@41.327,19.818",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-mosque-1",
@@ -1166,7 +1356,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg/960px-Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Et'hem Bey Mosque&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem Bey Mosque@41.331,19.821"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem Bey Mosque@41.331,19.821",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-bunker-1",
@@ -1196,7 +1391,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Albanian_bunker_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Bunker 21&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker 21@41.318,19.81"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker 21@41.318,19.81",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-clock-1",
@@ -1226,7 +1426,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG/960px-Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Clock Tower of Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock Tower of Tirana@41.329,19.824"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock Tower of Tirana@41.329,19.824",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-park-1",
@@ -1256,7 +1461,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Park_of_Tirana_2017.jpg/960px-Grand_Park_of_Tirana_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Grand Park of Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand Park of Tirana@41.315,19.8"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand Park of Tirana@41.315,19.8",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-lake-1",
@@ -1284,7 +1494,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Tirana Lake (Lake of Pazar)&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana Lake (Lake of Pazar)@41.34,19.84"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana Lake (Lake of Pazar)@41.34,19.84",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-museum-1",
@@ -1314,7 +1529,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg/960px-Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=National History Museum&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National History Museum@41.319,19.824"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National History Museum@41.319,19.824",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-blloku-1",
@@ -1345,7 +1565,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerial_shot_of_the_Hoxha_former_house.webm/960px--Aerial_shot_of_the_Hoxha_former_house.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
       "googleSearchUrl": "https://www.google.com/search?q=Blloku District&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blloku District@41.319,19.807"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blloku District@41.319,19.807",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "tir-mount-dajt-1",
@@ -1376,7 +1601,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mount_Dajti_-_Peak.jpg/960px-Mount_Dajti_-_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Mount Dajti&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount Dajti@41.36,19.91"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount Dajti@41.36,19.91",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "gji-castle-1",
@@ -1407,7 +1637,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg/960px-Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Castle@40.076,20.14"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Castle@40.076,20.14",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "gji-zagarotti-1",
@@ -1435,7 +1670,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Zagarotti House&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti House@40.072,20.135"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti House@40.072,20.135",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "gji-old-town-1",
@@ -1465,7 +1705,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gjirokast%C3%ABr_Old_Town_%282%29.jpg/960px-Gjirokast%C3%ABr_Old_Town_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Old Town&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Old Town@40.075,20.138"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Old Town@40.075,20.138",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "gji-safary-1",
@@ -1493,7 +1738,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Libohovë Palace&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libohovë Palace@40.05,20.16"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libohovë Palace@40.05,20.16",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "gji-sword-1",
@@ -1520,7 +1770,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=The Stone Sword of Gjirokastër&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Stone Sword of Gjirokastër@40.078,20.145"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Stone Sword of Gjirokastër@40.078,20.145",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "gji-enclosed-1",
@@ -1550,7 +1805,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Enclosed City&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Enclosed City@40.07,20.13"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Enclosed City@40.07,20.13",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "ber-castle-1",
@@ -1581,7 +1841,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berat_Castle_%28by_Pudelek%29_2.JPG/960px-Berat_Castle_%28by_Pudelek%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Berat Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat Castle@40.325,19.95"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat Castle@40.325,19.95",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "gor-bridge-1",
@@ -1611,7 +1876,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG/960px-Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Gorica Bridge&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica Bridge@40.32,19.94"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica Bridge@40.32,19.94",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "ber-mangal-1",
@@ -1639,7 +1909,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Mangalemi Quarter&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalemi Quarter@40.323,19.952"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalemi Quarter@40.323,19.952",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "ber-church-1",
@@ -1669,7 +1944,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg/960px-2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Church of St. Mary&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church of St. Mary@40.326,19.948"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church of St. Mary@40.326,19.948",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "ber-kala-1",
@@ -1699,7 +1979,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buna_kala.jpg/960px-Buna_kala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kala River&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kala River@40.318,19.935"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kala River@40.318,19.935",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "ber-hassan-1",
@@ -1728,7 +2013,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf/page1-500px-Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Hassan Bey Mosque&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hassan Bey Mosque@40.322,19.946"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hassan Bey Mosque@40.322,19.946",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "shk-rozafa-1",
@@ -1759,7 +2049,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG/960px-Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Rozafa Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa Castle@42.04,19.93"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa Castle@42.04,19.93",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "shk-lake-1",
@@ -1790,7 +2085,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shkodra_Lake_Zogaj.jpg/960px-Shkodra_Lake_Zogaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Shkodra Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Lake@42.05,19.62"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Lake@42.05,19.62",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "shk-lezha-1",
@@ -1819,7 +2119,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lezh%C3%AB_Castle_2.jpg/960px-Lezh%C3%AB_Castle_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Lezha Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lezha Castle@41.75,19.63"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lezha Castle@41.75,19.63",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "shk-vendor-1",
@@ -1847,7 +2152,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Vendotëna Tower&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vendotëna Tower@42.07,19.87"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vendotëna Tower@42.07,19.87",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "shk-river-1",
@@ -1877,7 +2187,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Buna_and_Shkodra_%28WPWTR16%29.JPG/960px-Buna_and_Shkodra_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Buna River&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River@42.06,19.6"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River@42.06,19.6",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "shk-pema-1",
@@ -1907,7 +2222,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ksamil6.jpg/960px-Ksamil6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Pema e Thatë&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pema e Thatë@42.045,19.91"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pema e Thatë@42.045,19.91",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "shk-bazaar-1",
@@ -1937,7 +2257,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ad065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "googleSearchUrl": "https://www.google.com/search?q=Shkodra Bazaar&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Bazaar@42.038,19.925"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Bazaar@42.038,19.925",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-theth-1",
@@ -1968,7 +2293,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg/960px-Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Theth Village&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Village@42.38,19.81"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Village@42.38,19.81",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-theth-church-1",
@@ -1998,7 +2328,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg/960px-Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Theth Church&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Church@42.382,19.813"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Church@42.382,19.813",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-valbona-1",
@@ -2029,7 +2364,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013-10-05_Valbona%2C_Albania_8806.jpg/960px-2013-10-05_Valbona%2C_Albania_8806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Valbona Valley&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Valley@42.42,19.88"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Valley@42.42,19.88",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-valbona-pass-1",
@@ -2059,7 +2399,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Valbona_Pass.jpg/960px-Valbona_Pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Valbona Pass&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Pass@42.4,19.87"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Pass@42.4,19.87",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-koman-1",
@@ -2090,7 +2435,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg/960px-2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Koman Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman Lake@42.15,19.92"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman Lake@42.15,19.92",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-koman-trail-1",
@@ -2118,7 +2468,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Koman–Valbona Trail&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman–Valbona Trail@42.2,19.9"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman–Valbona Trail@42.2,19.9",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-rrajca-1",
@@ -2146,7 +2501,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Rrajca Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rrajca Lake@42.05,20.05"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rrajca Lake@42.05,20.05",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-bogaj-1",
@@ -2174,7 +2534,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Bogaj Mountain Pass&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogaj Mountain Pass@42.35,19.84"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogaj Mountain Pass@42.35,19.84",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-cedia-1",
@@ -2202,7 +2567,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Çedia e Fratit&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Çedia e Fratit@42.39,19.83"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Çedia e Fratit@42.39,19.83",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-kyr-1",
@@ -2230,7 +2600,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Kyrë e Madhe&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyrë e Madhe@42.41,19.85"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyrë e Madhe@42.41,19.85",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-boge-1",
@@ -2261,7 +2636,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boga_Shkrel.jpg/960px-Boga_Shkrel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Bogë Village&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë Village@42.48,19.8"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë Village@42.48,19.8",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-kukaj-1",
@@ -2289,7 +2669,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Kukaj Waterfall&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kukaj Waterfall@42.37,19.83"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kukaj Waterfall@42.37,19.83",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-don-1",
@@ -2319,7 +2704,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf/page1-500px-The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Don Path&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don Path@42.395,19.815"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don Path@42.395,19.815",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-pretash-1",
@@ -2347,7 +2737,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Pretash Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretash Lake@42.44,19.86"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretash Lake@42.44,19.86",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "nth-vukaj-1",
@@ -2375,7 +2770,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Vukaj Hot Springs&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vukaj Hot Springs@42.35,19.82"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vukaj Hot Springs@42.35,19.82",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "div-kruja-1",
@@ -2405,7 +2805,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG/960px-Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Kruja Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kruja Castle@41.507,19.8"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kruja Castle@41.507,19.8",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "div-divjakara-1",
@@ -2433,7 +2838,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Divjakara Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara Beach@40.87,19.56"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara Beach@40.87,19.56",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "div-olive-1",
@@ -2463,7 +2873,12 @@
       ],
       "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf/page1-500px-Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "googleSearchUrl": "https://www.google.com/search?q=Adriatic Olive Groves&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adriatic Olive Groves@40.9,19.6"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adriatic Olive Groves@40.9,19.6",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "div-leng-1",
@@ -2491,7 +2906,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Lengar Cliff&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lengar Cliff@40.35,19.45"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lengar Cliff@40.35,19.45",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     },
     {
       "id": "div-vas-1",
@@ -2519,7 +2939,12 @@
       "photos": [],
       "photoUrl": "",
       "googleSearchUrl": "https://www.google.com/search?q=Vashtemi Vineyard&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vashtemi Vineyard@40.1,20.18"
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vashtemi Vineyard@40.1,20.18",
+      "blogLinks": [],
+      "mustBuy": {
+        "tourist": [],
+        "local": []
+      }
     }
   ]
 }
