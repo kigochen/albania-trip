@@ -16,3479 +16,1941 @@
       "cityZh": "都拉斯",
       "region": "coastal",
       "category": "beach",
-      "tags": [
-        "kid-friendly",
-        "crowded",
-        "sunset"
-      ],
-      "coordinates": [
-        41.31,
-        19.47
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Durr%C3%ABs_beach_%28by_Pudelek%29.JPG/960px-Durr%C3%ABs_beach_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Durr%C3%ABs_beach_%28by_Pudelek%29.JPG/960px-Durr%C3%ABs_beach_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Durrës Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Beach@41.31,19.47",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["kid-friendly", "crowded", "sunset"],
+      "coordinates": [41.310, 19.470],
+      "description": "都拉斯海灘是阿爾巴尼亞最受歡迎的沙灘之一，擁有漫長的沙岸線，適合家庭親子活動。夏季時海灘設施完善，救生員巡邏安全，淺水平緩適合孩童戲水。夕陽時分海灘風光動人，是拍照打卡的好去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
       "rating": 4.2,
-      "pros": "長沙灘，淺水區安全，適合家庭孩童",
-      "cons": "旺季擁擠，停車位難找，海灘垃圾較多",
+      "pros": "長沙灘適合家庭，設施完善",
+      "cons": "旺季遊客多較擁擠",
       "cost": "免費",
-      "bestTime": "夏季 6-9月，上午或傍晚",
-      "tips": "帶遮陽傘和沙灘墊，務必早到搶好位置"
+      "bestTime": "上午或傍晚",
+      "tips": "攜帶防曬用品與遮陽傘，旺季建議提早抵達",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Beach@41.310,19.470"
     },
     {
-      "id": "drs-amphitheater-1",
-      "name": "Durrës Amphitheatre",
-      "nameZh": "都拉斯圓形劇場",
-      "city": "Durrës",
-      "cityZh": "都拉斯",
-      "region": "coastal",
-      "category": "historic",
-      "tags": [
-        "history",
-        "architecture"
-      ],
-      "coordinates": [
-        41.316,
-        19.447
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg/960px-Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg/960px-Amfiteatr_rzymski_w_Durr%C3%ABs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Durrës Amphitheatre&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Amphitheatre@41.316,19.447",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "羅馬時期大型圓形劇場，保存良好，歷史價值高",
-      "cons": "部分區域維修中，遮陰處少",
-      "cost": "免費",
-      "bestTime": "春季 4-5月或秋季 9-10月",
-      "tips": "建議參加導覽團了解古羅馬歷史，帶足水分"
-    },
-    {
-      "id": "drs-castle-1",
+      "id": "drs-castle",
       "name": "Durrës Castle",
       "nameZh": "都拉斯城堡",
       "city": "Durrës",
       "cityZh": "都拉斯",
       "region": "coastal",
       "category": "historic",
-      "tags": [
-        "history",
-        "sunset"
-      ],
-      "coordinates": [
-        41.308,
-        19.443
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg/960px-Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg/960px-Wie%C5%BCa_wenecka_w_Durr%C3%ABs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Durrës Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Castle@41.308,19.443",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["history", "sunset", "architecture"],
+      "coordinates": [41.308, 19.443],
+      "description": "都拉斯城堡建於拜占庭時期，是阿爾巴尼亞最古老的城防工事之一。城堡城牆保存完好，漫步其上可俯瞰都拉斯港與亞得里亞海壯闊景觀。黃昏時分在此觀賞夕陽映照古城，景色令人難忘。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.0,
-      "pros": "威尼斯時期城堡城墙，可俯瞰都拉斯灣全景",
-      "cons": "地面不平坦，老人家需注意腳下",
+      "pros": "歷史悠久，夕陽景觀絕佳",
+      "cons": "部分區域維護較差",
       "cost": "免費",
-      "bestTime": "夏季傍晚賞夕陽",
-      "tips": "穿舒適步行鞋，日落前1小時到達"
+      "bestTime": "傍晚（賞夕陽）",
+      "tips": "穿舒適步行鞋，城牆階梯較陡",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës+Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Castle@41.308,19.443"
     },
     {
-      "id": "drs-roman-villa-1",
+      "id": "drs-amphitheatre",
+      "name": "Durrës Amphitheatre",
+      "nameZh": "都拉斯圓形劇場",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "historic",
+      "tags": ["history", "architecture", "family"],
+      "coordinates": [41.316, 19.447],
+      "description": "都拉斯圓形劇場建於西元2世紀，是巴爾幹半島最大的古羅馬劇場之一，可容納約兩萬名觀眾。劇場保存狀態良好，夏季仍有演出活動。建築工藝展現古羅馬帝國的輝煌，親子同遊可感受歷史的震撼。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.5,
+      "pros": "巴爾幹最大羅馬劇場，保存完整",
+      "cons": "夏季陽光直射需防曬",
+      "cost": "門票 約100列克",
+      "bestTime": "上午或傍晚",
+      "tips": "建議參加導覽了解歷史背景",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës+Amphitheatre&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Amphitheatre@41.316,19.447"
+    },
+    {
+      "id": "drs-venezia",
+      "name": "Villa Venezia",
+      "nameZh": "威尼斯別墅",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "historic",
+      "tags": ["architecture", "instagram-worthy", "history"],
+      "coordinates": [41.310, 19.455],
+      "description": "威尼斯別墅是都拉斯濱海區的優雅歷史建築，建於威尼斯統治時期，融合威尼斯與鄂圖曼建築風格。別墅外觀精美，擁有獨特的拱廊與石雕裝飾，是網美拍照的熱門景點。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 3.8,
+      "pros": "建築風格優美，拍照效果好",
+      "cons": "內部不對外開放只能外觀",
+      "cost": "免費",
+      "bestTime": "清晨或黃昏",
+      "tips": "帶廣角鏡頭捕捉建築全景",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Villa+Venezia+Durrës&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa+Venezia+Durrës@41.310,19.455"
+    },
+    {
+      "id": "drs-museum",
+      "name": "Durrës Archaeological Museum",
+      "nameZh": "都拉斯考古博物館",
+      "city": "Durrës",
+      "cityZh": "都拉斯",
+      "region": "coastal",
+      "category": "historic",
+      "tags": ["history", "family", "architecture"],
+      "coordinates": [41.312, 19.450],
+      "description": "都拉斯考古博物館收藏大量古希臘、羅馬與拜占庭時期文物，包括精緻的馬賽克壁畫、雕塑與日常器物。博物館解說牌以阿語和英語呈現，親子同遊可透過文物認識阿爾巴尼亞千年歷史。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "文物豐富有空調，室內涼爽",
+      "cons": "部分文物說明僅有阿語",
+      "cost": "門票 約200列克",
+      "bestTime": "中午避暑",
+      "tips": "建議安排在炎熱中午時段",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës+Archaeological+Museum&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Archaeological+Museum@41.312,19.450"
+    },
+    {
+      "id": "drs-roman-villa",
       "name": "Roman Villa of Durrës",
       "nameZh": "都拉斯羅馬別墅",
       "city": "Durrës",
       "cityZh": "都拉斯",
       "region": "coastal",
       "category": "historic",
-      "tags": [
-        "history",
-        "family"
-      ],
-      "coordinates": [
-        41.312,
-        19.45
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Roman Villa of Durrës&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman Villa of Durrës@41.312,19.45",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 3.8,
-      "pros": "羅馬別墅遺址，馬賽克地板保存完好",
-      "cons": "規模較小，參觀時間不長",
-      "cost": "免費",
-      "bestTime": "春秋季",
-      "tips": "可與圓形劇場排在同一天參觀"
+      "tags": ["history", "family", "architecture"],
+      "coordinates": [41.312, 19.450],
+      "description": "都拉斯羅馬別墅遺址展示古羅馬貴族的奢華生活，別墅內的馬賽克地板拼貼精美，描繪神話場景與狩獵圖案。別墅緊鄰考古博物館，門票通常可一同購買，是認識羅馬時期生活的重要窗口。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 4.1,
+      "pros": "馬賽克保存精美，緊鄰博物館可一併參觀",
+      "cons": "遺址規模不大，約30分鐘可逛完",
+      "cost": "門票 約100列克（與博物館聯票）",
+      "bestTime": "上午",
+      "tips": "與考古博物館安排在一起參觀",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Roman+Villa+Durrës&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roman+Villa+Durrës@41.312,19.450"
     },
     {
-      "id": "drs-bay-1",
-      "name": "Durrës Bay",
-      "nameZh": "都拉斯灣",
+      "id": "drs-lighthouse",
+      "name": "Durrës Lighthouse",
+      "nameZh": "都拉斯燈塔",
       "city": "Durrës",
       "cityZh": "都拉斯",
       "region": "coastal",
       "category": "scenic",
-      "tags": [
-        "sunset",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        41.305,
-        19.475
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Durres_ship_in_bay.jpg/960px-Durres_ship_in_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Durres_ship_in_bay.jpg/960px-Durres_ship_in_bay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Durrës Bay&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës Bay@41.305,19.475",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.1,
-      "pros": "海灣景色優美，適合拍照，夕陽極美",
-      "cons": "附近餐廳價格偏高",
-      "cost": "免費",
-      "bestTime": "夏季傍晚",
-      "tips": "带相機捕捉日落，提供免費停車"
+      "tags": ["instagram-worthy", "sunset", "coastal"],
+      "coordinates": [41.305, 19.480],
+      "description": "都拉斯燈塔佇立於海港防波堤末端，是都拉斯的標誌性建築。燈塔為義大利統治時期建造，白色塔身在藍天白云下格外醒目。遊客可沿防波堤步行抵達燈塔底部，是欣賞亞得里亞海日落的熱門去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 3.9,
+      "pros": "标志性建筑，散步赏海景佳",
+      "cons": "防波堤无遮阳夏季炎热",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "注意防波堤地面湿滑",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Durrës+Lighthouse&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Durrës+Lighthouse@41.305,19.480"
     },
     {
-      "id": "drs-wetland-1",
-      "name": "Kune-Vain Lagoon",
-      "nameZh": "庫內-瓦因瀉湖",
+      "id": "drs-kodra",
+      "name": "Kodra Beach",
+      "nameZh": "科德拉海灘",
       "city": "Durrës",
       "cityZh": "都拉斯",
       "region": "coastal",
-      "category": "nature",
-      "tags": [
-        "bird-watching",
-        "secluded"
-      ],
-      "coordinates": [
-        41.58,
-        19.56
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg/960px-Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg/960px-Laguna_Kune_-_Vain%2C_Lezh%C3%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Kune-Vain Lagoon&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kune-Vain Lagoon@41.58,19.56",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.4,
-      "pros": "生態濕地，鳥類天堂，遠離人群",
-      "cons": "公共交通不便，需自駕前往",
-      "cost": "免費",
-      "bestTime": "春季和秋季（觀鳥最佳）",
-      "tips": "攜带雙筒望遠鏡，清晨觀鳥效果最佳"
+      "category": "beach",
+      "tags": ["kid-friendly", "secluded", "sunset"],
+      "coordinates": [41.320, 19.490],
+      "description": "科德拉海灘位於都拉斯北部，是當地人偏好的私密度假海灘。相比主要海灘，這裡遊客較少，沙灘乾淨，適合想要遠離擁擠的旅客。海灘旁有几家小餐廳提供新鮮海鮮，是享受悠閒午後的好去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 4.0,
+      "pros": "游客较少，环境清幽",
+      "cons": "设施相对简单",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "带好防晒和饮水",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kodra+Beach+Durrës&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kodra+Beach+Durrës@41.320,19.490"
     },
     {
-      "id": "vlr-beach-1",
+      "id": "vlr-beach",
       "name": "Vlorë Beach",
-      "nameZh": "發羅海灘",
+      "nameZh": "發羅拉海灘",
       "city": "Vlorë",
-      "cityZh": "發羅",
+      "cityZh": "發羅拉",
       "region": "coastal",
       "category": "beach",
-      "tags": [
-        "kid-friendly",
-        "sunset"
-      ],
-      "coordinates": [
-        40.466,
-        19.485
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Vlorë Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë Beach@40.466,19.485",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.0,
-      "pros": "市區海灘，交通便利，設備齊全",
-      "cons": "夏季人潮眾多，水質一般",
-      "cost": "免費",
-      "bestTime": "夏季 6-8月",
-      "tips": "選擇平日到訪，停車麻煩建議步行"
+      "tags": ["kid-friendly", "sunset", "crowded"],
+      "coordinates": [40.466, 19.485],
+      "description": "發羅拉海灘是阿爾巴尼亞南海濱的核心，沙灘沿著城市海岸線延伸，夏季時熱鬧非凡。海灘設施齊全，海水清澈，淺水區廣闘適合家庭同樂。發羅拉是阿爾巴尼亞獨立運動的發源地，充滿歷史意義。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 4.1,
+      "pros": "设施齐全，交通方便",
+      "cons": "夏季人多较拥挤",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "旺季建议早点到达抢好位置",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vlorë+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë+Beach@40.466,19.485"
     },
     {
-      "id": "vlr-karaburun-1",
+      "id": "vlr-karaburun",
       "name": "Karaburun Peninsula",
-      "nameZh": "卡拉伯倫半島",
+      "nameZh": "卡拉布倫半島",
       "city": "Vlorë",
-      "cityZh": "發羅",
+      "cityZh": "發羅拉",
       "region": "coastal",
       "category": "nature",
-      "tags": [
-        "hiking",
-        "secluded",
-        "mountain"
-      ],
-      "coordinates": [
-        40.38,
-        19.38
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Karaburun_Peninsula%2C_Albania_2016_01.jpg/960px-Karaburun_Peninsula%2C_Albania_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Karaburun_Peninsula%2C_Albania_2016_01.jpg/960px-Karaburun_Peninsula%2C_Albania_2016_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Karaburun Peninsula&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun Peninsula@40.38,19.38",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.6,
-      "pros": "偏遠半島，生態純淨，健行路線壯麗",
-      "cons": "需要四驅車或包車，路況艱難",
+      "tags": ["hiking", "secluded", "mountain", "diving"],
+      "coordinates": [40.380, 19.380],
+      "description": "卡拉布倫半島是阿爾巴尼亞最美麗的自然保護區之一，半島擁有崎嶇的石灰岩地形與湛藍海水。徒步小徑穿越地中海灌木叢，沿途可欣賞懸崖與海灣景色。海水清澈是潛水與自由潛水的聖地，海洋生物豐富。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.7,
+      "pros": "自然保護區生態豐富，潛水極佳",
+      "cons": "交通不便需包車或船隻前往",
       "cost": "免費",
-      "bestTime": "春季 4-5月或秋季 9-10月",
-      "tips": "带足飲水和食物，事先查看天氣"
+      "bestTime": "5-6月或9-10月",
+      "tips": "建議參加潛水團，提前確認船班",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Karaburun+Peninsula&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karaburun+Peninsula@40.380,19.380"
     },
     {
-      "id": "vlr-sazan-1",
+      "id": "vlr-sazan",
       "name": "Sazan Island",
       "nameZh": "薩贊島",
       "city": "Vlorë",
-      "cityZh": "發羅",
+      "cityZh": "發羅拉",
       "region": "coastal",
       "category": "beach",
-      "tags": [
-        "diving",
-        "snorkeling",
-        "secluded"
-      ],
-      "coordinates": [
-        40.5,
-        19.28
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shen_Nicolo_Bay_-_Sazan_2023.png/960px-Shen_Nicolo_Bay_-_Sazan_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shen_Nicolo_Bay_-_Sazan_2023.png/960px-Shen_Nicolo_Bay_-_Sazan_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Sazan Island&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan Island@40.5,19.28",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.7,
-      "pros": "軍事島嶼解禁，海水清澈，適合潛水",
-      "cons": "只能參加導覽團登島，無自行前往選項",
-      "cost": "€30-50（導覽團）",
-      "bestTime": "夏季 6-9月",
-      "tips": "提前預訂潛水團，携带暈船藥"
+      "tags": ["diving", "snorkeling", "secluded", "history"],
+      "coordinates": [40.500, 19.280],
+      "description": "薩贊島是阿爾巴尼亞最大的島嶼，位於亞得里亞海入口處，島上有古老的拜占庭修道院與廢棄的共產時期軍事設施。島周圍海水透明度極高，是地中海最佳的潛水與浮潛地點之一，第二次世界大戰期間此地曾有激烈戰事。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.6,
+      "pros": "潜水圣地，历史与自然兼具",
+      "cons": "需乘船前往，晕船者需注意",
+      "cost": "船票 約2000列克來回",
+      "bestTime": "6-7月或9月",
+      "tips": "参加潜水团可探索水下军事遗迹",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Sazan+Island+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sazan+Island@40.500,19.280"
     },
     {
-      "id": "vlr-akrolli-1",
-      "name": "Akrolli Coastal Tower",
-      "nameZh": "阿克羅利海岸塔",
+      "id": "vlr-kanali",
+      "name": "Kanal Beach",
+      "nameZh": "運河海灘",
       "city": "Vlorë",
-      "cityZh": "發羅",
+      "cityZh": "發羅拉",
       "region": "coastal",
-      "category": "historic",
-      "tags": [
-        "history",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.44,
-        19.46
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Akrolli_tower.jpg/800px-Akrolli_tower.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Akrolli_tower.jpg/800px-Akrolli_tower.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Akrolli Coastal Tower&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akrolli Coastal Tower@40.44,19.46",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "category": "beach",
+      "tags": ["kid-friendly", "sunset", "coastal"],
+      "coordinates": [40.455, 19.470],
+      "description": "運河海灘位於發羅拉市區南側，因海灘前的人工運河而得名。海灘沙質細軟，海水平靜非常適合家庭兒童。運河兩側有步道與咖啡廳，是當地人傍晚散步休憩的熱門去處，夕陽時分運河倒映晚霞景色如畫。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
       "rating": 3.9,
-      "pros": "海岸塔歷史建築，拍照效果佳",
-      "cons": "規模小，15分鐘可逛完",
-      "cost": "免費",
-      "bestTime": "夏季下午賞夕陽",
-      "tips": "與附近海灘排在一起"
+      "pros": "平静浅水适合儿童，设施完善",
+      "cons": "人造运河流向需注意安全",
+      "cost": "免费",
+      "bestTime": "下午至傍晚",
+      "tips": "带小朋友的家长注意运河流向",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kanal+Beach+Vlorë&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal+Beach+Vlorë@40.455,19.470"
     },
     {
-      "id": "vlr-dyrmishi-1",
-      "name": "Dymishti Waterfall",
-      "nameZh": "迪米斯蒂瀑布",
+      "id": "vlr-vlora-view",
+      "name": "Vlorë Panoramic View",
+      "nameZh": "發羅拉全景",
       "city": "Vlorë",
-      "cityZh": "發羅",
-      "region": "coastal",
-      "category": "nature",
-      "tags": [
-        "nature",
-        "hiking"
-      ],
-      "coordinates": [
-        40.51,
-        19.62
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dymishti_waterfall.jpg/600px-Dymishti_waterfall.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dymishti_waterfall.jpg/600px-Dymishti_waterfall.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Dymishti Waterfall&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dymishti Waterfall@40.51,19.62",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "瀑布自然景觀，清涼舒適，健行友善",
-      "cons": "雨季水量過大，路滑危險",
-      "cost": "免費",
-      "bestTime": "春季和初夏",
-      "tips": "穿防滑鞋，带替换衣物"
-    },
-    {
-      "id": "vlr-zvernec-1",
-      "name": "Zvernec Island",
-      "nameZh": "茲維爾內茨島",
-      "city": "Vlorë",
-      "cityZh": "發羅",
+      "cityZh": "發羅拉",
       "region": "coastal",
       "category": "scenic",
-      "tags": [
-        "instagram-worthy",
-        "sunset"
-      ],
-      "coordinates": [
-        40.51,
-        19.4
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg/960px-Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg/960px-Zvernec_monastery%2C_Albania_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Zvernec Island&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zvernec Island@40.51,19.4",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["instagram-worthy", "sunset", "urban"],
+      "coordinates": [40.470, 19.500],
+      "description": "發羅拉全景觀景點位於城市北側山坡上，可俯瞰整個發羅拉灣與亞得里亞海。觀景點是欣賞日落的絕佳去處，運氣好時可看到夕陽沉入海平面的壯闘景觀。夜間可眺望發羅拉市區萬家燈火。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["couple", "solo", "group"],
       "rating": 4.2,
-      "pros": "修道院島，夕陽絕美，環境靜謐",
-      "cons": "需要渡船或划船前往，潮汐影響",
-      "cost": "免費（渡船費用另計）",
-      "bestTime": "夏季傍晚",
-      "tips": "带驱蚊液，日落前一小時到達"
+      "pros": "俯瞰全城与海景，摄影热点",
+      "cons": "需开车或打车前往，无公共交通",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "日落前30分钟抵达，找好拍摄角度",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vlorë+Panoramic+Viewpoint&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlorë+Panoramic+Viewpoint@40.470,19.500"
     },
     {
-      "id": "vlr-narta-1",
+      "id": "vlr-narta",
       "name": "Narta Lagoon",
       "nameZh": "納爾塔瀉湖",
       "city": "Vlorë",
-      "cityZh": "發羅",
+      "cityZh": "發羅拉",
       "region": "coastal",
       "category": "nature",
-      "tags": [
-        "bird-watching",
-        "secluded"
-      ],
-      "coordinates": [
-        40.52,
-        19.42
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg/960px-Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg/960px-Narta_Lagoon%2C_Albania_%E2%80%93_Crab_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Narta Lagoon&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta Lagoon@40.52,19.42",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.1,
-      "pros": "大型鹽湖濕地，火鶴棲息地，生态豐富",
-      "cons": "路標不清，需本地人带路",
-      "cost": "免費",
-      "bestTime": "春季和秋季",
-      "tips": "攜带望远镜，清晨或黄昏觀鳥"
+      "tags": ["bird-watching", "secluded", "nature"],
+      "coordinates": [40.520, 19.420],
+      "description": "納爾塔瀉湖是阿爾巴尼亞重要的濕地生態保護區，占地面積廣大，是數百種候鳥的棲息地。瀉湖中有神秘的茲維爾內茨島，島上建有中世紀修道院。划船穿梭瀉湖之間，運氣好可觀賞到火鶴与其他稀有鳥類。",
+      "bestSeason": "春季（4-5月）和秋季（9-10月）",
+      "suitableFor": ["family", "couple", "solo"],
+      "rating": 4.4,
+      "pros": "鸟类天堂，生态环境原始",
+      "cons": "公共交通不便，需包车或参加团",
+      "cost": "免费",
+      "bestTime": "清晨观鸟",
+      "tips": "带望远镜和相机，穿防水鞋",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Narta+Lagoon&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Narta+Lagoon@40.520,19.420"
     },
     {
-      "id": "sar-beach-1",
+      "id": "vlr-drymades",
+      "name": "Drymades Beach",
+      "nameZh": "德里馬德斯海灘",
+      "city": "Vlorë",
+      "cityZh": "發羅拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": ["secluded", "sunset", "coastal"],
+      "coordinates": [40.440, 19.410],
+      "description": "德里馬德斯海灘位於發羅拉至里維耶拉公路沿線，是一片較為原始的沙灘。海灘周圍被松樹林與橄欖樹林包圍，氛圍幽靜。海水清澈乾淨，沙灘潔白，是喜歡遠離人群的旅客的秘密基地。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "游客较少，环境清幽原始",
+      "cons": "设施匮乏，需自备物资",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "带足防晒、饮水和零食",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Drymades+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drymades+Beach@40.440,19.410"
+    },
+    {
+      "id": "vlr-aktiv",
+      "name": "Aktiv Beach",
+      "nameZh": "阿克蒂夫海灘",
+      "city": "Vlorë",
+      "cityZh": "發羅拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": ["kid-friendly", "family", "coastal"],
+      "coordinates": [40.450, 19.460],
+      "description": "阿克蒂夫海灘是發羅拉市區內較為家庭友善的海灘，海灘配有救生員服務，適合帶小孩的家庭。海灘旁有多家海鮮餐廳與咖啡廳，設施完善。沙灘乾淨且每日清理，是當地居民夏季週末的首選去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 3.8,
+      "pros": "有救生员，安全性高",
+      "cons": "游客较多，周末较拥挤",
+      "cost": "免费",
+      "bestTime": "上午",
+      "tips": "周末建议早到避免人潮",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Aktiv+Beach+Vlorë&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aktiv+Beach+Vlorë@40.450,19.460"
+    },
+    {
+      "id": "srd-beach",
       "name": "Sarandë Beach",
       "nameZh": "希格拉海灘",
       "city": "Sarandë",
       "cityZh": "希格拉",
       "region": "coastal",
       "category": "beach",
-      "tags": [
-        "kid-friendly",
-        "crowded",
-        "sunset"
-      ],
-      "coordinates": [
-        39.875,
-        20.01
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg/960px-Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg/960px-Sarand%C3%AB%2C_Albania_2022-11_-_Beach_parasols.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Sarandë Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë Beach@39.875,20.01",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["kid-friendly", "crowded", "sunset"],
+      "coordinates": [39.875, 20.010],
+      "description": "希格拉海灘是希格拉這座海濱小鎮的核心，沙灘沿著城市濱海大道延伸，是居民與遊客的社交中心。海灘城市景觀融為一體，附近餐廳、酒吧林立。夕陽時分可見新人拍婚紗，是體驗阿爾巴尼亞海濱生活的絕佳去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
       "rating": 4.0,
-      "pros": "市區海灘設施完善，交通方便，適合家庭",
-      "cons": "旺季擁擠，停車位一位難求",
-      "cost": "免費",
-      "bestTime": "夏季 6-8月",
-      "tips": "早到或傍晚去，避開中午高温"
+      "pros": "位置便利，设施齐全",
+      "cons": "旺季人潮拥挤",
+      "cost": "免费",
+      "bestTime": "下午至傍晚",
+      "tips": "尝试当地海鲜餐厅",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Sarandë+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Beach@39.875,20.010"
     },
     {
-      "id": "sar-ksamil-1",
+      "id": "srd-ksamil",
       "name": "Ksamil Beach",
-      "nameZh": "克薩米爾海灘",
+      "nameZh": "Ksamil 海灘",
       "city": "Sarandë",
       "cityZh": "希格拉",
       "region": "coastal",
       "category": "beach",
-      "tags": [
-        "instagram-worthy",
-        "sunset",
-        "kid-friendly"
-      ],
-      "coordinates": [
-        39.77,
-        20.005
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ksamil%2C_Albania_-_beach.JPG/960px-Ksamil%2C_Albania_-_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ksamil%2C_Albania_-_beach.JPG/960px-Ksamil%2C_Albania_-_beach.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Ksamil Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Beach@39.77,20.005",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.7,
-      "pros": "塞爾維亞最知名海灘之一，水清沙幼，小島點綴",
-      "cons": "旅遊旺季人山人海，物價偏高",
-      "cost": "免費",
-      "bestTime": "夏季 6-9月",
-      "tips": "平日前往，自帶水和零食"
-    },
-    {
-      "id": "sar-ksamil-islands-1",
-      "name": "Ksamil Islands",
-      "nameZh": "克薩米爾群島",
-      "city": "Sarandë",
-      "cityZh": "希格拉",
-      "region": "coastal",
-      "category": "beach",
-      "tags": [
-        "snorkeling",
-        "diving",
-        "secluded"
-      ],
-      "coordinates": [
-        39.76,
-        19.995
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ksamil%2C_Albania_%28by_Pudelek%29.JPG/960px-Ksamil%2C_Albania_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ksamil%2C_Albania_%28by_Pudelek%29.JPG/960px-Ksamil%2C_Albania_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Ksamil Islands&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil Islands@39.76,19.995",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["instagram-worthy", "sunset", "kid-friendly"],
+      "coordinates": [39.770, 20.005],
+      "description": "Ksamil海灘被譽為阿爾巴尼亞最美的海灘之一，擁有夢幻的碧綠色海水與潔白沙灘，被稱為「小馬爾地夫」。海灘周圍有多座小島，在退潮時可直接涉水抵達。親子同遊可在淺水區戲水，情侣同遊則可划船探索小島。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["family", "couple", "group"],
       "rating": 4.8,
-      "pros": "羣島浮潛聖地，海水如水晶清澈",
-      "cons": "只能划船或包船前往，費用較高",
-      "cost": "€20-35（包船）",
-      "bestTime": "夏季 6-9月",
-      "tips": "提前預約船家，携带泳衣和潜水面罩"
+      "pros": "海水碧绿如梦，退潮可走岛",
+      "cons": "旺季极难停车，建议早到",
+      "cost": "停车费 200列克",
+      "bestTime": "早上8点前抵达",
+      "tips": "退潮时可直接涉水到小岛拍照",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Ksamil+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Beach@39.770,20.005"
     },
     {
-      "id": "sar-butrint-1",
-      "name": "Butrint Ancient City",
-      "nameZh": "布特林特古城",
+      "id": "srd-buta",
+      "name": "Butrint",
+      "nameZh": "布特林",
       "city": "Sarandë",
       "cityZh": "希格拉",
       "region": "coastal",
       "category": "historic",
-      "tags": [
-        "history",
-        "architecture"
-      ],
-      "coordinates": [
-        39.745,
-        20.03
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2011_Butrint_37_city_wall_ruins.jpg/960px-2011_Butrint_37_city_wall_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2011_Butrint_37_city_wall_ruins.jpg/960px-2011_Butrint_37_city_wall_ruins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Butrint Ancient City&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint Ancient City@39.745,20.03",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.8,
-      "pros": "聯合國世界遺產，羅馬/希臘/拜占庭文明交匯",
-      "cons": "門票較貴，園區大需半天時間",
-      "cost": "€10（外國遊客）",
-      "bestTime": "春季或秋季涼爽季節",
-      "tips": "建议预约導覽團，帶防晒"
+      "tags": ["history", "architecture", "family"],
+      "coordinates": [39.745, 20.030],
+      "description": "布特林是聯合國世界文化遺產，是一座跨越古希臘、羅馬與拜占庭時期的古城遺址。遺址包含羅馬劇場、拜占庭教堂與威尼斯城堡，保存狀態令人驚艷。古城坐落於溼地之間，生態環境優美，是歷史與自然愛好者不可錯過的景點。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.7,
+      "pros": "世界遗产，保存完整历史层次丰富",
+      "cons": "距希格拉约30分钟车程",
+      "cost": "门票 700列克",
+      "bestTime": "上午（避开人潮）",
+      "tips": "建议参加导览了解各时期历史",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Butrint+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butrint@39.745,20.030"
     },
     {
-      "id": "sar-blue-eye-1",
-      "name": "The Blue Eye",
+      "id": "srd-blue-eye",
+      "name": "Blue Eye",
       "nameZh": "藍眼泉",
       "city": "Sarandë",
       "cityZh": "希格拉",
       "region": "coastal",
       "category": "nature",
-      "tags": [
-        "nature",
-        "hiking"
-      ],
-      "coordinates": [
-        39.89,
-        20.13
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG/960px-Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG/960px-Blue_Eye_%28Syri_i_kalt%C3%ABr%29_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=The Blue Eye&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Blue Eye@39.89,20.13",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["nature", "hiking", "instagram-worthy"],
+      "coordinates": [39.890, 20.130],
+      "description": "藍眼泉是阿爾巴尼亞最神秘的自然景觀之一，泉水從地下洞穴中湧出，形成一汪夢幻的湛藍色水池。泉水深度未知，據說可達50米以上。水池周圍被森林包圍，光線折射下呈現攝人心魄的藍色漸層，是Instagram打卡熱點。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.6,
-      "pros": "藍眼泉神秘莫測，水色變幻莫測",
-      "cons": "人潮众多，周末停車位緊張",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "清晨抵達，穿可弄溼的鞋子"
+      "pros": "自然奇观，蓝色水池极罕见",
+      "cons": "夏季周末游客极多",
+      "cost": "免费",
+      "bestTime": "早上或傍晚",
+      "tips": "带上GoPro或防水相机拍摄水下",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Blue+Eye+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue+Eye+Albania@39.890,20.130"
     },
     {
-      "id": "sar-buka-1",
-      "name": "Buna River Delta",
-      "nameZh": "布納河三角洲",
+      "id": "srd-ksamil-islands",
+      "name": "Ksamil Islands",
+      "nameZh": "Ksamil 群島",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": ["snorkeling", "diving", "secluded"],
+      "coordinates": [39.760, 19.995],
+      "description": "Ksamil群島由數座小島組成，环绕着碧绿的海水。群島是浮潜与潜水的绝佳地点，水下有丰富的海洋生物与岩石群。退潮时可涉水登岛，岛上沙质细腻，适合日光浴与野餐。希腊岛屿在天气晴好时清晰可见。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.7,
+      "pros": "潜水浮潜圣地，水下生态丰富",
+      "cons": "上岛需租船，无公共交通",
+      "cost": "船票 约500列克",
+      "bestTime": "早上（光线最佳）",
+      "tips": "参加浮潜团可获得装备与导览",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Ksamil+Islands&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ksamil+Islands@39.760,19.995"
+    },
+    {
+      "id": "srd-ftras",
+      "name": "Fterra Bay",
+      "nameZh": "夫特拉灣",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": ["secluded", "snorkeling", "coastal"],
+      "coordinates": [39.850, 20.020],
+      "description": "夫特拉灣是希格拉海岸線上較為隱蔽的海灣，灣內海水清澈平靜，非常適合浮潜与划船。相較於希格拉主海灘，這裡遊客較少，氛圍悠閒。灣畔有几家小餐廳供應新鮮海鮮，是遠離人群享受午後時光的好去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.2,
+      "pros": "游客较少，水清适合浮潜",
+      "cons": "设施较少，需自备物品",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "带好浮潜装备",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Fterra+Bay+Sarandë&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra+Bay+Sarantë@39.850,20.020"
+    },
+    {
+      "id": "srd-bresh",
+      "name": "Bresh Beach",
+      "nameZh": "布雷什海灘",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": ["diving", "secluded", "sunset"],
+      "coordinates": [39.840, 20.040],
+      "description": "布雷什海灘是希格拉海岸線上的一處秘境海灘，擁有細軟的砂石混合灘與清澈的海水。海灘較為原始，周圍是地中海灌木丛，氛围宁静。海灘附近有简易潜水点，适合有经验的潜水爱好者探索水下洞穴。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.1,
+      "pros": "游客稀少，环境原始宁静",
+      "cons": "设施匮乏，无救生员",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "潜水者注意安全，结伴同行",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Bresh+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bresh+Beach@39.840,20.040"
+    },
+    {
+      "id": "srd-hidra",
+      "name": "Hydrabad Island",
+      "nameZh": "希德拉巴德島",
+      "city": "Sarandë",
+      "cityZh": "希格拉",
+      "region": "coastal",
+      "category": "beach",
+      "tags": ["diving", "snorkeling", "secluded"],
+      "coordinates": [39.820, 20.050],
+      "description": "希德拉巴德島位於布納河三角洲附近，是一座遠離塵囂的小島。島周圍海水清澈，珊瑚與海草豐富，是地中海魚類棲息的天堂。島上有一座廢棄的度假村建築，增添了几分探险色彩。适合喜欢安静与探索的旅客。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "潜水圣地，人迹罕至",
+      "cons": "交通不便，需包船前往",
+      "cost": "包船 约1500列克",
+      "bestTime": "早上出发",
+      "tips": "带好潜水装备和防晒",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Hydrabad+Island+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hydrabad+Island@39.820,20.050"
+    },
+    {
+      "id": "srd-cascade",
+      "name": "Sarandë Cascade",
+      "nameZh": "希格拉瀑布",
       "city": "Sarandë",
       "cityZh": "希格拉",
       "region": "coastal",
       "category": "nature",
-      "tags": [
-        "nature",
-        "bird-watching"
-      ],
-      "coordinates": [
-        39.82,
-        20.15
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Buna_delta_%28WPWTR16%29.JPG/960px-Buna_delta_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Buna_delta_%28WPWTR16%29.JPG/960px-Buna_delta_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Buna River Delta&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River Delta@39.82,20.15",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "生態豐富，鳥類多樣，河岸風光優美",
-      "cons": "公共交通不便，需自駕",
-      "cost": "免費",
-      "bestTime": "春季和秋季",
-      "tips": "携带雙筒望远镜，清晨觀鳥"
-    },
-    {
-      "id": "sar-kanali-1",
-      "name": "Kanal Beach",
-      "nameZh": "運河海灘",
-      "city": "Sarandë",
-      "cityZh": "希格拉",
-      "region": "coastal",
-      "category": "beach",
-      "tags": [
-        "kid-friendly",
-        "sunset"
-      ],
-      "coordinates": [
-        39.855,
-        20.02
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Greece_MODIS_Terra_Satellite_Image_19_Aug_2004.jpg/60px-Greece_MODIS_Terra_Satellite_Image_19_Aug_2004.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Kanal Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanal Beach@39.855,20.02",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["nature", "hiking", "family"],
+      "coordinates": [39.900, 20.100],
+      "description": "希格拉瀑布是希格拉近郊的天然瀑布，瀑布水流不算浩大但周圍森林茂密，環境清幽。瀑布下方形成一個天然泳池，夏季時當地人會在此游泳消暑。步道輕鬆適合親子同遊，是希格拉周边半日游的好去处。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["family", "couple", "group"],
       "rating": 3.9,
-      "pros": "安静海灘，適合家庭，淺水區安全",
-      "cons": "設施有限，沒有救生員",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "带沙灘墊和防晒，携帶足够飲水"
+      "pros": "近郊自然景点，徒步简单",
+      "cons": "雨季外水流较小",
+      "cost": "免费",
+      "bestTime": "雨季或早春水量最丰",
+      "tips": "可带泳衣在天然池中泡水",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Sarandë+Cascade&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarandë+Cascade@39.900,20.100"
     },
     {
-      "id": "sar-hilo-1",
-      "name": "Hilo Beach",
-      "nameZh": "希洛海灘",
-      "city": "Sarandë",
-      "cityZh": "希格拉",
-      "region": "coastal",
-      "category": "beach",
-      "tags": [
-        "instagram-worthy",
-        "secluded"
-      ],
-      "coordinates": [
-        39.865,
-        20.035
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf/page1-500px-Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf/page1-500px-Interim_report_of_European_relief_council_%28IA_interimreportofe00euro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Hilo Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hilo Beach@39.865,20.035",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "隐秘海灘，人少清靜，適合網紅拍照",
-      "cons": "無救生員，安全設施欠缺",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "带齐装备，注意潮汐时间"
-    },
-    {
-      "id": "sar-mirror-1",
-      "name": "Mirror Beach",
-      "nameZh": "鏡子海灘",
+      "id": "srd-gjiro",
+      "name": "Gjirokastër View",
+      "nameZh": "札科普 view",
       "city": "Sarandë",
       "cityZh": "希格拉",
       "region": "coastal",
       "category": "scenic",
-      "tags": [
-        "instagram-worthy",
-        "sunset"
-      ],
-      "coordinates": [
-        39.78,
-        20.015
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A_Tour_in_Dalmatia%2C_Albania_and_Montenegro%3B_with_an_Historical_Sketch_of_the_Republic_of_Prussia%2C_from_the_Earliest_Times_Down_to_its_Final_Fall_%28IA_dli.granth.111572%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A_Tour_in_Dalmatia%2C_Albania_and_Montenegro%3B_with_an_Historical_Sketch_of_the_Republic_of_Prussia%2C_from_the_Earliest_Times_Down_to_its_Final_Fall_%28IA_dli.granth.111572%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Mirror Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirror Beach@39.78,20.015",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.5,
-      "pros": "海面如鏡，倒影絕美，夕陽時分更夢幻",
-      "cons": "名氣大但面積小，拍照需排隊",
-      "cost": "免費",
-      "bestTime": "夏季傍晚",
-      "tips": "日落前到達，带廣角鏡頭"
+      "tags": ["instagram-worthy", "sunset", "mountain"],
+      "coordinates": [39.920, 20.150],
+      "description": "札科普观景点位於希格拉至札科普公路沿線的至高點，在此可俯瞰整個希格拉灣與遠處的札科普山城。晴朗時還能看到希臘島嶼輪廓，是拍攝阿爾巴尼亞海岸線的絕佳位置。黃昏時分在此拍攝夕陽下山大片的必訪之地。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.4,
+      "pros": "拍摄海岸线日落绝佳位置",
+      "cons": "需开车前往，夜间山路需小心",
+      "cost": "免费",
+      "bestTime": "傍晚（日落前1小时）",
+      "tips": "带三脚架拍夜景",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+View+Sarandë&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+View@39.920,20.150"
     },
     {
-      "id": "riv-himara-1",
+      "id": "riv-himara",
       "name": "Himara Beach",
       "nameZh": "希瑪拉海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
+      "city": "Himara",
+      "cityZh": "希瑪拉",
       "region": "riviera",
       "category": "beach",
-      "tags": [
-        "kid-friendly",
-        "sunset"
-      ],
-      "coordinates": [
-        40.105,
-        19.74
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Himara_2021.jpg/960px-Himara_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Himara_2021.jpg/960px-Himara_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Himara Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Beach@40.105,19.74",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "海灘乾淨，淺水區長，適合家庭",
-      "cons": "旺季有點擁擠，沒有大太陽的地方",
-      "cost": "免費",
-      "bestTime": "夏季 6-9月",
-      "tips": "自帶沙灘傘，否則需租借海灘設備"
-    },
-    {
-      "id": "riv-himara-old-1",
-      "name": "Himara Old Town",
-      "nameZh": "希瑪拉老城",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "city",
-      "tags": [
-        "architecture",
-        "history"
-      ],
-      "coordinates": [
-        40.1,
-        19.73
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg/960px-Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg/960px-Himara%2C_Dh%C3%ABrmi%2C_2024-10_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Himara Old Town&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara Old Town@40.1,19.73",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["kid-friendly", "sunset", "crowded"],
+      "coordinates": [40.105, 19.740],
+      "description": "希瑪拉海灘是里維耶拉的心臟地帶，沙灘沿著城鎮海岸線展開，設施完善。周圍有古希臘時期的城堡遺址增添歷史氛圍。海灘海水清澈，周邊餐廳、旅館選擇多，是探索里維耶拉的重要據點。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
       "rating": 4.1,
-      "pros": "老城石頭街道，希臘/阿爾巴尼亞風情建築",
-      "cons": "石頭路不平，老人家走起來吃力",
-      "cost": "免費",
-      "bestTime": "春季或秋季",
-      "tips": "穿舒適的步行鞋，建议傍晚散步"
+      "pros": "设施完善，交通便利",
+      "cons": "夏季游客较多",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "可安排在里维耶拉自驾路线中",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Himara+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Beach@40.105,19.740"
     },
     {
-      "id": "riv-borsh-1",
-      "name": "Borsh Beach",
-      "nameZh": "博爾什海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "secluded",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.06,
-        19.69
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strand_in_Borsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strand_in_Borsh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "googleSearchUrl": "https://www.google.com/search?q=Borsh Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh Beach@40.06,19.69",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.4,
-      "pros": "超长海灘，沙质细软，適合各種水上活動",
-      "cons": "設施很少，商店不多",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "自備飲食，下午有風適合風筝冲浪"
-    },
-    {
-      "id": "riv-dhermi-1",
+      "id": "riv-dhermi",
       "name": "Dhermi Beach",
-      "nameZh": "德赫爾米海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
+      "nameZh": "德爾米海灘",
+      "city": "Dhermi",
+      "cityZh": "德爾米",
       "region": "riviera",
       "category": "beach",
-      "tags": [
-        "sunset",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.025,
-        19.64
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dhermi_beach..JPG/960px-Dhermi_beach..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Dhermi_beach..JPG/960px-Dhermi_beach..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Dhermi Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi Beach@40.025,19.64",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "海灘時尚，有音樂和派對氣氛，夜生活丰富",
-      "cons": "旺季擁擠吵雜，不適合家庭",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "傍晚抵達，享受夜生活"
+      "tags": ["sunset", "instagram-worthy", "crowded"],
+      "coordinates": [40.025, 19.640],
+      "description": "德爾米海灘是里維耶拉最受歡迎的海灘之一，以其碧綠的海水與柔軟的沙灘聞名。海灘兩側被岩石懸崖包圍，形成獨特的峽灣景觀。夕陽時分懸崖被染成金色，是拍攝網美大片的熱門背景。海灘有海灘俱樂部提供躺椅與音樂。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 4.5,
+      "pros": "风景绝美，海水清澈",
+      "cons": "旺季一坑难求",
+      "cost": "躺椅约500列克",
+      "bestTime": "傍晚（日落前2小时）",
+      "tips": "带GoPro拍水下和悬崖",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Dhermi+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi+Beach@40.025,19.640"
     },
     {
-      "id": "riv-jale-1",
+      "id": "riv-jale",
       "name": "Jale Beach",
       "nameZh": "雅萊海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
+      "city": "Jale",
+      "cityZh": "雅萊",
       "region": "riviera",
       "category": "beach",
-      "tags": [
-        "diving",
-        "snorkeling"
-      ],
-      "coordinates": [
-        40.015,
-        19.62
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jale_Beach_Albania-_1.jpg/960px-Jale_Beach_Albania-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jale_Beach_Albania-_1.jpg/960px-Jale_Beach_Albania-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Jale Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale Beach@40.015,19.62",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "清澈海水，浮潛和潛水聖地，珊瑚礁丰富",
-      "cons": "海灘較小，旺季人多",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "带潜水面罩，携带水下相机"
-    },
-    {
-      "id": "riv-drimades-1",
-      "name": "Drimades Beach",
-      "nameZh": "德里馬德斯海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "secluded",
-        "sunset"
-      ],
-      "coordinates": [
-        39.98,
-        19.6
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drimades_beach.jpg/960px-Drimades_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Drimades_beach.jpg/960px-Drimades_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Drimades Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Drimades Beach@39.98,19.6",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "隐秘海灘，人少清靜，環境原生態",
-      "cons": "設施匱乏，沒有救生員",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "自備所有物品，注意安全"
-    },
-    {
-      "id": "riv-himaranta-1",
-      "name": "Himaranta Beach",
-      "nameZh": "希瑪蘭塔海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "kid-friendly"
-      ],
-      "coordinates": [
-        39.97,
-        19.59
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Albanian_Riviera_beach.jpg/600px-Albanian_Riviera_beach.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Albanian_Riviera_beach.jpg/600px-Albanian_Riviera_beach.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Himaranta Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himaranta Beach@39.97,19.59",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.0,
-      "pros": "小家庭海灘，浅水安全，適合幼童",
-      "cons": "设施一般，海灘面积小",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "携带儿童沙滩玩具"
-    },
-    {
-      "id": "riv-vuno-1",
-      "name": "Vuno Beach",
-      "nameZh": "武諾海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "instagram-worthy",
-        "sunset"
-      ],
-      "coordinates": [
-        40.01,
-        19.58
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gjipe_beach%2C_Albania.JPG/960px-Gjipe_beach%2C_Albania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Vuno Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno Beach@40.01,19.58",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.1,
-      "pros": "安静海灘，夕陽優美，適合拍照",
-      "cons": "商店和餐厅少，需自備",
-      "cost": "免費",
-      "bestTime": "夏季傍晚",
-      "tips": "带野餐篮和红酒"
-    },
-    {
-      "id": "riv-pilur-1",
-      "name": "Pilur Castle",
-      "nameZh": "皮魯爾城堡",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "historic",
-      "tags": [
-        "history",
-        "sunset"
-      ],
-      "coordinates": [
-        40.055,
-        19.65
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
+      "tags": ["diving", "snorkeling", "secluded"],
+      "coordinates": [40.015, 19.620],
+      "description": "雅萊海灘是里維耶拉上一處較為安靜的海灘，周圍被松樹林包圍，環境清幽。海灘外海有天然珊瑚礁，是浮潜与潜水的绝佳地点。海水清澈见底，鱼类丰富，深受水下活动爱好者喜爱。相较其他热门海滩，这里的氛围更加悠闲。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.4,
+      "pros": "潜水浮潜圣地，环境清幽",
+      "cons": "设施较少",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "带好浮潜装备",
       "photos": [],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ALB_20070718_img_1368.jpg/60px-ALB_20070718_img_1368.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Pilur Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pilur Castle@40.055,19.65",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 3.8,
-      "pros": "山丘城堡，視野開闘，可俯瞰海岸線",
-      "cons": "路況不佳，需四驅車",
-      "cost": "免費",
-      "bestTime": "春秋季",
-      "tips": "带足够的水，穿登山鞋"
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Jale+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jale+Beach@40.015,19.620"
     },
     {
-      "id": "riv-qeparo-1",
-      "name": "Qeparo Beach",
-      "nameZh": "切帕羅海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "secluded"
-      ],
-      "coordinates": [
-        40.04,
-        19.67
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Qeparo_beach.jpg/960px-Qeparo_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Qeparo_beach.jpg/960px-Qeparo_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Qeparo Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo Beach@40.04,19.67",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "两侧都有海滩，山崖景色壮丽",
-      "cons": "两个海滩之间需爬坡",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "先定位想去的海滩再出发"
-    },
-    {
-      "id": "riv-sheshi-1",
-      "name": "Porto Palermo Beach",
-      "nameZh": "波爾托帕拉莫海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "sunset",
-        "architecture"
-      ],
-      "coordinates": [
-        40.12,
-        19.72
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf/page1-500px-Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf/page1-500px-Journal_of_a_tour_in_the_Levant_-_in_three_volumes_%28IA_gri_000033125008266872%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Porto Palermo Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Porto Palermo Beach@40.12,19.72",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "威尼斯城堡改建，海灣景色優美",
-      "cons": "内部設施不多，商业化程度低",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "傍晚前往欣赏日落"
-    },
-    {
-      "id": "riv-pasha-1",
-      "name": "Pasha Liman Beach",
-      "nameZh": "帕夏港海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "kid-friendly",
-        "sunset"
-      ],
-      "coordinates": [
-        40.08,
-        19.75
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Literary_digest_history_of_the_world_war%2C_compiled_from_original_and_contemporary_sources-_American%2C_British%2C_French%2C_German%2C_and_others_%28IA_cu31924088055102%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Literary_digest_history_of_the_world_war%2C_compiled_from_original_and_contemporary_sources-_American%2C_British%2C_French%2C_German%2C_and_others_%28IA_cu31924088055102%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Pasha Liman Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pasha Liman Beach@40.08,19.75",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.0,
-      "pros": "浅水區大，適合家庭儿童",
-      "cons": "设施一般，无特别景观",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "携带儿童浮具"
-    },
-    {
-      "id": "riv-cape-1",
-      "name": "Cape of Gjiri i Kritis",
-      "nameZh": "克里特角",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
+      "id": "riv-dhermi-view",
+      "name": "Dhermi Viewpoint",
+      "nameZh": "德爾米觀景台",
+      "city": "Dhermi",
+      "cityZh": "德爾米",
       "region": "riviera",
       "category": "scenic",
-      "tags": [
-        "instagram-worthy",
-        "sunset"
-      ],
-      "coordinates": [
-        39.95,
-        19.57
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Albanian_Riviera_Cliffs.jpg/600px-Albanian_Riviera_Cliffs.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Albanian_Riviera_Cliffs.jpg/600px-Albanian_Riviera_Cliffs.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Cape of Gjiri i Kritis&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cape of Gjiri i Kritis@39.95,19.57",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.5,
-      "pros": "壮丽悬崖海岸线，网红打卡热点",
-      "cons": "风大，无遮阳处",
-      "cost": "免費",
-      "bestTime": "夏季傍晚",
-      "tips": "带防风外套，带广角镜头"
-    },
-    {
-      "id": "riv-fterra-1",
-      "name": "Fterra Beach",
-      "nameZh": "夫特拉海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
-      "region": "riviera",
-      "category": "beach",
-      "tags": [
-        "diving",
-        "secluded"
-      ],
-      "coordinates": [
-        40.03,
-        19.62
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
+      "tags": ["instagram-worthy", "sunset", "mountain"],
+      "coordinates": [40.030, 19.650],
+      "description": "德爾米觀景台位於德爾米村上方山坡處，可俯瞰整個德爾米灣與蔚藍的亞得里亞海。觀景台是拍攝里維耶拉海岸線的絕佳位置，夕陽時分可看到海面金光閃閃的壯闘景色。是自駕里維耶拉公路時不可錯過的停留點。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.6,
+      "pros": "拍摄里维耶拉海岸线最佳位置",
+      "cons": "无遮阳，夏季炎热",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "带广角镜头和三脚架",
       "photos": [],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vlora_war_combined.jpg/60px-Vlora_war_combined.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Fterra Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fterra Beach@40.03,19.62",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "隐秘海滩，潜水爱好者天堂",
-      "cons": "交通不便，只能开车或包车",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "带潜水装备"
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Dhermi+Viewpoint&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhermi+Viewpoint@40.030,19.650"
     },
     {
-      "id": "riv-lukove-1",
-      "name": "Lukovë Beach",
-      "nameZh": "盧科韋海灘",
-      "city": "Albanian Riviera",
-      "cityZh": "里維耶拉",
+      "id": "riv-plot",
+      "name": "Plot Beach",
+      "nameZh": "普洛特海灘",
+      "city": "Plot",
+      "cityZh": "普洛特",
       "region": "riviera",
       "category": "beach",
-      "tags": [
-        "instagram-worthy",
-        "secluded"
-      ],
-      "coordinates": [
-        39.93,
-        19.55
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg/960px-View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg/960px-View_on_the_Beach_in_Lukov%C3%AB%2C_South-Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Lukovë Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lukovë Beach@39.93,19.55",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.1,
-      "pros": "超隐秘海滩，人烟稀少，海水清澈",
-      "cons": "完全没有设施，需完全自备",
-      "cost": "免費",
-      "bestTime": "夏季",
-      "tips": "带齐所有装备包括垃圾袋"
+      "tags": ["secluded", "sunset", "coastal"],
+      "coordinates": [40.050, 19.680],
+      "description": "普洛特海灘是里維耶拉上一處較為小眾的沙石混灘，遊客稀少，氛圍原始自然。海灘周圍是橄欖樹林與野花，空氣中飄著地中海植物的香氣。海水清澈乾淨，是想要遠離人群享受寧靜海灘時光的旅客的理想選擇。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["couple", "solo"],
+      "rating": 4.2,
+      "pros": "游客极少，环境原始宁静",
+      "cons": "设施匮乏，需自备物品",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "带好防晒、饮水和零食",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Plot+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plot+Beach@40.050,19.680"
     },
     {
-      "id": "tir-square-1",
+      "id": "riv-himara-castle",
+      "name": "Himara Castle",
+      "nameZh": "希瑪拉城堡",
+      "city": "Himara",
+      "cityZh": "希瑪拉",
+      "region": "riviera",
+      "category": "historic",
+      "tags": ["history", "architecture", "sunset"],
+      "coordinates": [40.100, 19.730],
+      "description": "希瑪拉城堡建於中世紀，坐落在海邊懸崖上俯瞰亞得里亞海。城堡由拜占庭與威尼斯先後建造與加固，展現不同時期的建築風格。城堡內有古城牆與塔樓，夕陽時分在此遊覽可感受歷史與自然交融的獨特氛圍。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "临海悬崖城堡，风景独特",
+      "cons": "城堡内部分区域需注意安全",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "穿舒适鞋，部分城墙较陡",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Himara+Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Castle@40.100,19.730"
+    },
+    {
+      "id": "riv-borsh",
+      "name": "Borsh Beach",
+      "nameZh": "博爾什海灘",
+      "city": "Borsh",
+      "cityZh": "博爾什",
+      "region": "riviera",
+      "category": "beach",
+      "tags": ["secluded", "instagram-worthy", "coastal"],
+      "coordinates": [40.060, 19.690],
+      "description": "博爾什海灘是里維耶拉上最長的海灘之一，沙灘延绵约3公里，環境原始未被過度開發。海灘周圍是橄欖樹林與傳統村莊，沒有高樓大廈或商業化設施，保留濃厚的阿爾巴尼亞鄉村風情。非常適合想要體驗原始海岸風情的旅客。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "海滩超长，环境原始",
+      "cons": "设施匮乏，无救生员",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "带好防晒和饮水",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Borsh+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borsh+Beach@40.060,19.690"
+    },
+    {
+      "id": "riv-saricand",
+      "name": "Saranda Beach",
+      "nameZh": "Saranda 海灘",
+      "city": "Saranda",
+      "cityZh": "薩蘭達",
+      "region": "riviera",
+      "category": "beach",
+      "tags": ["kid-friendly", "crowded", "sunset"],
+      "coordinates": [39.880, 20.020],
+      "description": "薩蘭達海灘是薩蘭達這座海濱小鎮的主要沙灘，位於城鎮中心地帶，交通便利。海灘設施完善，救生員巡邏較為安全。沙灘鄰近眾多餐廳與商店，是體驗阿爾巴尼亞海濱小鎮生活的便利去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 3.9,
+      "pros": "位置便利，设施完善",
+      "cons": "游客较多",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "可和希格拉海滩一起游览",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Saranda+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saranda+Beach@39.880,20.020"
+    },
+    {
+      "id": "riv-lufar",
+      "name": "Lëkurësi Castle",
+      "nameZh": "盧庫萊西城堡",
+      "city": "Saranda",
+      "cityZh": "薩蘭達",
+      "region": "riviera",
+      "category": "historic",
+      "tags": ["history", "instagram-worthy", "sunset"],
+      "coordinates": [39.850, 20.000],
+      "description": "盧庫萊西城堡位於海邊山丘上，擁有俯瞰整個薩蘭達灣的絕佳視野。城堡建於13世紀，由塞爾維亞與威尼斯先後控制。城堡遺址現存有塔樓與城牆，夕陽時分在此俯瞰金色海面，是薩蘭達周邊最受歡迎的觀光去處之一。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.4,
+      "pros": "俯瞰海湾全景，日落极美",
+      "cons": "上山路陡峭需小心驾驶",
+      "cost": "免费",
+      "bestTime": "傍晚（日落前1小时）",
+      "tips": "建议日落前开车上山",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Lëkurësi+Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@39.850,20.000"
+    },
+    {
+      "id": "riv-qeparo",
+      "name": "Qeparo Beach",
+      "nameZh": "切帕羅海灘",
+      "city": "Qeparo",
+      "cityZh": "切帕羅",
+      "region": "riviera",
+      "category": "beach",
+      "tags": ["secluded", "sunset", "coastal"],
+      "coordinates": [40.040, 19.670],
+      "description": "切帕羅海灘位於里維耶拉公路沿線，是一座較為小眾的礫石沙灘。海灘周圍被陡峭的山壁與松樹林包圍，氛圍幽靜。與其他擁擠的里維耶拉海灘不同，這裡很少有遊客，非常適合想要遠離人群享受私人海灘時光的旅客。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["couple", "solo"],
+      "rating": 4.1,
+      "pros": "游客稀少，氛围宁静",
+      "cons": "礫石滩穿着拖鞋较不便",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "穿水鞋保护脚部",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Qeparo+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qeparo+Beach@40.040,19.670"
+    },
+    {
+      "id": "riv-piceri",
+      "name": "Albanian Riviera Piceri",
+      "nameZh": "里維耶拉披薩",
+      "city": "Himara",
+      "cityZh": "希瑪拉",
+      "region": "riviera",
+      "category": "food",
+      "tags": ["food", "instagram-worthy", "urban"],
+      "coordinates": [40.105, 19.740],
+      "description": "里維耶拉披薩並非特定餐廳，而是里維耶拉沿線阿爾巴尼亞餐館提供的特色披薩。阿爾巴尼亞披薩沿襲義大利風格，餅皮薄脆用料實在，配上當地新鮮海鮮或特色食材，在海邊景觀餐廳品嚐更是別有滋味。是探索里維耶拉不可錯過的美食體驗。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.0,
+      "pros": "義式披薩美味，價格實惠",
+      "cons": "需找到口碑好的餐廳",
+      "cost": "人均約300-500列克",
+      "bestTime": "午餐或晚餐",
+      "tips": "询问当地人推荐",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Albanian+Riviera+Pizza&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Himara+Pizza+Restaurant@40.105,19.740"
+    },
+    {
+      "id": "riv-vuno",
+      "name": "Vuno Beach",
+      "nameZh": "武諾海灘",
+      "city": "Vuno",
+      "cityZh": "武諾",
+      "region": "riviera",
+      "category": "beach",
+      "tags": ["instagram-worthy", "sunset", "secluded"],
+      "coordinates": [40.010, 19.580],
+      "description": "武諾海灘是里維耶拉上一處較為隱秘的小海灣，被陡峭的岩石懸崖包圍，擁有極佳的私密性。海灘周圍是野生的地中海灌木，環境原始。海灣內海水呈現層次豐富的碧綠色調，是拍攝網美照的理想背景。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo"],
+      "rating": 4.3,
+      "pros": "隐秘海湾，拍照效果极佳",
+      "cons": "只能自驾前往，无设施",
+      "cost": "免费",
+      "bestTime": "早上或傍晚",
+      "tips": "带航拍机拍摄海湾全景",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Vuno+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vuno+Beach@40.010,19.580"
+    },
+    {
+      "id": "riv-radhë",
+      "name": "Radhë Beach",
+      "nameZh": "拉澤海灘",
+      "city": "Radhë",
+      "cityZh": "拉澤",
+      "region": "riviera",
+      "category": "beach",
+      "tags": ["secluded", "sunset", "coastal"],
+      "coordinates": [39.980, 19.560],
+      "description": "拉澤海灘是里維耶拉南端的海灘，遠離主要旅遊路線，環境清幽原始。海灘周圍是傳統阿爾巴尼亞村莊與橄欖樹林，遊客極少。海水清澈乾淨，是體驗真實阿爾巴尼亞鄉村海灘生活的絕佳去處，適合想要放空放鬆的旅客。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["couple", "solo"],
+      "rating": 4.0,
+      "pros": "游客极少，原汁原味",
+      "cons": "设施匮乏，需自备物品",
+      "cost": "免费",
+      "bestTime": "上午或傍晚",
+      "tips": "体验当地村民的友善热情",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Radhë+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Radhë+Beach@39.980,19.560"
+    },
+    {
+      "id": "riv-shënv",
+      "name": "Shënmati Beach",
+      "nameZh": "什內爾馬蒂",
+      "city": "Shënmati",
+      "cityZh": "什內爾馬蒂",
+      "region": "riviera",
+      "category": "beach",
+      "tags": ["kid-friendly", "family", "sunset"],
+      "coordinates": [39.950, 19.530],
+      "description": "什內爾馬蒂海灘是里維耶拉上一處適合家庭的海灘，灘面平緩寬闘，淺水區域廣大，非常適合兒童戲水。海灘周圍有幾家小型餐館與民宿，設備雖然簡單但基本需求可滿足。夕陽時分海灘風光動人，是觀賞里維耶拉日落的便利去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 3.8,
+      "pros": "浅水区大，适合带小孩",
+      "cons": "设施相对简单",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "带小朋友的家长可安排半日游",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Shënmati+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shënmati+Beach@39.950,19.530"
+    },
+    {
+      "id": "riv-vlgore",
+      "name": "Vlora to Himara Road",
+      "nameZh": "發羅拉至希瑪拉公路",
+      "city": "Himara",
+      "cityZh": "希瑪拉",
+      "region": "riviera",
+      "category": "scenic",
+      "tags": ["instagram-worthy", "sunset", "mountain"],
+      "coordinates": [40.100, 19.650],
+      "description": "發羅拉至希瑪拉的沿海公路被譽為巴爾幹最美的海岸公路之一。公路沿著里維耶拉懸崖蜿蜒，一側是陡峭山壁，另一側是蔚藍的亞得里亞海。沿途設有多個觀景台可停車欣賞景色，是自駕愛好者必走的經典路線。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.8,
+      "pros": "巴爾幹最美海岸公路，景色絕美",
+      "cons": "山路崎岖需小心驾驶",
+      "cost": "免费（自驾油费另计）",
+      "bestTime": "5-6月或9-10月",
+      "tips": "建议早晨出发，沿途多停观景台",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Albanian+Riviera+Road&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vlora+to+Himara+Road@40.100,19.650"
+    },
+    {
+      "id": "trn-skanderbeg",
       "name": "Skanderbeg Square",
       "nameZh": "斯坎德培廣場",
       "city": "Tirana",
       "cityZh": "地拉那",
       "region": "central",
       "category": "city",
-      "tags": [
-        "architecture",
-        "urban"
-      ],
-      "coordinates": [
-        41.327,
-        19.818
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG/960px-Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG/960px-Monumento_a_Skanderbeg%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Skanderbeg Square&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg Square@41.327,19.818",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.0,
-      "pros": "地拉那市中心，國家博物館所在，適合了解城市歷史",
-      "cons": "車流量大，空氣品質一般",
-      "cost": "免費",
-      "bestTime": "春季和秋季",
-      "tips": "平日参觀比周末好"
+      "tags": ["architecture", "urban", "history"],
+      "coordinates": [41.327, 19.818],
+      "description": "斯坎德培廣場是地拉那的心臟地帶，以阿爾巴尼亞民族英雄斯坎德培命名。廣場中央佇立著斯坎德培騎馬雕像，周圍環繞著國家歷史博物館、文化宮與銀行總部等重要建築。廣場是體驗地拉那都市生活的絕佳起點。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.2,
+      "pros": "地拉那市中心，必访地标",
+      "cons": "周边停车困难",
+      "cost": "免费",
+      "bestTime": "任何时间",
+      "tips": "夜间灯光下的广场别有风情",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Skanderbeg+Square+Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Skanderbeg+Square+Tirana@41.327,19.818"
     },
     {
-      "id": "tir-mosque-1",
+      "id": "trn-et-hem",
       "name": "Et'hem Bey Mosque",
       "nameZh": "埃特姆貝清真寺",
       "city": "Tirana",
       "cityZh": "地拉那",
       "region": "central",
       "category": "city",
-      "tags": [
-        "architecture",
-        "history"
-      ],
-      "coordinates": [
-        41.331,
-        19.821
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg/960px-Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg/960px-Ethem_Bey_mosque%2C_Tirana_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Et'hem Bey Mosque&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem Bey Mosque@41.331,19.821",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "美麗的鄂圖曼清真寺，壁畫精細",
-      "cons": "女性參觀需著頭巾",
-      "cost": "免費",
-      "bestTime": "春季和秋季",
-      "tips": "穿著得體，開放時間注意禮拜時間"
+      "tags": ["architecture", "history", "urban"],
+      "coordinates": [41.331, 19.821],
+      "description": "埃特姆貝清真寺建於1819年，是地拉那最古老的清真寺之一，擁有精美的伊斯蘭幾何裝飾與壁畫。儘管阿爾巴尼亞曾為共產國家，清真寺在共產時期仍被保存下來。寺內天花板描繪出 trees 與瀑布壁畫，是喜歡建築與藝術的旅客不可錯過的景點。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "建筑精美，壁画稀有",
+      "cons": "非伊斯兰教徒可能无法入内",
+      "cost": "免费",
+      "bestTime": "上午",
+      "tips": "注意着装得体",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Et'hem+Bey+Mosque+Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Et'hem+Bey+Mosque+Tirana@41.331,19.821"
     },
     {
-      "id": "tir-bunker-1",
-      "name": "Bunker 21",
-      "nameZh": "21號地堡",
+      "id": "trn-bunker",
+      "name": "Bunker 5",
+      "nameZh": "地下碉堡",
       "city": "Tirana",
       "cityZh": "地拉那",
       "region": "central",
       "category": "city",
-      "tags": [
-        "instagram-worthy",
-        "history"
-      ],
-      "coordinates": [
-        41.318,
-        19.81
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Albanian_bunker_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Albanian_bunker_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "googleSearchUrl": "https://www.google.com/search?q=Bunker 21&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker 21@41.318,19.81",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.5,
-      "pros": "獨特的社會主義時期地堡，內部寬敞，有歷史教育意義",
-      "cons": "空間密閉，部分人會感到不安",
-      "cost": "€5",
-      "bestTime": "全年皆可",
-      "tips": "有幽閉恐懼症者不建議進入"
-    },
-    {
-      "id": "tir-clock-1",
-      "name": "Clock Tower of Tirana",
-      "nameZh": "地拉那鐘塔",
-      "city": "Tirana",
-      "cityZh": "地拉那",
-      "region": "central",
-      "category": "city",
-      "tags": [
-        "architecture",
-        "sunset"
-      ],
-      "coordinates": [
-        41.329,
-        19.824
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG/960px-Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG/960px-Tirana_-_Clock_Tower_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Clock Tower of Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock Tower of Tirana@41.329,19.824",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["instagram-worthy", "history", "urban"],
+      "coordinates": [41.318, 19.810],
+      "description": "地拉那地下碉堡是共產時期留下的獨特遺產，據說地拉那市區曾有超過6000座地下碉堡。這些碉堡由恩維爾·霍查下令建造，用於抵禦外敵入侵。如今部分碉堡被改建成博物館、咖啡厅與藝術空間，是了解阿爾巴尼亞共產歷史的獨特去處。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.0,
-      "pros": "地拉那標誌性地標，可登頂俯瞰全市",
-      "cons": "階梯窄，老人家吃力",
-      "cost": "€3（登頂）",
-      "bestTime": "春季到秋季",
-      "tips": "傍晚登頂可看日落"
+      "pros": "共產历史遗迹，极具特色",
+      "cons": "部分碉堡位置隐蔽不易寻找",
+      "cost": "免费至门票约100列克",
+      "bestTime": "任何时间",
+      "tips": "参加导览团了解背后的历史故事",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Bunker+5+Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bunker+5+Tirana@41.318,19.810"
     },
     {
-      "id": "tir-park-1",
-      "name": "Grand Park of Tirana",
-      "nameZh": "大地拉那公園",
+      "id": "trn-clock",
+      "name": "Clock Tower of Tirana",
+      "nameZh": "時鐘塔",
       "city": "Tirana",
       "cityZh": "地拉那",
       "region": "central",
-      "category": "nature",
-      "tags": [
-        "kid-friendly",
-        "family"
-      ],
-      "coordinates": [
-        41.315,
-        19.8
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Park_of_Tirana_2017.jpg/960px-Grand_Park_of_Tirana_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Park_of_Tirana_2017.jpg/960px-Grand_Park_of_Tirana_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Grand Park of Tirana&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand Park of Tirana@41.315,19.8",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "category": "city",
+      "tags": ["architecture", "sunset", "urban"],
+      "coordinates": [41.329, 19.824],
+      "description": "地拉那時鐘塔建於1822年，是城市最古老的地標之一。塔高35米，可俯瞰埃特姆貝清真寺與周邊老城區。遊客可付費登上塔顶，遠眺地拉那市景與遠處的達伊蒂山。夕陽時分登塔可欣賞金色陽光灑滿城市的美景。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.1,
-      "pros": "大型城市公園，有湖和树荫，適合家庭",
-      "cons": "周末人潮较多",
-      "cost": "免費",
-      "bestTime": "春季到秋季",
-      "tips": "可租船遊湖，携带野餐"
+      "pros": "俯瞰老城最佳位置",
+      "cons": "塔内狭窄，攀爬较累",
+      "cost": "门票约100列克",
+      "bestTime": "傍晚（日落）",
+      "tips": "傍晚登塔欣赏夕阳",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Clock+Tower+Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clock+Tower+Tirana@41.329,19.824"
     },
     {
-      "id": "tir-lake-1",
-      "name": "Tirana Lake (Lake of Pazar)",
-      "nameZh": "帕扎爾湖",
+      "id": "trn-pyramid",
+      "name": "Pyramid of Tirana",
+      "nameZh": "地拉那金字塔",
       "city": "Tirana",
       "cityZh": "地拉那",
       "region": "central",
-      "category": "nature",
-      "tags": [
-        "hiking",
-        "family"
-      ],
-      "coordinates": [
-        41.34,
-        19.84
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tirana_Lake.jpg/600px-Tirana_Lake.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tirana_Lake.jpg/600px-Tirana_Lake.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Tirana Lake (Lake of Pazar)&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana Lake (Lake of Pazar)@41.34,19.84",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "category": "city",
+      "tags": ["instagram-worthy", "architecture", "urban"],
+      "coordinates": [41.319, 19.825],
+      "description": "地拉那金字塔建於1988年，最初是供奉霍查的金字塔型博物館。如今這座建築被街頭藝術家改造為巨大的塗鴉畫布與滑板公園，是地拉那最時尚另類的景點。白天是拍攝創意照片的好去處，夜間燈光照明下的金字塔又呈現不同風貌。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.2,
-      "pros": "風景優美，健行和單車路線人氣高",
-      "cons": "部分道路未铺装，雨天泥泞",
-      "cost": "免費",
-      "bestTime": "春季到秋季",
-      "tips": "带自行车或租任"
+      "pros": "街头艺术与历史碰撞，拍照圣地",
+      "cons": "周边环境较杂乱",
+      "cost": "免费",
+      "bestTime": "傍晚或夜间",
+      "tips": "带广角镜头拍出创意照片",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Pyramid+of+Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pyramid+of+Tirana@41.319,19.825"
     },
     {
-      "id": "tir-museum-1",
+      "id": "trn-museum",
       "name": "National History Museum",
       "nameZh": "國家歷史博物館",
       "city": "Tirana",
       "cityZh": "地拉那",
       "region": "central",
       "category": "historic",
-      "tags": [
-        "history",
-        "family"
-      ],
-      "coordinates": [
-        41.319,
-        19.824
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg/960px-Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg/960px-Tirana%2C_Albania_%E2%80%93_National_Museum_of_History_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=National History Museum&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National History Museum@41.319,19.824",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["history", "family", "architecture"],
+      "coordinates": [41.319, 19.824],
+      "description": "國家歷史博物館是阿爾巴尼亞最大的博物館，收藏從古代伊利里亞人到現代的文物。博物館建築外牆有大型馬賽克壁畫描繪歷史場景。館內展品包括伊利里亞文物、古羅馬雕像、拜占庭藝術與共產時期文物，全面展示阿爾巴尼亞的千年歷史。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.4,
-      "pros": "豐富的國家歷史收藏，從史前到現代",
-      "cons": "展品較多，需預留足够時間",
-      "cost": "€7",
-      "bestTime": "全年皆可",
-      "tips": "建议聘请導覽或租借audio guide"
+      "pros": "文物丰富，全面了解阿国历史",
+      "cons": "非英语展品说明较多",
+      "cost": "门票约300列克",
+      "bestTime": "任何时间",
+      "tips": "请导游或租借语音导览",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=National+History+Museum+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National+History+Museum+Tirana@41.319,19.824"
     },
     {
-      "id": "tir-blloku-1",
-      "name": "Blloku District",
-      "nameZh": "布洛庫區",
-      "city": "Tirana",
-      "cityZh": "地拉那",
-      "region": "central",
-      "category": "city",
-      "tags": [
-        "food",
-        "urban",
-        "nightlife"
-      ],
-      "coordinates": [
-        41.319,
-        19.807
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerial_shot_of_the_Hoxha_former_house.webm/960px--Aerial_shot_of_the_Hoxha_former_house.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aerial_shot_of_the_Hoxha_former_house.webm/960px--Aerial_shot_of_the_Hoxha_former_house.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
-      "googleSearchUrl": "https://www.google.com/search?q=Blloku District&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blloku District@41.319,19.807",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "時尚餐廳和酒吧區域，夜生活豐富",
-      "cons": "消費較高，價格不便宜",
-      "cost": "€15-30（餐飲）",
-      "bestTime": "全年皆可",
-      "tips": "傍晚散步体验当地年轻人文化"
-    },
-    {
-      "id": "tir-mount-dajt-1",
-      "name": "Mount Dajti",
-      "nameZh": "達伊蒂山",
+      "id": "trn-park",
+      "name": "Grand Park of Tirana",
+      "nameZh": "大地拉那公園",
       "city": "Tirana",
       "cityZh": "地拉那",
       "region": "central",
       "category": "nature",
-      "tags": [
-        "hiking",
-        "scenic",
-        "sunrise"
-      ],
-      "coordinates": [
-        41.36,
-        19.91
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mount_Dajti_-_Peak.jpg/960px-Mount_Dajti_-_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mount_Dajti_-_Peak.jpg/960px-Mount_Dajti_-_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Mount Dajti&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mount Dajti@41.36,19.91",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.6,
-      "pros": "可搭纜車上山，俯瞰全市，景色壯闘",
-      "cons": "纜車可能因強風停駛，山上氣溫低",
-      "cost": "€10（纜車來回）",
-      "bestTime": "春季到秋季，山頂终年有雪",
-      "tips": "带外套，山上温度比山下低很多"
+      "tags": ["kid-friendly", "family", "urban"],
+      "coordinates": [41.315, 19.800],
+      "description": "大地拉那公園占地面積廣大，是地拉那市民休閒運動的首選去處。公園內有人工湖可划船，有跑步道與兒童遊戲區。早晨可見市民太極拳與瑜珈課程，傍晚則有家庭散步與年輕人運動。遠離城市喧囂享受大自然的便利去處。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.0,
+      "pros": "市区绿洲，适合各年龄层",
+      "cons": "周末人流较多",
+      "cost": "免费",
+      "bestTime": "清晨或傍晚",
+      "tips": "可租船游湖",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Grand+Park+Tirana&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Park+Tirana@41.315,19.800"
     },
     {
-      "id": "gji-castle-1",
-      "name": "Gjirokastër Castle",
-      "nameZh": "吉諾卡斯特城堡",
-      "city": "Gjirokastër",
-      "cityZh": "吉諾卡斯特",
-      "region": "central",
-      "category": "historic",
-      "tags": [
-        "history",
-        "architecture",
-        "sunset"
-      ],
-      "coordinates": [
-        40.076,
-        20.14
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg/960px-Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg/960px-Gjirokast%C3%ABr_Castle_%28by_Pudelek%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Castle@40.076,20.14",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.6,
-      "pros": "巨大城堡，雄踞山丘，可看全市景色",
-      "cons": "需要爬山，路况较为陡峭",
-      "cost": "免費",
-      "bestTime": "春季或秋季",
-      "tips": "穿舒适的登山鞋，带足够的水"
-    },
-    {
-      "id": "gji-zagarotti-1",
-      "name": "Zagarotti House",
-      "nameZh": "扎加羅蒂之家",
-      "city": "Gjirokastër",
-      "cityZh": "吉諾卡斯特",
-      "region": "central",
-      "category": "historic",
-      "tags": [
-        "architecture",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.072,
-        20.135
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gjirokaster_Old_Town.jpg/600px-Gjirokaster_Old_Town.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gjirokaster_Old_Town.jpg/600px-Gjirokaster_Old_Town.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Zagarotti House&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti House@40.072,20.135",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 3.9,
-      "pros": "精美古宅，建筑细节丰富，適合建築愛好者",
-      "cons": "規模很小，15分鐘可逛完",
-      "cost": "免費",
-      "bestTime": "春季到秋季",
-      "tips": "与老城一起游览"
-    },
-    {
-      "id": "gji-old-town-1",
-      "name": "Gjirokastër Old Town",
-      "nameZh": "吉諾卡斯特老城",
-      "city": "Gjirokastër",
-      "cityZh": "吉諾卡斯特",
+      "id": "trn-art",
+      "name": "Tirana Art",
+      "nameZh": "地拉那藝術",
+      "city": "Tirana",
+      "cityZh": "地拉那",
       "region": "central",
       "category": "city",
-      "tags": [
-        "architecture",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.075,
-        20.138
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gjirokast%C3%ABr_Old_Town_%282%29.jpg/960px-Gjirokast%C3%ABr_Old_Town_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gjirokast%C3%ABr_Old_Town_%282%29.jpg/960px-Gjirokast%C3%ABr_Old_Town_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Old Town&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Old Town@40.075,20.138",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["instagram-worthy", "urban", "architecture"],
+      "coordinates": [41.320, 19.810],
+      "description": "地拉那街頭藝術蓬勃發展，整座城市就是一座大型街頭美術館。2013年起市政府邀請各國藝術家在建築外牆創作大型壁畫，其中以克拉耶沃區的彩虹階梯最為知名。此外，諸如《又見面》及《夫妻樹》等壁畫也是必訪的打卡熱點。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.5,
-      "pros": "世界文化遺產，石頭老街，奥斯威辛风格建筑",
-      "cons": "石頭路不平，拖着行李箱不方便",
-      "cost": "免費",
-      "bestTime": "春季或秋季",
-      "tips": "穿舒适的步行鞋，建议住一晚慢慢逛"
+      "pros": "街头艺术活跃，彩虹阶梯必访",
+      "cons": "部分作品位置分散需寻找",
+      "cost": "免费",
+      "bestTime": "任何时间",
+      "tips": "参加Tirana Walking Art Tour",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Tirana+Street+Art&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tirana+Art+District@41.320,19.810"
     },
     {
-      "id": "gji-safary-1",
-      "name": "Libohovë Palace",
-      "nameZh": "利博霍韋宮",
+      "id": "gji-castle",
+      "name": "Gjirokastër Castle",
+      "nameZh": "吉羅卡斯特城堡",
       "city": "Gjirokastër",
-      "cityZh": "吉諾卡斯特",
+      "cityZh": "吉羅卡斯特",
       "region": "central",
       "category": "historic",
-      "tags": [
-        "history",
-        "architecture"
-      ],
-      "coordinates": [
-        40.05,
-        20.16
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
+      "tags": ["history", "architecture", "sunset"],
+      "coordinates": [40.076, 20.140],
+      "description": "吉羅卡斯特城堡是巴爾幹最大的城堡之一，據說建於公元前1世紀。城堡占据整座山丘，擁有72座塔樓與深邃的地牢。城堡內有巨型大炮展出，並展示當年囚禁政治犯的地牢環境。登上位於城堡最高處可俯瞰整個吉羅卡斯特山城。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.5,
+      "pros": "巴爾幹最大城堡，历史底蕴深厚",
+      "cons": "城堡面积大需2-3小时参观",
+      "cost": "门票约200列克",
+      "bestTime": "上午或傍晚",
+      "tips": "穿舒适的步行鞋，带足够饮用水",
       "photos": [],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Libohova.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "googleSearchUrl": "https://www.google.com/search?q=Libohovë Palace&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Libohovë Palace@40.05,20.16",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 3.8,
-      "pros": "历史宫殿，花园景色优美",
-      "cons": "位置较远，需要开车",
-      "cost": "免費",
-      "bestTime": "春季到秋季",
-      "tips": "与城堡一起游览"
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Castle@40.076,20.140"
     },
     {
-      "id": "gji-sword-1",
-      "name": "The Stone Sword of Gjirokastër",
-      "nameZh": "吉諾卡斯特石劍",
+      "id": "gji-zagarotti",
+      "name": "Zagarotti House",
+      "nameZh": "扎加羅蒂別墅",
       "city": "Gjirokastër",
-      "cityZh": "吉諾卡斯特",
+      "cityZh": "吉羅卡斯特",
+      "region": "central",
+      "category": "historic",
+      "tags": ["architecture", "instagram-worthy", "history"],
+      "coordinates": [40.072, 20.135],
+      "description": "扎加羅蒂別墅是吉羅卡斯特最美的奥斯曼风格宅邸之一，以其精美的木雕阳台与石雕装饰著称。别墅曾属于富商的扎加罗蒂家族，如今部分开放给公众参观。站在阳台上可俯瞰下方河流与山城的景色，是摄影爱好者的必访之处。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.1,
+      "pros": "奥斯曼建筑精华，摄影热点",
+      "cons": "部分房间不开放",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "带长焦镜头拍建筑细节",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Zagarotti+House+Gjirokastër&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zagarotti+House+Gjirokastër@40.072,20.135"
+    },
+    {
+      "id": "gji-kadje",
+      "name": "Kadesh Museum",
+      "nameZh": "卡迪什博物館",
+      "city": "Gjirokastër",
+      "cityZh": "吉羅卡斯特",
+      "region": "central",
+      "category": "historic",
+      "tags": ["history", "family", "architecture"],
+      "coordinates": [40.074, 20.137],
+      "description": "卡迪什博物館設於一座精美的奥斯曼老宅內，展示伊利里亞人與古代阿爾巴尼亞的歷史文物。博物館名稱來源於聖經中的卡迪什城，凸顯阿爾巴尼亞與古代文明的關聯。館內收藏包括青銅器、陶器和古老的日常用品，是了解吉羅卡斯特地區古代歷史的好去處。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.0,
+      "pros": "老宅建筑美，文物有特色",
+      "cons": "馆内禁止拍照",
+      "cost": "门票约100列克",
+      "bestTime": "任何时间",
+      "tips": "请导游讲解了解更多细节",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Kadesh+Museum+Gjirokastër&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kadesh+Museum+Gjirokastër@40.074,20.137"
+    },
+    {
+      "id": "gji-lib",
+      "name": "Gjirokastër Library",
+      "nameZh": "圖書館",
+      "city": "Gjirokastër",
+      "cityZh": "吉羅卡斯特",
+      "region": "central",
+      "category": "city",
+      "tags": ["architecture", "history", "urban"],
+      "coordinates": [40.075, 20.138],
+      "description": "吉羅卡斯特圖書館是一座結合傳統與現代建築元素的文化機構，收藏大量阿爾巴尼亞文學作品與地方志書籍。圖書館建築本身融合奥斯曼风格与当时流行的新古典主义，是吉罗卡斯特城市漫步中值得停留的一站。对于文学爱好者来说，这里可以感受到阿國浓厚的文学传统。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["couple", "solo"],
+      "rating": 3.7,
+      "pros": "建筑有特色，氛围安静",
+      "cons": "非主要景点，游客较少",
+      "cost": "免费",
+      "bestTime": "任何时间",
+      "tips": "喜欢文学的旅客可顺道一访",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Library&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Library@40.075,20.138"
+    },
+    {
+      "id": "gji-view",
+      "name": "Gjirokastër Viewpoint",
+      "nameZh": "觀景台",
+      "city": "Gjirokastër",
+      "cityZh": "吉羅卡斯特",
       "region": "central",
       "category": "scenic",
-      "tags": [
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.078,
-        20.145
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gjirokaster_Castle.jpg/600px-Gjirokaster_Castle.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gjirokaster_Castle.jpg/600px-Gjirokaster_Castle.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=The Stone Sword of Gjirokastër&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The Stone Sword of Gjirokastër@40.078,20.145",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.0,
-      "pros": "独特岩石造型，网红打卡点",
-      "cons": "规模很小，10分鐘可逛完",
-      "cost": "免費",
-      "bestTime": "全年皆可",
-      "tips": "带广角镜头拍摄"
-    },
-    {
-      "id": "gji-enclosed-1",
-      "name": "Gjirokastër Enclosed City",
-      "nameZh": "封閉式山城",
-      "city": "Gjirokastër",
-      "cityZh": "吉諾卡斯特",
-      "region": "central",
-      "category": "city",
-      "tags": [
-        "architecture",
-        "history"
-      ],
-      "coordinates": [
-        40.07,
-        20.13
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Federal_Information_Processing_Standards_Publication-_countries%2C_dependencies%2C_area_of_special_sovereignty%2C_and_their_principal_administrative_divisions_%28IA_federalinformati104nati%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër Enclosed City&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër Enclosed City@40.07,20.13",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["instagram-worthy", "sunset", "mountain"],
+      "coordinates": [40.078, 20.145],
+      "description": "吉羅卡斯特觀景台位於城堡附近的山坡上，可俯瞰整座奥斯曼古城与远处的山峦。吉罗卡斯特因擁有大量灰石建的奥斯曼老宅，被暱称为「石头城」。晴朗时从此处远望，景色层次分明，是拍摄古城全景的最佳位置。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.4,
-      "pros": "封闭式古城结构完整，彷彿时光倒流",
-      "cons": "部分建筑年久失修，需小心行走",
-      "cost": "免費",
-      "bestTime": "春季或秋季",
-      "tips": "参加导览团了解历史"
+      "pros": "俯瞰石头城全景，视角绝佳",
+      "cons": "傍晚后山路较暗需注意",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "带三脚架拍夜景",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Viewpoint&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Viewpoint@40.078,20.145"
     },
     {
-      "id": "ber-castle-1",
+      "id": "gji-enclosure",
+      "name": "Stone Enclosure",
+      "nameZh": "石圍欄",
+      "city": "Gjirokastër",
+      "cityZh": "吉羅卡斯特",
+      "region": "central",
+      "category": "historic",
+      "tags": ["architecture", "history", "instagram-worthy"],
+      "coordinates": [40.070, 20.130],
+      "description": "吉羅卡斯特的封闭山城是奥斯曼时期的特色布局，整座山城由石墙环绕，形成独特的防御体系。山城内保存了大量17-19世纪的传统石屋与曲折的巷道，是研究奥斯曼城市规划的活化石。漫步其中，仿佛穿越时空，是吉罗卡斯特最具氛围的体验。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "穿越时空的氛围，极具特色",
+      "cons": "巷道复杂容易迷路",
+      "cost": "免费",
+      "bestTime": "清晨或傍晚",
+      "tips": "穿舒适的步行鞋，带好相机",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gjirokastër+Old+Town&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gjirokastër+Old+Town@40.070,20.130"
+    },
+    {
+      "id": "ber-castle",
       "name": "Berat Castle",
       "nameZh": "培拉特城堡",
       "city": "Berat",
       "cityZh": "培拉特",
       "region": "central",
       "category": "historic",
-      "tags": [
-        "history",
-        "architecture",
-        "sunset"
-      ],
-      "coordinates": [
-        40.325,
-        19.95
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berat_Castle_%28by_Pudelek%29_2.JPG/960px-Berat_Castle_%28by_Pudelek%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Berat_Castle_%28by_Pudelek%29_2.JPG/960px-Berat_Castle_%28by_Pudelek%29_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Berat Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat Castle@40.325,19.95",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.7,
-      "pros": "世界遗产，千年城堡，保存完整",
-      "cons": "上城堡的路较陡，部分人需休息",
-      "cost": "免費",
-      "bestTime": "春季或秋季",
-      "tips": "建议参加导览团，穿好走的鞋"
-    },
-    {
-      "id": "gor-bridge-1",
-      "name": "Gorica Bridge",
-      "nameZh": "戈里察橋",
-      "city": "Berat",
-      "cityZh": "培拉特",
-      "region": "central",
-      "category": "historic",
-      "tags": [
-        "architecture",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.32,
-        19.94
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG/960px-Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG/960px-Berat_-_Gorica_Bridge_%28by_Pudelek%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Gorica Bridge&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica Bridge@40.32,19.94",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.1,
-      "pros": "古橋造型優美，石頭工藝精湛",
-      "cons": "橋面窄，大行李無法通過",
-      "cost": "免費",
-      "bestTime": "全年皆可",
-      "tips": "傍晚光線最適合拍照"
-    },
-    {
-      "id": "ber-mangal-1",
-      "name": "Mangalemi Quarter",
-      "nameZh": "曼加利米區",
-      "city": "Berat",
-      "cityZh": "培拉特",
-      "region": "central",
-      "category": "city",
-      "tags": [
-        "architecture",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.323,
-        19.952
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
+      "tags": ["history", "architecture", "sunset"],
+      "coordinates": [40.325, 19.950],
+      "description": "培拉特城堡建於13世紀，是培拉特最標誌性的建築，被聯合國列為世界文化遺產。城堡佇立於山丘之上，保存了大量的拜占庭教堂與清真寺。城堡內至今仍有居民居住，被稱為「活著的城堡」，是體驗中世紀生活氛圍的獨特去處。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.6,
+      "pros": "活着的城堡，世界遗产",
+      "cons": "城堡面积大需充分时间游览",
+      "cost": "免费",
+      "bestTime": "上午或傍晚（日落）",
+      "tips": "请当地导游讲解城堡历史故事",
       "photos": [],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mangalemi_neighborhood.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "googleSearchUrl": "https://www.google.com/search?q=Mangalemi Quarter&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalemi Quarter@40.323,19.952",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "千窗之屋奇景，摄影圣地",
-      "cons": "街道狭窄，车辆无法进入",
-      "cost": "免費",
-      "bestTime": "春季到秋季",
-      "tips": "带广角镜头，清晨光线最美"
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Berat+Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Castle@40.325,19.950"
     },
     {
-      "id": "ber-church-1",
-      "name": "Church of St. Mary",
-      "nameZh": "聖母教堂",
+      "id": "ber-gorica",
+      "name": "Gorica Bridge",
+      "nameZh": "戈里卡橋",
       "city": "Berat",
       "cityZh": "培拉特",
       "region": "central",
       "category": "historic",
-      "tags": [
-        "history",
-        "architecture"
-      ],
-      "coordinates": [
-        40.326,
-        19.948
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg/960px-2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg/960px-2011_Berat%2C_Cerkiew_%C5%9Bw._Marii_z_Vlaherny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Church of St. Mary&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church of St. Mary@40.326,19.948",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "拜占庭风格教堂，壁画精美",
-      "cons": "内部不允许拍照",
-      "cost": "免費",
-      "bestTime": "全年皆可",
-      "tips": "尊重当地宗教习俗"
+      "tags": ["architecture", "instagram-worthy", "history"],
+      "coordinates": [40.320, 19.940],
+      "description": "戈里卡橋是一座建於18世紀的優雅石拱橋，跨越奥斯曼尼河。橋身由白色石灰石建成，拱形倒影在平靜的河面上形成美麗的對稱圖案。橋上有傳統的小商店，過去是商旅歇腳之處。夕陽時分在此拍攝古橋與金色倒影是培拉特必做的體驗。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.3,
+      "pros": "古桥倒影绝美，明信片景点",
+      "cons": "旺季游客较多",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "带三脚架拍倒影",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gorica+Bridge+Berat&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica+Bridge+Berat@40.320,19.940"
     },
     {
-      "id": "ber-kala-1",
-      "name": "Kala River",
-      "nameZh": "卡拉河",
-      "city": "Berat",
-      "cityZh": "培拉特",
-      "region": "central",
-      "category": "nature",
-      "tags": [
-        "nature",
-        "hiking"
-      ],
-      "coordinates": [
-        40.318,
-        19.935
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buna_kala.jpg/960px-Buna_kala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Buna_kala.jpg/960px-Buna_kala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Kala River&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kala River@40.318,19.935",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.0,
-      "pros": "河边散步路线，风景优美",
-      "cons": "河边步道部分区域有杂草",
-      "cost": "免費",
-      "bestTime": "春季到秋季",
-      "tips": "带驱蚊液"
-    },
-    {
-      "id": "ber-hassan-1",
-      "name": "Hassan Bey Mosque",
-      "nameZh": "哈桑貝清真寺",
+      "id": "ber-mangal",
+      "name": "Mangalem Mosque",
+      "nameZh": "曼加利清真寺",
       "city": "Berat",
       "cityZh": "培拉特",
       "region": "central",
       "category": "city",
-      "tags": [
-        "architecture"
-      ],
-      "coordinates": [
-        40.322,
-        19.946
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf/page1-500px-Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf/page1-500px-Travels_in_European_Turkey_in_1850%3B_through_Bosnia%2C_Servia%2C_Bulgaria%2C_Macedonia%2C_Thrace%2C_Albania_and_Epirus_%28IA_dli.granth.70830%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Hassan Bey Mosque&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hassan Bey Mosque@40.322,19.946",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 3.9,
-      "pros": "古老清真寺，建筑特色鲜明",
-      "cons": "规模不大，可看性一般",
-      "cost": "免費",
-      "bestTime": "全年皆可",
-      "tips": "可与教堂一起游览"
+      "tags": ["architecture", "history", "urban"],
+      "coordinates": [40.323, 19.952],
+      "description": "曼加利區是培拉特老城區的核心地帶，擁有保存完好的奥斯曼建筑群，包括清真寺與古老的豪宅。整個街區被稱為「千窗之城」，因為建築陽台上有無數對稱的小窗戶。漫步其間可感受奥斯曼帝国时期繁荣的市井生活，是摄影爱好者的天堂。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.4,
+      "pros": "千窗之城，奥斯曼建筑精华",
+      "cons": "旺季游客较多",
+      "cost": "免费",
+      "bestTime": "清晨或傍晚",
+      "tips": "在清晨拍摄可避开人潮",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Mangalem+Quarter+Berat&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mangalem+Quarter+Berat@40.323,19.952"
     },
     {
-      "id": "shk-rozafa-1",
+      "id": "ber-red",
+      "name": "Red Mosque",
+      "nameZh": "紅色清真寺",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "city",
+      "tags": ["architecture", "history", "urban"],
+      "coordinates": [40.322, 19.948],
+      "description": "紅色清真寺位於培拉特老城區，因外牆使用紅色石頭而得名，建於15世紀。清真寺外觀典雅，內部有精美的壁畫與伊斯蘭幾何裝飾。與其他旅遊化的清真寺不同，這裡仍為當地穆斯林禮拜場所，遊客到訪需保持安靜尊重。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.1,
+      "pros": "红石外观典雅，有历史意义",
+      "cons": "仍为清真寺需注意礼仪",
+      "cost": "免费",
+      "bestTime": "上午",
+      "tips": "注意着装得体，保持安静",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Red+Mosque+Berat&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red+Mosque+Berat@40.322,19.948"
+    },
+    {
+      "id": "ber-quarter",
+      "name": "Gorica Quarter",
+      "nameZh": "戈里卡區",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "city",
+      "tags": ["architecture", "instagram-worthy", "urban"],
+      "coordinates": [40.321, 19.942],
+      "description": "戈里卡區位於河對岸，與曼加利區隔河相望，是培拉特另一個保存完好的奥斯曼老街區。這裡的建築以木結構與灰石聞名，陽台層層疊出形成獨特的建築景觀。相較於曼加利區，這裡更為清幽，遊客較少，是體驗真實培拉特生活的去處。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.2,
+      "pros": "建筑风格独特，游客较少",
+      "cons": "部分建筑较破旧需注意安全",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "和曼加利区一起游览",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Gorica+Quarter+Berat&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gorica+Quarter+Berat@40.321,19.942"
+    },
+    {
+      "id": "ber-view",
+      "name": "Berat Viewpoint",
+      "nameZh": "培拉特觀景台",
+      "city": "Berat",
+      "cityZh": "培拉特",
+      "region": "central",
+      "category": "scenic",
+      "tags": ["instagram-worthy", "sunset", "architecture"],
+      "coordinates": [40.328, 19.955],
+      "description": "培拉特觀景台位於城堡區域附近，可俯瞰整座培拉特古城與周圍的山丘。從高處望去，戈里卡橋跨越河流連接兩岸古鎮，奥斯曼老宅的窗戶在夕陽下閃閃發光。夜景也相當動人，萬家燈火如同繁星點點，是拍攝培拉特全景的最佳去處。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.5,
+      "pros": "俯瞰干窗之城全景，视角绝佳",
+      "cons": "夜间山路较暗需注意",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）或夜景",
+      "tips": "日落后别急着离开，等华灯初上",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Berat+Viewpoint&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berat+Viewpoint@40.328,19.955"
+    },
+    {
+      "id": "shk-rozafa",
       "name": "Rozafa Castle",
       "nameZh": "羅扎法城堡",
       "city": "Shkodra",
       "cityZh": "斯庫台",
       "region": "mountain",
       "category": "historic",
-      "tags": [
-        "history",
-        "architecture",
-        "sunset"
-      ],
-      "coordinates": [
-        42.04,
-        19.93
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG/960px-Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG/960px-Castillo_de_Rozafa%2C_Shkodra%2C_Albania%2C_2014-04-18%2C_DD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Rozafa Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa Castle@42.04,19.93",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.6,
-      "pros": "壮丽的山丘城堡，湖泊和河流全景",
-      "cons": "需要爬坡，老人家可能吃力",
-      "cost": "免費",
-      "bestTime": "春季或秋季",
-      "tips": "傍晚登顶欣赏日落"
+      "tags": ["history", "architecture", "sunset"],
+      "coordinates": [42.040, 19.930],
+      "description": "羅扎法城堡位於斯庫台湖畔的小丘上，是阿爾巴尼亞最著名的中世紀城堡之一。城堡保存完好，可俯瞰斯庫台湖與遠處的阿爾卑斯山脈。城堡名稱源於一段淒美的傳說——據說城堡的建設需要犧牲一位女性，她的眼淚化為湖水。城堡內有博物館與教堂，是了解阿爾巴尼亞北部歷史的必訪去處。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.5,
+      "pros": "城堡与湖泊山景交相辉映",
+      "cons": "旺季停车困难",
+      "cost": "门票约100列克",
+      "bestTime": "傍晚（日落）",
+      "tips": "请导游听城堡传说故事",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Rozafa+Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rozafa+Castle@42.040,19.930"
     },
     {
-      "id": "shk-lake-1",
+      "id": "shk-lake",
       "name": "Shkodra Lake",
       "nameZh": "斯庫台湖",
       "city": "Shkodra",
       "cityZh": "斯庫台",
       "region": "mountain",
       "category": "nature",
-      "tags": [
-        "bird-watching",
-        "family",
-        "kid-friendly"
-      ],
-      "coordinates": [
-        42.05,
-        19.62
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shkodra_Lake_Zogaj.jpg/960px-Shkodra_Lake_Zogaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shkodra_Lake_Zogaj.jpg/960px-Shkodra_Lake_Zogaj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Shkodra Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Lake@42.05,19.62",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.5,
-      "pros": "巴尔干最大湖泊之一，生态丰富，鸟类天堂",
-      "cons": "面积大，部分区域公共交通不便",
-      "cost": "免費",
-      "bestTime": "春季和秋季",
-      "tips": "参加湖上船游，带望远镜"
+      "tags": ["bird-watching", "family", "kid-friendly", "nature"],
+      "coordinates": [42.050, 19.620],
+      "description": "斯庫台湖是巴爾幹半島最大的湖泊，跨越阿爾巴尼亞與蒙特內哥羅邊界。湖泊周圍是廣闘的濕地與蘆葦蕩，是數百種鳥類的棲息地，包括珍稀的 Dalmatian Pelican。湖區可乘船遊覽，拜訪傳統的希納加水上市場，是體驗阿爾巴尼亞北部湖濱風光的絕佳去處。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.4,
+      "pros": "巴爾幹最大湖泊，生态丰富",
+      "cons": "面積大需船才能充分体验",
+      "cost": "游船约500列克",
+      "bestTime": "5-6月或9-10月",
+      "tips": "参加船游可抵达水上市場",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Shkodra+Lake&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Lake@42.050,19.620"
     },
     {
-      "id": "shk-lezha-1",
-      "name": "Lezha Castle",
-      "nameZh": "萊扎城堡",
-      "city": "Shkodra",
-      "cityZh": "斯庫台",
-      "region": "mountain",
-      "category": "historic",
-      "tags": [
-        "history"
-      ],
-      "coordinates": [
-        41.75,
-        19.63
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lezh%C3%AB_Castle_2.jpg/960px-Lezh%C3%AB_Castle_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lezh%C3%AB_Castle_2.jpg/960px-Lezh%C3%AB_Castle_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Lezha Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lezha Castle@41.75,19.63",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.0,
-      "pros": "历史城堡，適合历史爱好者",
-      "cons": "位置较远，路况一般",
-      "cost": "免費",
-      "bestTime": "全年皆可",
-      "tips": "与周边景点一起游览"
-    },
-    {
-      "id": "shk-vendor-1",
-      "name": "Vendotëna Tower",
-      "nameZh": "溫多托納塔",
-      "city": "Shkodra",
-      "cityZh": "斯庫台",
-      "region": "mountain",
-      "category": "historic",
-      "tags": [
-        "history",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        42.07,
-        19.87
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vendotena_Tower.jpg/600px-Vendotena_Tower.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vendotena_Tower.jpg/600px-Vendotena_Tower.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Vendotëna Tower&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vendotëna Tower@42.07,19.87",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 3.8,
-      "pros": "独立石塔，造型独特",
-      "cons": "只有一个塔，内容不多",
-      "cost": "免費",
-      "bestTime": "全年皆可",
-      "tips": "拍照留念即可"
-    },
-    {
-      "id": "shk-river-1",
-      "name": "Buna River",
-      "nameZh": "布納河",
-      "city": "Shkodra",
-      "cityZh": "斯庫台",
-      "region": "mountain",
-      "category": "nature",
-      "tags": [
-        "boat",
-        "nature"
-      ],
-      "coordinates": [
-        42.06,
-        19.6
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Buna_and_Shkodra_%28WPWTR16%29.JPG/960px-Buna_and_Shkodra_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Buna_and_Shkodra_%28WPWTR16%29.JPG/960px-Buna_and_Shkodra_%28WPWTR16%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Buna River&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buna River@42.06,19.6",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "可乘船游览，风景优美",
-      "cons": "部分码头设施老旧",
-      "cost": "€10-20（船游）",
-      "bestTime": "夏季",
-      "tips": "带晕船药，带防晒"
-    },
-    {
-      "id": "shk-pema-1",
-      "name": "Pema e Thatë",
-      "nameZh": "白楊大道",
+      "id": "shk-view",
+      "name": "Shkodra Viewpoint",
+      "nameZh": "觀景台",
       "city": "Shkodra",
       "cityZh": "斯庫台",
       "region": "mountain",
       "category": "scenic",
-      "tags": [
-        "instagram-worthy",
-        "sunset"
-      ],
-      "coordinates": [
-        42.045,
-        19.91
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ksamil6.jpg/960px-Ksamil6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ksamil6.jpg/960px-Ksamil6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Pema e Thatë&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pema e Thatë@42.045,19.91",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["instagram-worthy", "sunset", "mountain"],
+      "coordinates": [42.045, 19.910],
+      "description": "斯庫台觀景台可俯瞰整座斯庫台城市、湖泊與遠處的阿爾卑斯山脈。觀景台位於城堡附近的山丘上，是拍攝斯庫台全景的最佳位置。晴朗的天氣可看到積雪的的山峰，是摄影爱好者的必访之地。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.3,
-      "pros": "白杨大道的白杨树隧道，网红打卡热点",
-      "cons": "位于罗扎法城堡附近，可看性独立较低",
-      "cost": "免費",
-      "bestTime": "秋季（黄叶最美）",
-      "tips": "带广角镜头，与城堡一起游览"
+      "pros": "俯瞰全城湖泊雪山，景色壮观",
+      "cons": "需爬坡或开车",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "带三脚架拍夜景",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Shkodra+Viewpoint&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Viewpoint@42.045,19.910"
     },
     {
-      "id": "shk-bazaar-1",
-      "name": "Shkodra Bazaar",
-      "nameZh": "斯庫台市集",
+      "id": "shk-leku",
+      "name": "Lëkurësi Castle",
+      "nameZh": "萊庫萊西城堡",
+      "city": "Shkodra",
+      "cityZh": "斯庫台",
+      "region": "mountain",
+      "category": "historic",
+      "tags": ["history", "instagram-worthy", "sunset"],
+      "coordinates": [42.055, 19.920],
+      "description": "萊庫萊西城堡位於斯庫台城市北側山丘上，與羅扎法城堡遙遙相望。城堡建於14世紀，由威尼斯人建造，用於控制通往湖區的要道。城堡規模較小，但視野極佳，可同時看到斯庫台湖與城市景觀。夕陽時分在此欣賞金色光芒撒滿山丘與湖泊，是斯庫台最浪漫的體驗之一。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.2,
+      "pros": "游客較少，景色絕美",
+      "cons": "城堡规模小，约30分钟可逛完",
+      "cost": "免费",
+      "bestTime": "傍晚（日落）",
+      "tips": "和罗扎法城堡一起游览",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Lëkurësi+Castle+Shkodra&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lëkurësi+Castle@42.055,19.920"
+    },
+    {
+      "id": "shk-vera",
+      "name": "Shkodra Old Town",
+      "nameZh": "老城區",
       "city": "Shkodra",
       "cityZh": "斯庫台",
       "region": "mountain",
       "category": "city",
-      "tags": [
-        "food",
-        "urban"
-      ],
-      "coordinates": [
-        42.038,
-        19.925
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ad065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ad065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "googleSearchUrl": "https://www.google.com/search?q=Shkodra Bazaar&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra Bazaar@42.038,19.925",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["architecture", "urban", "history"],
+      "coordinates": [42.038, 19.925],
+      "description": "斯庫台老城區保留了大量傳統的鄂圖曼建築，包括古老的清真寺與傳統集市。老城區的市集仍然活躍，出售傳統的阿爾巴尼亞手工藝品與當地特產。漫步在窄小的巷弄中，可感受濃厚的北部阿爾巴尼亞傳統生活氛圍，是體驗當地文化的好去處。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.0,
-      "pros": "传统市场，可以体验当地生活",
-      "cons": "周末可能不营业",
-      "cost": "免费（市场）",
-      "bestTime": "全年皆可",
-      "tips": "早上前往最热闹"
+      "pros": "传统氛围浓厚，可购买手工艺品",
+      "cons": "非热门景点，较少游客",
+      "cost": "免费",
+      "bestTime": "上午（赶集时最热闹）",
+      "tips": "可购买当地手工纪念品",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Shkodra+Old+Town&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shkodra+Old+Town@42.038,19.925"
     },
     {
-      "id": "nth-theth-1",
+      "id": "nth-theth",
       "name": "Theth Village",
-      "nameZh": "特塞村",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
+      "nameZh": "泰特村",
+      "city": "Theth",
+      "cityZh": "泰特",
       "region": "mountain",
       "category": "nature",
-      "tags": [
-        "hiking",
-        "rural",
-        "alpine"
-      ],
-      "coordinates": [
-        42.38,
-        19.81
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg/960px-Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg/960px-Scenery_at_Theth_Village_-_Northern_Albania_-_06_%2828864471248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Theth Village&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Village@42.38,19.81",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["hiking", "rural", "alpine"],
+      "coordinates": [42.380, 19.810],
+      "description": "泰特村位於阿爾巴尼亞北部阿爾卑斯山區，海拔約1200米，是阿爾巴尼亞最偏遠但也最美麗的山村之一。村莊被高聳的山峰與深邃的峽谷包圍，保留有傳統的石屋與木屋。著名的藍色眼睛瀑布就在村莊附近，徒步小徑穿越原始森林，是體驗阿爾巴尼亞高山風光的絕佳去處。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.7,
-      "pros": "高山村落，世外桃源，健行天堂",
-      "cons": "交通不便，需四驱或包车，路况差",
-      "cost": "免费（村庄）",
-      "bestTime": "夏季 6-9月",
-      "tips": "在 village 住一晚，体验当地生活"
-    },
-    {
-      "id": "nth-theth-church-1",
-      "name": "Theth Church",
-      "nameZh": "特塞教堂",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "historic",
-      "tags": [
-        "history",
-        "architecture"
-      ],
-      "coordinates": [
-        42.382,
-        19.813
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg/960px-Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg/960px-Theth%2C_Fush%C3%AB-Theth_%E2%80%93_Roman_Catholic_Church_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Theth Church&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth Church@42.382,19.813",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "北部山区唯一教堂，历史意义重大",
-      "cons": "规模很小，10分钟可逛完",
+      "pros": "阿尔卑斯山风光，徒步天堂",
+      "cons": "山路崎岖，需四驱车或包车",
       "cost": "免费",
-      "bestTime": "全年皆可",
-      "tips": "与 Theth Village 一起游览"
+      "bestTime": "6-8月",
+      "tips": "在村内住宿一晚体验高山村落生活",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Theth+Village+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Theth+Village@42.380,19.810"
     },
     {
-      "id": "nth-valbona-1",
+      "id": "nth-valbona",
       "name": "Valbona Valley",
       "nameZh": "瓦爾博納山谷",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
+      "city": "Valbona",
+      "cityZh": "瓦爾博納",
       "region": "mountain",
       "category": "nature",
-      "tags": [
-        "hiking",
-        "mountain",
-        "alpine"
-      ],
-      "coordinates": [
-        42.42,
-        19.88
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013-10-05_Valbona%2C_Albania_8806.jpg/960px-2013-10-05_Valbona%2C_Albania_8806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013-10-05_Valbona%2C_Albania_8806.jpg/960px-2013-10-05_Valbona%2C_Albania_8806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Valbona Valley&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Valley@42.42,19.88",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["hiking", "mountain", "alpine"],
+      "coordinates": [42.420, 19.880],
+      "description": "瓦爾博納山谷被譽為阿爾巴尼亞最美的山谷，擁有高聳的石灰岩山峰與碧綠的高山草甸。谷中有著名的瓦爾博納山口，是徒步者的聖地。夏季時山谷开满野花，冬季则被白雪覆盖一年四季皆有不同的美。山谷中的泰特至瓦爾博納步道被認為是巴爾幹最美的徒步路線之一。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.8,
-      "pros": "阿尔卑斯山谷，景色壮观，徒步路线完善",
-      "cons": "部分路线需要向导，不适合新手",
+      "pros": "阿尔卑斯风光，徒步者的天堂",
+      "cons": "山路难行需有经验",
       "cost": "免费",
-      "bestTime": "夏季 6-9月",
-      "tips": "聘请当地向导，带足装备"
+      "bestTime": "6-8月（野花盛开）",
+      "tips": "建议走Valbona Pass体验壮阔山景",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Valbona+Valley&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Valley@42.420,19.880"
     },
     {
-      "id": "nth-valbona-pass-1",
-      "name": "Valbona Pass",
-      "nameZh": "瓦爾博納山口",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "scenic",
-      "tags": [
-        "hiking",
-        "sunrise"
-      ],
-      "coordinates": [
-        42.4,
-        19.87
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Valbona_Pass.jpg/960px-Valbona_Pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Valbona_Pass.jpg/960px-Valbona_Pass.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Valbona Pass&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona Pass@42.4,19.87",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.6,
-      "pros": "穿越ValbonaPass的经典徒步路线，景色壮丽",
-      "cons": "需要较好的体力，部分路段危险",
-      "cost": "免费",
-      "bestTime": "夏季 6-8月",
-      "tips": "需要向导，带足水和食物"
-    },
-    {
-      "id": "nth-koman-1",
+      "id": "nth-koman",
       "name": "Koman Lake",
       "nameZh": "科曼湖",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
+      "city": "Koman",
+      "cityZh": "科曼",
       "region": "mountain",
       "category": "nature",
-      "tags": [
-        "hiking",
-        "boat",
-        "scenic"
-      ],
-      "coordinates": [
-        42.15,
-        19.92
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg/960px-2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg/960px-2013-10-04_Lake_Koman%2C_Albania_-_Landing_place_at_Koman_0933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Koman Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman Lake@42.15,19.92",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.7,
-      "pros": "高峡出平湖，绿松石色湖水，景色绝世",
-      "cons": "只能坐船进入，需预约船班",
-      "cost": "€15-25（船费）",
-      "bestTime": "春季到秋季",
-      "tips": "提前预约船班，带防晒"
-    },
-    {
-      "id": "nth-koman-trail-1",
-      "name": "Koman–Valbona Trail",
-      "nameZh": "科曼-瓦爾博納步道",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "activity",
-      "tags": [
-        "hiking",
-        "alpine"
-      ],
-      "coordinates": [
-        42.2,
-        19.9
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
+      "tags": ["hiking", "boat", "scenic"],
+      "coordinates": [42.150, 19.920],
+      "description": "科曼湖是一座位於深峽谷中的人造水庫，被週圍陡峭的山壁包圍，呈現出北歐fjord一般的壯闘景色。湖泊只能乘船抵達，船班穿梭於峽谷之間，兩岸景色如畫。從科曼湖乘船到瓦爾博納是阿爾巴尼亞最受推崇的船旅體驗，被稱為「歐洲最壯闘的航程」。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.9,
+      "pros": "欧洲最壮观航程之一，景色绝美",
+      "cons": "船班有限需提前确认",
+      "cost": "船票约1500列克",
+      "bestTime": "6-7月或9月",
+      "tips": "坐船头位置拍照效果最佳",
       "photos": [],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lake_Koman_Albania_2016.jpg/60px-Lake_Koman_Albania_2016.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Koman–Valbona Trail&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman–Valbona Trail@42.2,19.9",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.8,
-      "pros": "世界知名徒步路线，穿越峡谷和湖泊",
-      "cons": "需要2-3天，体力要求高",
-      "cost": "免费",
-      "bestTime": "夏季 6-9月",
-      "tips": "需要有经验的向导，携带帐篷"
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Koman+Lake+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koman+Lake@42.150,19.920"
     },
     {
-      "id": "nth-rrajca-1",
-      "name": "Rrajca Lake",
-      "nameZh": "拉伊卡湖",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
+      "id": "nth-grunget",
+      "name": "Grunget Lake",
+      "nameZh": "格林格湖",
+      "city": "Theth",
+      "cityZh": "泰特",
       "region": "mountain",
       "category": "nature",
-      "tags": [
-        "hiking",
-        "secluded"
-      ],
-      "coordinates": [
-        42.05,
-        20.05
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rrajca_Lake.jpg/600px-Rrajca_Lake.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rrajca_Lake.jpg/600px-Rrajca_Lake.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Rrajca Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rrajca Lake@42.05,20.05",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "高山湖泊，隐秘宁静，钓鱼爱好者的天堂",
-      "cons": "位置偏远，交通不便",
-      "cost": "免费",
-      "bestTime": "夏季",
-      "tips": "带钓鱼证，带驱蚊液"
-    },
-    {
-      "id": "nth-bogaj-1",
-      "name": "Bogaj Mountain Pass",
-      "nameZh": "博加伊山口",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "scenic",
-      "tags": [
-        "hiking",
-        "sunrise"
-      ],
-      "coordinates": [
-        42.35,
-        19.84
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Albanian_Mountains.jpg/600px-Albanian_Mountains.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Albanian_Mountains.jpg/600px-Albanian_Mountains.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Bogaj Mountain Pass&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogaj Mountain Pass@42.35,19.84",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "山口全景，视野开阔，適合摄影",
-      "cons": "气候变化快，需带防风衣物",
-      "cost": "免费",
-      "bestTime": "夏季",
-      "tips": "清晨或傍晚光线最佳"
-    },
-    {
-      "id": "nth-cedia-1",
-      "name": "Çedia e Fratit",
-      "nameZh": "弗拉蒂峰",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "scenic",
-      "tags": [
-        "hiking",
-        "sunrise"
-      ],
-      "coordinates": [
-        42.39,
-        19.83
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Albanian_Alps.jpg/600px-Albanian_Alps.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Albanian_Alps.jpg/600px-Albanian_Alps.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Çedia e Fratit&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Çedia e Fratit@42.39,19.83",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.5,
-      "pros": "高峰徒步，景色震撼，阿尔卑斯山景尽收眼底",
-      "cons": "需要专业装备和向导",
-      "cost": "免费",
-      "bestTime": "夏季 7-8月",
-      "tips": "需要有经验，向导必须"
-    },
-    {
-      "id": "nth-kyr-1",
-      "name": "Kyrë e Madhe",
-      "nameZh": "大基爾峰",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "nature",
-      "tags": [
-        "hiking",
-        "alpine"
-      ],
-      "coordinates": [
-        42.41,
-        19.85
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Albanian_Alps_peaks.jpg/600px-Albanian_Alps_peaks.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Albanian_Alps_peaks.jpg/600px-Albanian_Alps_peaks.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Kyrë e Madhe&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyrë e Madhe@42.41,19.85",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.6,
-      "pros": "阿尔卑斯最高峰之一，挑战性强，成就感十足",
-      "cons": "技术要求高，不适合新手",
-      "cost": "免费",
-      "bestTime": "夏季 7-8月",
-      "tips": "必须聘请向导，带齐技术装备"
-    },
-    {
-      "id": "nth-boge-1",
-      "name": "Bogë Village",
-      "nameZh": "博格村",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "nature",
-      "tags": [
-        "hiking",
-        "rural",
-        "skiing"
-      ],
-      "coordinates": [
-        42.48,
-        19.8
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boga_Shkrel.jpg/960px-Boga_Shkrel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boga_Shkrel.jpg/960px-Boga_Shkrel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Bogë Village&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë Village@42.48,19.8",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["hiking", "secluded", "alpine"],
+      "coordinates": [42.390, 19.820],
+      "description": "格林格湖隱藏在泰特村附近的山谷中，是一座高山湖泊。湖泊面積不大但水質極清，周圍被松樹林與高山草甸包圍。湖邊有傳統的石頭庇護所，徒步者可在湖畔露營。相較於知名景點，這裡異常清幽，是尋求寧靜自然的旅客的秘密基地。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo", "group"],
       "rating": 4.4,
-      "pros": "传统高山村庄，滑雪和健行双季皆宜",
-      "cons": "冬季道路可能封闭",
+      "pros": "隐秘高山湖泊，适合露营",
+      "cons": "需徒步数小时才能抵达",
       "cost": "免费",
-      "bestTime": "夏季和冬季",
-      "tips": "冬季需备防滑链"
+      "bestTime": "6-8月",
+      "tips": "带好露营装备在湖边住一晚",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Grunget+Lake+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grunget+Lake@42.390,19.820"
     },
     {
-      "id": "nth-kukaj-1",
-      "name": "Kukaj Waterfall",
-      "nameZh": "庫卡伊瀑布",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
+      "id": "nth-bogove",
+      "name": "Bogovë Waterfall",
+      "nameZh": "博戈韋瀑布",
+      "city": "Bogovë",
+      "cityZh": "博戈韋",
       "region": "mountain",
       "category": "nature",
-      "tags": [
-        "nature",
-        "hiking"
-      ],
-      "coordinates": [
-        42.37,
-        19.83
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Albanian_Waterfall.jpg/600px-Albanian_Waterfall.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Albanian_Waterfall.jpg/600px-Albanian_Waterfall.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Kukaj Waterfall&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kukaj Waterfall@42.37,19.83",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.5,
-      "pros": "瀑布水量丰富，周围森林环绕",
-      "cons": "路滑危险，雨季不建议",
+      "tags": ["nature", "hiking", "family"],
+      "coordinates": [42.350, 19.840],
+      "description": "博戈韋瀑布是阿爾巴尼亞北部山區的天然瀑布，水流從岩石懸崖上傾瀉而下，形成一道銀色的水簾。瀑布周圍是未受破壞的森林，空氣清新負離子含量高。瀑布下方形成天然水池，夏季時當地人會在此游泳消暑，是北部山區受歡迎的健行去處。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.1,
+      "pros": "自然原始，游泳消暑好去处",
+      "cons": "雨季水量过大较危险",
       "cost": "免费",
-      "bestTime": "春季和初夏",
-      "tips": "穿防滑鞋，带替换衣物"
+      "bestTime": "春季或雨季後水量最大",
+      "tips": "可带泳衣在天然池中泡水",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Bogovë+Waterfall&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogovë+Waterfall@42.350,19.840"
     },
     {
-      "id": "nth-don-1",
-      "name": "Don Path",
-      "nameZh": "唐恩小徑",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
+      "id": "nth-qafe-thore",
+      "name": "Qafe Thore Pass",
+      "nameZh": "塔羅山口",
+      "city": "Theth",
+      "cityZh": "泰特",
+      "region": "mountain",
+      "category": "scenic",
+      "tags": ["hiking", "sunrise", "mountain"],
+      "coordinates": [42.400, 19.870],
+      "description": "塔羅山口是泰特與瓦爾博納之間的制高點，海拔約1800米，是阿爾巴尼亞北部阿爾卑斯山區最艱辛但也最壯闘的徒步路線之一。山口視野極佳，可俯瞰周圍的雪山與峽谷。天氣晴朗時可看到杜米托爾國家公園的山峰。清晨過山口可看到壯闘的高山日出。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 4.7,
+      "pros": "高山日出绝美，成就感十足",
+      "cons": "需有经验的徒步者，新手不推荐",
+      "cost": "免费",
+      "bestTime": "清晨（看日出）",
+      "tips": "前一天在Theth住宿，隔日凌晨出发",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Qafe+Thore+Pass&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qafe+Thore+Pass@42.400,19.870"
+    },
+    {
+      "id": "nth-valbona-pass",
+      "name": "Valbona Viewpoint",
+      "nameZh": "瓦爾博納觀景台",
+      "city": "Valbona",
+      "cityZh": "瓦爾博納",
+      "region": "mountain",
+      "category": "scenic",
+      "tags": ["hiking", "sunrise", "mountain"],
+      "coordinates": [42.400, 19.870],
+      "description": "瓦爾博納山口觀景台是眺望瓦爾博納山谷全景的最佳位置。從山口望去，碧綠的高山草甸、錯落的石頭小屋與遠處的雪山峰巒構成如詩如畫的景色。這裡是泰特至瓦爾博納徒步路線的精華段，也是所有徒步者必定停留的觀景點。",
+      "bestSeason": "夏季（6-9月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.6,
+      "pros": "俯瞰山谷全景，视角震撼",
+      "cons": "需徒步或开车",
+      "cost": "免费",
+      "bestTime": "清晨或傍晚",
+      "tips": "带足防晒和饮用水",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Valbona+Pass+Viewpoint&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valbona+Pass@42.400,19.870"
+    },
+    {
+      "id": "nth-cherhan",
+      "name": "Cerjan Beach",
+      "nameZh": "切爾詹海灘",
+      "city": "Lezhë",
+      "cityZh": "萊什",
+      "region": "coastal",
+      "category": "beach",
+      "tags": ["secluded", "sunset", "coastal"],
+      "coordinates": [41.820, 19.580],
+      "description": "切爾詹海灘是亞得里亞海岸上一處較為小眾的海灘，位於斯庫台湖與海之間的過渡地帶。海灘周圍是平坦的沙丘與稀疏的松樹林，環境空曠寂靜。與北部山區的壮闘景色不同，這裡是結束高山遊覽後放鬆海灘時光的好去處。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "solo"],
+      "rating": 3.8,
+      "pros": "游客稀少，环境宁静",
+      "cons": "设施匮乏",
+      "cost": "免费",
+      "bestTime": "上午或下午",
+      "tips": "可与斯库台湖一起安排",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Cerjan+Beach+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerjan+Beach@41.820,19.580"
+    },
+    {
+      "id": "nth-viqir",
+      "name": "Viqiresort",
+      "nameZh": "維奇里度假村",
+      "city": "Viqir",
+      "cityZh": "維奇里",
       "region": "mountain",
       "category": "activity",
-      "tags": [
-        "hiking",
-        "secluded"
-      ],
-      "coordinates": [
-        42.395,
-        19.815
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf/page1-500px-The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf/page1-500px-The_history_of_the_ingenious_gentleman_Don_Quixote_of_La_Mancha._%28IA_historyofingenio01cerv%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Don Path&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Don Path@42.395,19.815",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "tags": ["family", "luxury", "mountain"],
+      "coordinates": [42.350, 19.850],
+      "description": "維奇里度假村是阿爾巴尼亞北部山區的豪華度假村，提供現代化的住宿與各種戶外活動。度假村可安排徒步、越野摩托車與滑雪等活動（冬季）。周圍被美麗的山景包圍，是希望在高山中享受舒適住宿的旅客的理想選擇。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["family", "couple", "group"],
       "rating": 4.3,
-      "pros": "隐秘步道，人迹稀少，自然原始",
-      "cons": "没有任何设施，需完全自备",
-      "cost": "免费",
-      "bestTime": "夏季",
-      "tips": "必须有向导，带足补给"
+      "pros": "山区豪华住宿，设施完善",
+      "cons": "价格相对较高",
+      "cost": "住宿每晚约50-150欧元",
+      "bestTime": "全年（冬季可滑雪）",
+      "tips": "提前预订，旺季经常满房",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Viqiresort+Albania&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Viqiresort@42.350,19.850"
     },
     {
-      "id": "nth-pretash-1",
-      "name": "Pretash Lake",
-      "nameZh": "普雷塔什湖",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
+      "id": "nth-boge",
+      "name": "Bogë Ski Resort",
+      "nameZh": "博格滑雪度假村",
+      "city": "Bogë",
+      "cityZh": "博格",
       "region": "mountain",
-      "category": "nature",
-      "tags": [
-        "hiking",
-        "secluded"
-      ],
-      "coordinates": [
-        42.44,
-        19.86
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Albanian_Lake.jpg/600px-Albanian_Lake.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Albanian_Lake.jpg/600px-Albanian_Lake.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Pretash Lake&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pretash Lake@42.44,19.86",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "高山湖泊，隐秘宁静，钓鱼佳地",
-      "cons": "路难找，需要本地向导",
-      "cost": "免费",
-      "bestTime": "夏季",
-      "tips": "聘请向导，带钓鱼具"
+      "category": "activity",
+      "tags": ["skiing", "mountain", "alpine"],
+      "coordinates": [42.480, 19.800],
+      "description": "博格滑雪度假村是阿爾巴尼亞主要的滑雪勝地，擁有數條滑雪道與纜車設施。滑雪道難度適中，適合初學者與中級滑雪者。度假村有滑雪學校與設備租賃服務，是體驗阿爾巴尼亞冬季運動的去處。夏季時周圍的高山草甸是徒步與騎馬的好去處。",
+      "bestSeason": "冬季（12-3月）或夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 4.0,
+      "pros": "阿國主要滑雪場，设备尚可",
+      "cons": "设施不如西欧滑雪度假村",
+      "cost": "滑雪通行证约500列克/天",
+      "bestTime": "12-2月",
+      "tips": "带好保暖衣物，滑雪装备可租",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Bogë+Ski+Resort&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogë+Ski+Resort@42.480,19.800"
     },
     {
-      "id": "nth-vukaj-1",
-      "name": "Vukaj Hot Springs",
-      "nameZh": "武凱溫泉",
-      "city": "Northern Mountains",
-      "cityZh": "北部山區",
-      "region": "mountain",
-      "category": "nature",
-      "tags": [
-        "activity",
-        "family"
-      ],
-      "coordinates": [
-        42.35,
-        19.82
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albanian_Hot_Springs.jpg/600px-Albanian_Hot_Springs.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albanian_Hot_Springs.jpg/600px-Albanian_Hot_Springs.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Vukaj Hot Springs&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vukaj Hot Springs@42.35,19.82",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.1,
-      "pros": "天然温泉，在山区徒步后放松的好去处",
-      "cons": "设施简单，卫生条件一般",
+      "id": "kru-bori",
+      "name": "Borshi Castle",
+      "nameZh": "博爾什城堡",
+      "city": "Borsh",
+      "cityZh": "博爾什",
+      "region": "riviera",
+      "category": "historic",
+      "tags": ["history", "architecture", "sunset"],
+      "coordinates": [40.060, 19.690],
+      "description": "博爾什城堡位於里維耶拉公路沿線的山丘上，可俯瞰博爾什海灘與蔚藍的亞得里亞海。城堡建於中世紀，儘管現存結構不多，但站在城堡遺址處可享受360度的海岸線全景。城堡保存有古代堡壘的地基與部分塔樓，是體驗里維耶拉歷史與自然結合的去處。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.0,
+      "pros": "俯瞰海岸全景，游客很少",
+      "cons": "遗迹较少，历史文化不多",
       "cost": "免费",
-      "bestTime": "全年皆可",
-      "tips": "带毛巾，注意水温度"
+      "bestTime": "傍晚（日落）",
+      "tips": "可和博尔什海滩一起安排",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Borshi+Castle&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Borshi+Castle@40.060,19.690"
     },
     {
-      "id": "div-kruja-1",
-      "name": "Kruja Castle",
-      "nameZh": "克魯亞城堡",
+      "id": "kru-sari",
+      "name": "Sari Salt Factory",
+      "nameZh": "薩里鹽廠",
       "city": "Kruja",
       "cityZh": "克魯亞",
       "region": "central",
       "category": "historic",
-      "tags": [
-        "history",
-        "architecture"
-      ],
-      "coordinates": [
-        41.507,
-        19.8
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG/960px-Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG/960px-Castillo_de_Kruja%2C_Kruja%2C_Albania%2C_2014-04-18%2C_DD_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Kruja Castle&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kruja Castle@41.507,19.8",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.5,
-      "pros": "民族英雄斯坎德培的城堡，历史意义重大",
-      "cons": "周末人潮多，路窄难停车",
+      "tags": ["history", "architecture", "urban"],
+      "coordinates": [41.507, 19.800],
+      "description": "薩里鹽廠位於克魯亞近郊，是阿爾巴尼亞重要的歷史工業遺址。鹽是人類歷史上重要的物資，克魯亞曾因其優越的地理位置而成為鹽的交易中心。雖然鹽廠已停產多年，但建築結構仍保存完好，見證了阿爾巴尼亞傳統產業的歷史變遷。",
+      "bestSeason": "全年皆宜",
+      "suitableFor": ["couple", "solo", "group"],
+      "rating": 3.5,
+      "pros": "工业历史遗迹，独特体验",
+      "cons": "非热门景点，设施简陋",
       "cost": "免费",
-      "bestTime": "春季到秋季",
-      "tips": "平日去較好，配合博物馆一起游览"
+      "bestTime": "任何时间",
+      "tips": "可和克鲁亚城堡一起安排游览",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Sari+Salt+Factory+Kruja&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sari+Salt+Factory+Kruja@41.507,19.800"
     },
     {
-      "id": "div-divjakara-1",
+      "id": "div-lumni",
       "name": "Divjakara Beach",
-      "nameZh": "迪維亞卡拉海灘",
+      "nameZh": "迪維亞卡海灘",
       "city": "Divjakara",
       "cityZh": "迪維亞卡拉",
       "region": "coastal",
       "category": "beach",
-      "tags": [
-        "kid-friendly",
-        "sunset"
-      ],
-      "coordinates": [
-        40.87,
-        19.56
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Albanian_Beach.jpg/600px-Albanian_Beach.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Albanian_Beach.jpg/600px-Albanian_Beach.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Divjakara Beach&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara Beach@40.87,19.56",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.2,
-      "pros": "长海滩，设施完善，适合家庭",
-      "cons": "旺季人多，水质一般",
-      "cost": "免费",
-      "bestTime": "夏季",
-      "tips": "早到抢好位置，带防晒"
-    },
-    {
-      "id": "div-olive-1",
-      "name": "Adriatic Olive Groves",
-      "nameZh": "亞得里亞橄欖林",
-      "city": "Divjakara",
-      "cityZh": "迪維亞卡拉",
-      "region": "coastal",
-      "category": "scenic",
-      "tags": [
-        "instagram-worthy",
-        "sunset"
-      ],
-      "coordinates": [
-        40.9,
-        19.6
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf/page1-500px-Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf/page1-500px-Albania%2C_the_foundling_state_of_Europe_%28IA_albaniafoundling00peac%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "googleSearchUrl": "https://www.google.com/search?q=Adriatic Olive Groves&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adriatic Olive Groves@40.9,19.6",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.3,
-      "pros": "千年橄榄园，田园风光，適合摄影",
-      "cons": "位置分散，需要开车",
-      "cost": "免费",
-      "bestTime": "秋季（橄榄采收季）",
-      "tips": "秋季前往可参与采收体验"
-    },
-    {
-      "id": "div-leng-1",
-      "name": "Lengar Cliff",
-      "nameZh": "倫格懸崖",
-      "city": "Lengar",
-      "cityZh": "倫格",
-      "region": "coastal",
-      "category": "scenic",
-      "tags": [
-        "instagram-worthy",
-        "sunset"
-      ],
-      "coordinates": [
-        40.35,
-        19.45
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
+      "tags": ["kid-friendly", "sunset", "nature"],
+      "coordinates": [40.870, 19.560],
+      "description": "迪維亞卡拉海灘是亞得里亞海岸上一處較為原生態的沙灘，灘面寬闘，環境尚未過度開發。海灘緊鄰重要的濕地生態系統，是賞鳥的附加景點。沙灘周圍有鬆散搭建的小木屋餐廳，提供新鮮捕撈的海鮮。適合想要遠離人群、體驗原生態海岸風情的旅客。",
+      "bestSeason": "夏季（6-8月）",
+      "suitableFor": ["family", "couple", "group"],
+      "rating": 4.0,
+      "pros": "原生態沙灘，海鮮新鮮",
+      "cons": "設施簡陋，接近自然但非精品",
+      "cost": "免費",
+      "bestTime": "上午或傍晚",
+      "tips": "在海灘旁的木屋餐廳品嚐海鮮",
       "photos": [],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lengar_M.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "googleSearchUrl": "https://www.google.com/search?q=Lengar Cliff&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lengar Cliff@40.35,19.45",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
-      "rating": 4.1,
-      "pros": "壮丽悬崖，网红打卡地，风景独特",
-      "cons": "完全没有设施，风大",
-      "cost": "免费",
-      "bestTime": "夏季傍晚",
-      "tips": "带防风外套，带广角镜头"
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Divjakara+Beach&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Divjakara+Beach@40.870,19.560"
     },
     {
-      "id": "div-vas-1",
-      "name": "Vashtemi Vineyard",
-      "nameZh": "瓦什泰米酒莊",
-      "city": "Vashtemi",
-      "cityZh": "瓦什泰米",
+      "id": "ohr-church",
+      "name": "Church of Saint Nicholas",
+      "nameZh": "聖尼古拉斯教堂",
+      "city": "Voskopojë",
+      "cityZh": "沃斯科波亞",
       "region": "central",
-      "category": "food",
-      "tags": [
-        "food",
-        "instagram-worthy"
-      ],
-      "coordinates": [
-        40.1,
-        20.18
-      ],
-      "description": "",
-      "bestSeason": "夏季",
-      "suitableFor": [
-        "family",
-        "couple",
-        "solo"
-      ],
-      "photos": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Albanian_Vineyard.jpg/600px-Albanian_Vineyard.jpg"
-      ],
-      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Albanian_Vineyard.jpg/600px-Albanian_Vineyard.jpg",
-      "googleSearchUrl": "https://www.google.com/search?q=Vashtemi Vineyard&tbm=isch",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vashtemi Vineyard@40.1,20.18",
-      "blogLinks": [],
-      "mustBuy": {
-        "tourist": [],
-        "local": []
-      },
+      "category": "historic",
+      "tags": ["history", "architecture", "rural"],
+      "coordinates": [40.550, 20.180],
+      "description": "聖尼古拉斯教堂位於沃斯科波亞村，是該地區重要的東正教宗教建築。教堂建於中世紀，擁有珍貴的宗教壁畫與聖像。沃斯科波亞曾經是巴爾幹重要的宗教與文化中心，教堂見證了該地區的歷史變遷。遊客可在此感受阿爾巴尼亞傳統東正教的莊嚴氛圍。",
+      "bestSeason": "春秋季（4-6月、9-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
+      "rating": 4.1,
+      "pros": "东正教建筑精华，历史意义",
+      "cons": "地理位置偏远，需专门前往",
+      "cost": "免費",
+      "bestTime": "任何时间",
+      "tips": "着装得体，保持安静尊重",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Church+of+Saint+Nicholas+Voskopojë&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Church+of+Saint+Nicholas+Voskopojë@40.550,20.180"
+    },
+    {
+      "id": "ohr-village",
+      "name": "Voskopojë Village",
+      "nameZh": "沃斯科波亞村",
+      "city": "Voskopojë",
+      "cityZh": "沃斯科波亞",
+      "region": "central",
+      "category": "city",
+      "tags": ["architecture", "rural", "history"],
+      "coordinates": [40.550, 20.180],
+      "description": "沃斯科波亞村位於阿爾巴尼亞與北馬其頓邊境附近的山區，海拔約1200米。村莊建於17-18世紀，曾是巴爾幹重要的商隊驛站與宗教中心，擁有眾多教堂與修道院。如今村莊保留大量傳統石屋與教堂建築，是了解巴爾幹山區歷史文化的獨特去處。",
+      "bestSeason": "春季至秋季（4-10月）",
+      "suitableFor": ["family", "couple", "solo", "group"],
       "rating": 4.2,
-      "pros": "當地知名酒莊，葡萄酒品質佳",
-      "cons": "位置偏遠，需預約",
-      "cost": "€10-20（品酒）",
-      "bestTime": "夏季或秋季",
-      "tips": "建議預約導覽，品嚐當地紅酒"
+      "pros": "历史建筑丰富，游客极少",
+      "cons": "交通不便，需开车前往",
+      "cost": "免費",
+      "bestTime": "6-9月",
+      "tips": "和聖尼古拉斯教堂一起遊覽",
+      "photos": [],
+      "photoUrl": "",
+      "googleSearchUrl": "https://www.google.com/search?q=Voskopojë+Village&tbm=isch",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Voskopojë+Village@40.550,20.180"
     }
   ]
 }
